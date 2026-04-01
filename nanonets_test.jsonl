@@ -1,0 +1,2924 @@
+[
+0:{
+"page":0
+"words":[
+0:{
+"text":"/"
+"xmin":160
+"ymin":530
+"xmax":215
+"ymax":585
+}
+1:{
+"text":"t"
+"xmin":202
+"ymin":535
+"xmax":246
+"ymax":586
+}
+2:{
+"text":"/"
+"xmin":225
+"ymin":532
+"xmax":288
+"ymax":591
+}
+3:{
+"text":"I"
+"xmin":270
+"ymin":552
+"xmax":309
+"ymax":591
+}
+4:{
+"text":"/"
+"xmin":285
+"ymin":536
+"xmax":413
+"ymax":639
+}
+5:{
+"text":"t"
+"xmin":384
+"ymin":581
+"xmax":431
+"ymax":632
+}
+6:{
+"text":","
+"xmin":486
+"ymin":611
+"xmax":515
+"ymax":641
+}
+7:{
+"text":"5o"
+"xmin":608
+"ymin":1386
+"xmax":872
+"ymax":1693
+}
+8:{
+"text":"r"
+"xmin":681
+"ymin":1360
+"xmax":730
+"ymax":1426
+}
+9:{
+"text":"4"
+"xmin":901
+"ymin":1419
+"xmax":928
+"ymax":1430
+}
+10:{
+"text":"0"
+"xmin":826
+"ymin":1489
+"xmax":849
+"ymax":1580
+}
+11:{
+"text":"1"
+"xmin":723
+"ymin":1658
+"xmax":770
+"ymax":1710
+}
+12:{
+"text":"h"
+"xmin":827
+"ymin":1534
+"xmax":1035
+"ymax":1738
+}
+13:{
+"text":"0."
+"xmin":618
+"ymin":1756
+"xmax":772
+"ymax":1822
+}
+14:{
+"text":"("
+"xmin":949
+"ymin":1773
+"xmax":1091
+"ymax":1919
+}
+15:{
+"text":"7"
+"xmin":1207
+"ymin":1799
+"xmax":1280
+"ymax":1904
+}
+16:{
+"text":"SD"
+"xmin":185
+"ymin":1985
+"xmax":676
+"ymax":2149
+}
+17:{
+"text":"A"
+"xmin":940
+"ymin":2068
+"xmax":1010
+"ymax":2131
+}
+18:{
+"text":"h"
+"xmin":1008
+"ymin":2093
+"xmax":1032
+"ymax":2125
+}
+19:{
+"text":"I"
+"xmin":1038
+"ymin":2088
+"xmax":1054
+"ymax":2125
+}
+20:{
+"text":"A"
+"xmin":1067
+"ymin":2191
+"xmax":1094
+"ymax":2205
+}
+21:{
+"text":"4"
+"xmin":1067
+"ymin":2197
+"xmax":1097
+"ymax":2213
+}
+22:{
+"text":"MODUL"
+"xmin":62
+"ymin":2494
+"xmax":803
+"ymax":2644
+}
+23:{
+"text":"f"
+"xmin":869
+"ymin":2284
+"xmax":1133
+"ymax":2505
+}
+24:{
+"text":"O"
+"xmin":893
+"ymin":2245
+"xmax":1016
+"ymax":2375
+}
+25:{
+"text":"I"
+"xmin":1023
+"ymin":2369
+"xmax":1037
+"ymax":2385
+}
+26:{
+"text":"PRAKTIKUM"
+"xmin":73
+"ymin":2721
+"xmax":1344
+"ymax":2868
+}
+27:{
+"text":"Praktikum"
+"xmin":64
+"ymin":2943
+"xmax":651
+"ymax":3023
+}
+28:{
+"text":"Pemrograman"
+"xmin":64
+"ymin":3053
+"xmax":859
+"ymax":3151
+}
+29:{
+"text":"Komputer"
+"xmin":890
+"ymin":3053
+"xmax":1465
+"ymax":3151
+}
+30:{
+"text":"2025"
+"xmin":1461
+"ymin":3053
+"xmax":1751
+"ymax":3131
+}
+]
+"raw_text":"/ t / I / t , 5o r 4 0 1 h 0. ( 7 SD A h I A 4 MODUL f O I PRAKTIKUM Praktikum Pemrograman Komputer 2025 "
+}
+1:{
+"page":1
+"words":
+[0 - 100]
+[100 - 131]
+"raw_text":"DAFTAR ISI DAFTAR ISI i .. a TATA TERTIB : MODUL IPYTHON DASAR 1.1 Python 1 1.2 Cara Penginstalan Python dan VSCode 2 1.3 Cara Penggunaan Python 7 1.4 Kelebihan dan Kekurangan Pada Python 10 1.5 Variabel. Tipe Data, dan Operator 10 1.6 Kontrol Program Pada Python 16 1.7 Fungsi dan Parameter 19 MODUL IT GUI 1 Graphical User Interface) : . : 21 2.1 Pengenalan GUI ( Graphical User Interface) dan PySide2 21 2.2 Widget dan Dialog 21 2.3 Manajemen Tata Letak Layout) 29 2.4 Visualisasi Data Python 31 MODUL III WEBSITE STATIS . .35 3.1 HTML 35 3.2 CSS 46 3.3 Django 51 3.4 Text Editor 62 MODUL IV WEBSITE DINAMIS ...64 4.1 Database 64 4.2 XAMPP dan Pembuatan Database 68 4.3 Django Administration 76 DAFTAR PUSTAKA .. .79 "
+}
+2:{
+"page":2
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 275]
+"raw_text":"TATA TERTIB PRAKTIKUM PEMROGRAMAN KOMPUTER 2025 Ketentuan Praktikum Semua praktikan waiib bergabung ke dalam grub WhatsApp Praktikum Pemrograman Komputer 2025 I Tidak ada toleransi keterlambatan dalam pengumpulan Tugas Pendahuluan I Pre-Test T Praktikum Post Test Praktikum Laporan | dan ACC Paham Apabila terlambat praktikum akan dikenakan inhal sesuai ketentuan antara praktikan dan asisten. Apabila teriadi permasalahan dalam pengumpulan tugas (koneksi, error mati listrik dsb | bisa segera menghubungi asisten pengampu masing * masing. Tidak ada toleransi terhadap segala bentuk kecurangan plagiarism, dan hal-hal sejenis Praktikan yang mclanggar 1 kali akan diberikan sanksi berupa penguragan nilai hingga memberi nilai 0 untuk asistensi laporan dan pemahaman untuk modul yang bersangkutan Untuk praktikan yang terbukti melanggar lebih dari satu kali maka sanksi terberat adalah praktikan dinyatakan gagal mengikuti Praktikum Pemrograman Komputer dan akan mengulang pada periode praktikumnya berikutnya. Segala kegiatan praktikum diwaiibkan membawa kartu praktikum dan cocard Ketentuan lebih laniut akan disampaikan pada berjalannya praktikum Kehadiran Praktikum Semua Praktikan waiib hadir tepat waktu sebelum praktikan dimulai atau akan dikenakan sanksi 1. yaitu Keterlambatan < 10 menit diperkenankan praktikum E tetapi waktu pengerjaan Pre-Test dikurangi sebanyak keterlambatan Keterlambatan 10-15 menit diperkenankan mengikuti praktikum tanpa ada Pre-Test. Keterlambatan > 15 menit tidak diperkenankan mengikuti praktikum dan diberikan inhal Praktikan harus datang sesuai iadwal ( shift ). Asisten tidak menerima alasan apapun terkait pelanggaran tersebut kecuali yang telah ditetapkan pada poin selanjutnya dan praktikan yang bersangkutan dipersilahkan keluar dari ruang praktikum Jika ingin tukar jadwal maka waiib konfirmasi kepada asisten maksimal 1 hari sebelum praktikum berlangsung | Bagi praktikan yang berhalangan hadir karena Sakit. praktikan waiib memberi tahu asisten dan membawa surat keterangan dokter maksimal 2 hari setelah tanggal praktikan I "
+}
+3:{
+"page":3
+"words":
+[0 - 100]
+[100 - 140]
+"raw_text":"berhalangan Jika melanggar maka praktikan tersebut dianggap tidak mengikuti praktikum tanpa keterangan Izin | praktikan waiib menyerahkan surat keterangan ( izin ) maksimal hari sebelum praktikum pada hari yang berhalangan Jika melanggar maka praktikan tersebut dianggap tidak mengikuti praktikum tanpa keterangan Terkena musibah praktikan wajib memberi tahu asisten maksimal 1 hari setelah shift yang bersangkutan berlangsung Jika melanggar maka praktikan tersebut dianggap tidak mengikuti praktikum tanpa keterangan Tanpa keterangan | praktikan tersebut dianggap tidak mengikuti praktikum Selain itu | praktikan juga mendapatkan sanksi nilai i0 dari nilai praktikum untuk modul yang bersangkutan Praktikan yang tidak hadir ( sakit/izin/tanpa keterangan ) sebanyak lebih dari satu kali dinyatakan gagal mengikuti Praktikum Pemrograman Komputer dan harus mengulang kembali di periode berikutnya. Bagi praktikan yang berhalangan hadir harus mengikuti praktikum susulan dan dikenakan inhal Praktikum Tahapan/alur Praktikum Pemrograman Komputer adalah sebagai berikut * 1 "
+}
+4:{
+"page":4
+"words":
+[0 - 100]
+[100 - 101]
+"raw_text":"Mulai Tugas Pendahuluan Pre Test Praktikum Video praktikum Penugasan Praktikum Asistensi ACC Paham Evaluasi Post Test Selesai Modul dan kartu praktikum milik sendiri waiib dibawa saat praktikum Jika tidak membawa salah satu atau keduanya maka diberikan sanksi -30 poin dari nilai praktikum untuk modul yang bersangkutan TP ( Tugas Pendahuluan merupakan syarat utama untuk mengikuti praktikum dan harus dikumpulkan tepat waktu Nilai TP minimal adalah 55.Jika tidak memenuhi maka dikenakan sanksi review 1 1 jurnal nasional tentang modul terkait dengan batas pengumpulan sebelum praktikum modul selanjutnya Apabila diketahui terdapat plagiarisme dalam TP maka nilai TP ( pemberi dan penerima | iv "
+}
+5:{
+"page":5
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 219]
+"raw_text":"Asistensi dan Laporan Asistensi merupakan kegiatan konsultasi yang dilakukan praktikan dengan asisten dalam menyelesaikan penugasan program dan laporan praktikum sesuai ketentuan Asistensi dilaksanakan setelah selesai praktikum untuk modul yang bersangkutan Tata cara I waktu | dan tempat asistensi diatur sepenuhnya oleh asisten dengan segala pertimbangan dan kesepakatan bersama. Setiap kegiatan asistensi praktikan wajib membawa lembar asistensi untuk modul yang bersangkutan. Asisten berhak menolak asistensi iika praktikan tidak membawa lembar asistensi tersebut. Laporan praktikum yang dinyatakan sesuai ketentuan akan mendapatkan ketcrangan ACC ( disetujui | pada lembar asistensi. Laporan akan di ACC apabila praktikan telah paham dengan modul yang bersangkutan dari praktikum | program laporan T dan sebagainya. Praktikan yang laporannya tidak di ACC sebanyak 2 kali dinyatakan gagal mengikuti Praktikum Pemrograman Komputer dan harus mengulang kembali di periode berikutnya. Proporsi Nilai Komposisi nilai untuk semua modul adalah TP 5% Laporan 10% Pre-Test 5% Pemahaman 20% Praktikum 15% Post-Test 25% Asistensi 15% Attitude 5% Catatan Selain pelanggaran yang telah dijelaskan (ienis dan bobot sanksi di atas untuk setiap pelanggaran oleh praktikan akan dikenakan peringatan Berikut aturan sanksi yang akan diberikan Peringatan L praktikan hanya mendapatkan teguran dan tidak diberikan sanksi poin Peringatan IL. praktikan mendapatkan sanksi _ 15 poin dari nilai akhir untuk Praktikum Pemograman Komputer Peringatan II. praktikan mendapatkan sanksi -25 poin dari nilai akhir untuk Praktikum Pemograman Komputer "
+}
+6:{
+"page":6
+"words":[
+0:{
+"text":"Tata"
+"xmin":623
+"ymin":367
+"xmax":710
+"ymax":400
+}
+1:{
+"text":"tertib"
+"xmin":724
+"ymin":366
+"xmax":825
+"ymax":400
+}
+2:{
+"text":"praktikum"
+"xmin":842
+"ymin":367
+"xmax":1042
+"ymax":409
+}
+3:{
+"text":"bisa"
+"xmin":1059
+"ymin":366
+"xmax":1137
+"ymax":400
+}
+4:{
+"text":"beribah"
+"xmin":1150
+"ymin":366
+"xmax":1296
+"ymax":400
+}
+5:{
+"text":"sesuai"
+"xmin":1315
+"ymin":367
+"xmax":1430
+"ymax":400
+}
+6:{
+"text":"dengan"
+"xmin":1447
+"ymin":367
+"xmax":1589
+"ymax":411
+}
+7:{
+"text":"situasi"
+"xmin":1606
+"ymin":367
+"xmax":1729
+"ymax":400
+}
+8:{
+"text":"dan"
+"xmin":1744
+"ymin":367
+"xmax":1811
+"ymax":400
+}
+9:{
+"text":"kondisi"
+"xmin":1827
+"ymin":366
+"xmax":1973
+"ymax":401
+}
+10:{
+"text":"selama"
+"xmin":1990
+"ymin":367
+"xmax":2124
+"ymax":400
+}
+11:{
+"text":"Praktikum"
+"xmin":473
+"ymin":432
+"xmax":677
+"ymax":466
+}
+12:{
+"text":"Pemrograman"
+"xmin":710
+"ymin":433
+"xmax":987
+"ymax":477
+}
+13:{
+"text":"Komputer"
+"xmin":1021
+"ymin":433
+"xmax":1223
+"ymax":475
+}
+14:{
+"text":"berlangsung"
+"xmin":1252
+"ymin":432
+"xmax":1494
+"ymax":478
+}
+15:{
+"text":"atas"
+"xmin":1527
+"ymin":438
+"xmax":1600
+"ymax":466
+}
+16:{
+"text":"persetujuan"
+"xmin":1633
+"ymin":432
+"xmax":1858
+"ymax":474
+}
+17:{
+"text":"koordinator"
+"xmin":1892
+"ymin":432
+"xmax":2124
+"ymax":467
+}
+18:{
+"text":"praktikum"
+"xmin":474
+"ymin":498
+"xmax":675
+"ymax":540
+}
+19:{
+"text":"dan"
+"xmin":691
+"ymin":499
+"xmax":759
+"ymax":533
+}
+20:{
+"text":"dosen"
+"xmin":775
+"ymin":499
+"xmax":889
+"ymax":533
+}
+21:{
+"text":"pengampu"
+"xmin":904
+"ymin":509
+"xmax":1107
+"ymax":543
+}
+22:{
+"text":"praktikum"
+"xmin":1124
+"ymin":499
+"xmax":1324
+"ymax":540
+}
+23:{
+"text":"Semua"
+"xmin":1356
+"ymin":498
+"xmax":1488
+"ymax":533
+}
+24:{
+"text":"tata"
+"xmin":1504
+"ymin":504
+"xmax":1573
+"ymax":532
+}
+25:{
+"text":"tertib"
+"xmin":1588
+"ymin":499
+"xmax":1688
+"ymax":532
+}
+26:{
+"text":"diatas"
+"xmin":1705
+"ymin":499
+"xmax":1819
+"ymax":532
+}
+27:{
+"text":"dibuat"
+"xmin":1835
+"ymin":498
+"xmax":1957
+"ymax":532
+}
+28:{
+"text":"semata"
+"xmin":1973
+"ymin":504
+"xmax":2124
+"ymax":533
+}
+29:{
+"text":"mata"
+"xmin":473
+"ymin":570
+"xmax":567
+"ymax":599
+}
+30:{
+"text":"demi"
+"xmin":583
+"ymin":565
+"xmax":680
+"ymax":597
+}
+31:{
+"text":"terciptanya"
+"xmin":696
+"ymin":565
+"xmax":916
+"ymax":608
+}
+32:{
+"text":"praktikum"
+"xmin":929
+"ymin":565
+"xmax":1130
+"ymax":606
+}
+33:{
+"text":"yang"
+"xmin":1148
+"ymin":575
+"xmax":1242
+"ymax":607
+}
+34:{
+"text":"tertib"
+"xmin":1258
+"ymin":565
+"xmax":1361
+"ymax":597
+}
+35:{
+"text":"|"
+"xmin":1359
+"ymin":579
+"xmax":1369
+"ymax":593
+}
+36:{
+"text":"prosedural"
+"xmin":1388
+"ymin":565
+"xmax":1597
+"ymax":606
+}
+37:{
+"text":"dan"
+"xmin":1624
+"ymin":565
+"xmax":1691
+"ymax":599
+}
+38:{
+"text":"disiplin"
+"xmin":1708
+"ymin":564
+"xmax":1853
+"ymax":608
+}
+39:{
+"text":"Menyetujui,"
+"xmin":1179
+"ymin":762
+"xmax":1417
+"ymax":803
+}
+40:{
+"text":"Dosen"
+"xmin":710
+"ymin":896
+"xmax":834
+"ymax":930
+}
+41:{
+"text":"Pengampu"
+"xmin":850
+"ymin":896
+"xmax":1059
+"ymax":941
+}
+42:{
+"text":"Kepala"
+"xmin":1498
+"ymin":896
+"xmax":1637
+"ymax":939
+}
+43:{
+"text":"Laboratorium"
+"xmin":1651
+"ymin":895
+"xmax":1921
+"ymax":929
+}
+44:{
+"text":"Praktikum"
+"xmin":528
+"ymin":961
+"xmax":732
+"ymax":995
+}
+45:{
+"text":"Pemrograman"
+"xmin":748
+"ymin":962
+"xmax":1025
+"ymax":1004
+}
+46:{
+"text":"Komputer"
+"xmin":1043
+"ymin":962
+"xmax":1244
+"ymax":1006
+}
+47:{
+"text":"Teknik"
+"xmin":1557
+"ymin":962
+"xmax":1696
+"ymax":995
+}
+48:{
+"text":"Industri"
+"xmin":1712
+"ymin":962
+"xmax":1863
+"ymax":995
+}
+49:{
+"text":"Purwo"
+"xmin":618
+"ymin":1334
+"xmax":739
+"ymax":1365
+}
+50:{
+"text":"Setiawan"
+"xmin":753
+"ymin":1334
+"xmax":918
+"ymax":1367
+}
+51:{
+"text":"S.T.."
+"xmin":944
+"ymin":1334
+"xmax":1028
+"ymax":1367
+}
+52:{
+"text":"M.Sc"
+"xmin":1042
+"ymin":1334
+"xmax":1143
+"ymax":1365
+}
+53:{
+"text":"r"
+"xmin":1384
+"ymin":1341
+"xmax":1406
+"ymax":1359
+}
+54:{
+"text":"Hafidh"
+"xmin":1432
+"ymin":1335
+"xmax":1568
+"ymax":1370
+}
+55:{
+"text":"Munawir"
+"xmin":1584
+"ymin":1336
+"xmax":1768
+"ymax":1370
+}
+56:{
+"text":"S.T."
+"xmin":1792
+"ymin":1335
+"xmax":1871
+"ymax":1370
+}
+57:{
+"text":"M.Eng.)"
+"xmin":1900
+"ymin":1336
+"xmax":2063
+"ymax":1380
+}
+58:{
+"text":"Mengetahui"
+"xmin":1174
+"ymin":1468
+"xmax":1411
+"ymax":1510
+}
+59:{
+"text":"Ketua"
+"xmin":1160
+"ymin":1600
+"xmax":1274
+"ymax":1633
+}
+60:{
+"text":"Jurusan"
+"xmin":1289
+"ymin":1600
+"xmax":1437
+"ymax":1635
+}
+61:{
+"text":"Teknik"
+"xmin":1145
+"ymin":1667
+"xmax":1282
+"ymax":1701
+}
+62:{
+"text":"Industri"
+"xmin":1300
+"ymin":1667
+"xmax":1450
+"ymax":1701
+}
+63:{
+"text":"(Ir"
+"xmin":871
+"ymin":2063
+"xmax":917
+"ymax":2092
+}
+64:{
+"text":"Dr"
+"xmin":943
+"ymin":2063
+"xmax":995
+"ymax":2096
+}
+65:{
+"text":"Etika"
+"xmin":1022
+"ymin":2062
+"xmax":1124
+"ymax":2096
+}
+66:{
+"text":"Muslimah"
+"xmin":1139
+"ymin":2062
+"xmax":1337
+"ymax":2096
+}
+67:{
+"text":"S.T.,"
+"xmin":1368
+"ymin":2062
+"xmax":1460
+"ymax":2100
+}
+68:{
+"text":"M."
+"xmin":1476
+"ymin":2063
+"xmax":1524
+"ymax":2096
+}
+69:{
+"text":".M.,"
+"xmin":1523
+"ymin":2063
+"xmax":1599
+"ymax":2100
+}
+70:{
+"text":"M.T.)"
+"xmin":1614
+"ymin":2063
+"xmax":1727
+"ymax":2099
+}
+71:{
+"text":"Vi"
+"xmin":2255
+"ymin":3365
+"xmax":2287
+"ymax":3391
+}
+]
+"raw_text":"Tata tertib praktikum bisa beribah sesuai dengan situasi dan kondisi selama Praktikum Pemrograman Komputer berlangsung atas persetujuan koordinator praktikum dan dosen pengampu praktikum Semua tata tertib diatas dibuat semata mata demi terciptanya praktikum yang tertib | prosedural dan disiplin Menyetujui, Dosen Pengampu Kepala Laboratorium Praktikum Pemrograman Komputer Teknik Industri Purwo Setiawan S.T.. M.Sc r Hafidh Munawir S.T. M.Eng.) Mengetahui Ketua Jurusan Teknik Industri (Ir Dr Etika Muslimah S.T., M. .M., M.T.) Vi "
+}
+7:{
+"page":7
+"words":[
+0:{
+"text":"Modu"
+"xmin":166
+"ymin":277
+"xmax":1246
+"ymax":484
+}
+1:{
+"text":"PythonDasar"
+"xmin":158
+"ymin":562
+"xmax":960
+"ymax":697
+}
+2:{
+"text":"a"
+"xmin":1399
+"ymin":1566
+"xmax":1417
+"ymax":1581
+}
+3:{
+"text":"a"
+"xmin":1426
+"ymin":1662
+"xmax":1444
+"ymax":1685
+}
+4:{
+"text":"o"
+"xmin":1437
+"ymin":1634
+"xmax":1469
+"ymax":1676
+}
+5:{
+"text":"UAN"
+"xmin":334
+"ymin":1925
+"xmax":364
+"ymax":1933
+}
+6:{
+"text":"Isma"
+"xmin":1339
+"ymin":1929
+"xmax":1526
+"ymax":1980
+}
+7:{
+"text":"Fuad"
+"xmin":493
+"ymin":2291
+"xmax":698
+"ymax":2362
+}
+8:{
+"text":"Tristh"
+"xmin":2076
+"ymin":2275
+"xmax":2373
+"ymax":2340
+}
+]
+"raw_text":"Modu PythonDasar a a o UAN Isma Fuad Tristh "
+}
+8:{
+"page":8
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 315]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 MODUL PYTHON DASAR A. Tujuan Praktikum Praktikum Modul 1 | Python Dasar memiliki tujuan sebagai berikut 1. Mampu mengenali bahasa pemrograman Python serta seiarah perkembangannya. 2. Mampu memahami kelebihan dan kekurangan bahasa pemrograman Python 3 Mampu memahami konsep dan struktur bahasa pemrograman Python. 4. Mampu meneriemahkan algoritma dan flowchrat menjadi sebuah program menggunakan Python 5. Mampu membuat program aplikasi sederhana untuk menyelesaikan permasalahan dan perkuliahan. B. Landasan Teori 1.1 Python 1.1.1 Definisi Python Python adalah bahasa pemrograman dinamis | tingkat tinggi, di mana Python mcrupakan bahasa pemrograman interpreter yaitu bahasa yang mengkonversi source code menjadi machine code secara langsung ketika program diialankan Bahasa ini juga mendukung pendekatan pemrograman Berorientasi Objek untuk pengembangan aplikasi dan mudah dipelajari serta menyediakan banyak struktur data tingkat tinggi. Python sebagai bahasa skrip yang mudah dipelajari namun kuat dan scrbaguna, yang membuatnya menarik untuk Pengembangan Aplikasi Sintaks dan pengetikan Python sangat dinamis dengan sifat interpretasinya menjadikannya bahasa yang ideal untuk skrip dan pengembangan aplikasi yang cepat. Python mendukung banyak pola pemrograman termasuk gaya pemrograman berorientasi objek imperatif dan fungsional serta prosedural ( Santos. et al.. 2024 ' Python didukung di berbagai platform | sehingga dapat berjalan di berbagai sistem operasi seperti Linux/Unix X Windows Mac OS X Java Virtual Machine | OS/2. Amiga, Palm | dan Symbian I serta dapat digunakan untuk berbagai aplikasi mulai dari pengembangan web I aplikasi hingga kecerdasan buatan Python dapat diperoleh dan digunakan secara bebas oleh siapapun | bahkan bagi para developer yang menggunakan bahasa pemrograman ini untuk keperluan komersial I Namun demikian | penggunaan packages atau module dari pihak ketiga, mungkin saia membutuhkan lisensi yang berbeda. misalnya lisensi berbayar 1.1.2 Sejarah Python Python pertama kali dirancang oleh Guido Van Rossum pada akhir tahun 1980-an di Centrum Wiskunde & Informatica ( CWI) di Belanda, versi terakhir yang dikeluarkan CWI adalah 1.2 tahun 1995 kemudian Guido pindah ke Corporation "
+}
+9:{
+"page":9
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 383]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 National Research Initiatives ( CNRI) sambil terus melanjutkan pengembangan python Pada bulan Mei 2000 ) Guido dan tim Python pindah ke BeOpen,com dan membentuk tim BeOpen PythonLabs. Pada tahun 2001, dibentuklah organisasi Python yaitu Python Software Foundation (PSF " Nama Python sendiri diambil dari acara televisi favorit van rossum saat itu yaitu c 1 Monty Python 's Flying Circus" Tujuan utama pembuatannya adalah untuk membuat bahasa pemrograman yang mudah dibaca, tapi 1 juga kuat. Python terinspirasi dari Bahasa pemrograman ABC yang mengutamakan kejelasan kode yang ringkas. Filosofi Python dikenal melalui Zen of Python 2 yang mencakup prinsip seperti, c Bacaan yang indah lebih diutamakan daripada penulisan yang indah dan "sebaiknya hanya ada satu cara yang jelas untuk melakukannya 9 Beberapa momen penting dalam sejarah Python yaitu 1 Python 1.0 1 dirilis pada Januari 1994 - versi ini menampilkan fitur dasar Python yang masih digunakan hingga saat ini seperti penanganan pengecualian dan dukungan untuk fungsi dan modul | 2. Python 2.0 | dirilis pada Oktober 2000 I versi ini menghadirkan fitur fitur penting seperti dukungan unicode dan garbage collector yang lebih baik. 3. Python 3.0 | dirilis pada Desember 2008, versi ini dikenal sebagai versi yang C 'memecah kompatibilitas dengan versi sebelumnya 1. karena beberapa perubahan pada sintaks dan fitur Namun | Python 3 dirancang untuk menjadi 1 1.2 Cara Penginstalan Python dan VSCode Pada pemrograman Python perlu dilakukannya instalasi Python terlebih dahulu pada komputer yang akan digunakan Maka setelah itu interpreter Python dapat dijalankan. Python interpreter berfungsi untuk membaca kode perintah dalam bahasa Python dan memproses kode-kode yang dipahami komputer a. Untuk mengunduh Python 3.8.3 maka buka browser lalu kunjungi situs resmi yaitu www.python.org | Welcome to Pvthonore python.org & 5 Pvthor DS Docs PvP ab Communit python * 1 Donate C Search Sorialize About Downloads Documentation Community Surcecs Stories News Events a sibonacci series Functions Defined def fib(n) The coreofextensible programmingisdefining functions Pythonallows mandaton and optionalarguments keyword le arguments and ever arbitran argument lists Moreabout int defininefunctionsinPython 1 nte ib(1000 1123581 21 3455 89 144 233 377 618 987 manns Pvthon is programming language thatlets you work quickly and integrate systems more effectively. >> Learn More 26% a Seard B / L d C A a 0R38 17/02/2025 Gambar 1.1 Situs Resmi Python 2 "
+}
+10:{
+"page":10
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 322]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 b Setelah mengunjungi situs resmi maka akan muncul tampilan penginstalan Python yang terdapat banyak versi idan pilih download versi Python 3.8.3. Download Python Pythonorg : python.org/downloads securit 2020-10.05 2025-10 PEPS0 endoffe last release was 38,20 2019 10-14 2024-10-07 DE 56 Looking for a specific release? Pvthon releases by version number Release version Release date Click for more Pvthor 3,8.4 Julv13.2020 Doanload Release Noter Pythor 37 June27.2020 a Donload Dlease Note Pvthor 3,6.11 June27.2020 Download Release Note Pythor 3A Mau 13 2020 & Download Ralease Notes Pythor 271 April20 2020 Denloa Dalea Note Pvthor 1.7.7 March 10 2020 Donloar Release Note Pythor 3.8.2 Coh34 2020 Deanload Relcase Notes View older releases 20 C Search TA a a I 08 n ae 1703/202 Gambar 1.2 Menginstal Python 3.8.3 C. Pada package python sesuaikan dengan spesifikasi laptop Pilih windows installer ( 64-bit). Instal file yang sudah terunduh dengan membuka file Python Lalu pastikan untuk checklist pada Add Python 3.8 to PATH kemudian klik opsi Install Now dan tunggu hingga proses penginstalan selesai. I E s ThisPC Firefo PowerDoin aDrawinn SOLIDWG eamabor 20216 ocnedio the te a W Recvde Din GON Player SOLDIO SOLIDWO 202 Composer Pvthor 3.8 (64-bit Setur a Install Python 3.8.3 (64-bit) act Good CIL COUIDW ReaderD Select Instal Now to instal Pvthor with default settings or choose Chrome UTAMIC Compos Customize to enable or disable features Ps I Adh Pasa Visua OR a - Instal Now SuudH Sturd CAUsersASUSLApoDatalLoc ProgramsiPythoniPythond Phntosh Code Include IDLE pip and documentation Creates shortcuts and fl association AIME Alun DS Wore Cherted Customize installation Choose location andfeatures Ccleane Exce 7an Worknlace python O Instal launcher for al users (recommended - windows a Add Python 3.8 PATH Cance Core Plave PHOTO-PA a Stonwatch 1S CorelDRAV Microcof DLEPutbon SOUDWO 2020(64-Bit Kdo 3864.bit Comnd 6 26 Berawan a Search a a 085 di - 17/02/2025 Gambar 1.3 Pop Up Pemasangan Python 3 "
+}
+11:{
+"page":11
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 257]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 d. Jika proses penginstalan sudah selesai maka akan muncul tampilan seperti gambar di bawah ini. kemudian klik close maka Python versi 3.8.3 sudah terinstal. we S C This SPC Frefo PowerDain eDrawings SOUDWI carn abor 202- be cnacior h niare % RervdeRir GON Playe SOUDWO SOUDWO on Compoce Pvthon 383 (64-bir Setun Setup was successful oh Gonal TOISU SoUDWO ReaderD Chrome LTAMLG Comnnd Specia thanks to Mark Hammond withou whose vears Ps freelv shared Windows expertise Python for Windows would stil be Pvthon for DOS Pres Vsal Stud- OBS Studio Photed Code a Now Pvthoni Stact with the onlinetutoria and documentation AIMD AkOH Word See what's.nev this release Chota Disable path lenath limit Changes vou machine configuration to allow programs includinaPvthor bypas the 260.character MAX.PATH limitation CCleane Exc 7oan Workplace python windows Close Corel ediaPlave PHOTO PAI a aeeic Stonwatch CorelDRAV Microcof IDLE(Pytho SOUDWO 202064.B dor 2864.bi Compo 6 26' o Rerawar O 08:55 Search 17/02/2025 Gambar 1.4 Pop Up Berhasil Menginstal Python Penginstalan VSCode a Buka browser lalu ketikkan Visual Studio Code. Pilih situs resmi untuk melakukan penginstalan. Lalu klik downloadfor windows X Visua Studir Cod Codetdit codevisualstudio.con Visual Studio Code Docs Undates Bloc API Extensions FAC GitHu Conilot , p Searct Doc Dewnload Ge GitHubCopilotFree inVs Code Your code editor. Redefined with Al. Download for Windows Get Copilot Free W Insider edition or other olatforms o wordle -clone Ann.tsx + O I NEW Q Smarch A 22 Dalan Can 26/00/2035 Gambar 1.5 Situs Resmi Visual Studio Code "
+}
+12:{
+"page":12
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 220]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 b. Setelah download maka buka setup Microsoft Visual Studio Code lalu ceklist bagian I accept the agreement kemudian klik tombol next X Setup Microsoft Visual Studic Code (User | X License Agreement Please read the following important information before continuing X Please read the followind License Agreement You must accept the terms of this agreement before continuing with the installation This license applies to the Visual Studio Code product Source Code for Visual Studio Code is available at https/qithubcom/Microsoft/vscod under the MIT license agreement at htos/aithubcon/micosot/scodeblobmanMLICENSEt Additional license information can be found in our FAQ at https://code visualstudio com/docs/supportina/fac MICROSOFT SOFTWARE LICENSE TERMS MICROSOFT VISUAL STUDIO CODE Thore liconce tormr ard an agroomont botuoor you and Microrof Cornoratior for OI accept the agreement OI do not accept the agreement Next Cance Gambar 1.6 Pop Up Setup VSCode C. Pilih lokasi instalasi untuk Visual Studio Code pada direktori C X Setup Microsoft Visual Studio Code (User x Select Destination Location Where should Visual Studic Code be installed? Setup will instal Visua Studic Code into the following folder To continue dick Next T you would like to select different folder click Browse UserslASUSAppDataLoca ProoramsMicrosotsCode Browse At least 406.9 MB of free disk space is required Back Next Cance Gambar 1.7 Lokasi Instalasi VSCode A "
+}
+13:{
+"page":13
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 280]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4. d. Ceklist pada create a desktop icon. agar saat sudah siap install. icon VSCode muncul pada desktop. Lalu ceklist juga bagian Register Code as an editorfor supported file types dan Add to Path kemudian klik next lalu install. X Setup Microsoft Visual Studic Code (User X Select Additional Tasks Which additional tasks should be performed? Select the additional tasks you would like Setup to perform while installing Visua Studio Code then click Next Additiona icons t create desktop icon Other Add "Oper with Code" action to Windows Explorer file context meni O Add "Open with Code" action to Windows Explorer directory context menu M Register Code as an editor for supported file types o Add to DATH (renuires shel restart Back Next Cance Gambar 1.8 Setup VSCode e Buka VSCode kemudian pilih bagian extensions kemudian cari Python | pilih bagian paling atas yang terdapat tanda bintang kemudian klik install. File Edit Selection View Ge Rur Seatd & n L | | r EXTENSIONS MARKETPLAC pvthor = Y 0 Pvthor Debugge 17 P Pvthor Dehunne extension usino deb : Microsof Pvthor 27 Pvthon lancuage support with avtancio O Microsoft Pvlance 1574m Aperformant feature-ric I A lanquace Microsof Pvthor Indent Correc Pvthor indentation Ki na- Pvthonfo VSCode 58 Pvthon lanquage extension ysrode Show All Commands Shif Thomas Haakan Towmsens tal A Oner ca Pvthor Extensior Pack a 10.7 a Popular Visual Studlic Code extension Oner Folder Crl Cr Dor Javamann Intal Oner Recent autoDocstring Pvthor 125 doc Genarate ovthor docstrincs automatic M Werne a Pvthor Environment 00U a OOA O 250 C Searc I i Re a 2717 26/02/2025 Gambar 1.9 Tampilan VSCode 6 "
+}
+14:{
+"page":14
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 320]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 f Untuk membuat file baru | klik file lalu klik pada new file. File Edi Selectice Vipu Go Rur Seard n E C EXFLORIR Lintirled Buur FOLDER OFENED Select Language a fill * temgiote gper different editor to get storted ( Start traind diseds o dor shou this aonin You have not vet cuened folde 9 OnanFolde Openino foldar rlore allcurrenth cpe oditors keen then onen arldla folde instear E I o OUTLINE TIMILIND N 00A In Cal Care LTL C ( PliT C Search , p O W f 21 6IU02 Gambar 1.10 Tampilan New File VSCode 1.3 Cara Penggunaan Python 1.3.1 Membuat Program Python Visual Studio Code adalah Software yang sangat ringan | namun merupakan editor kode sumber yang dapat dijalankan langsung dari desktop. Visual Studio Code digunakan untuk pembuatan kode program yang membutuhkan sebuah aplikasi yang mumpuni I Visual Studio Code bekerja pada berbagai sistem operasi seperti Windows, macOS, dan Linux ( Syarif, et al.. 2023 ). Visual Studio Code o juga dapat digunakan pada berbagai Bahasa pemrograman salah satunya yaitu Python 1.3.2 Menampilkan Data Dengan Perintah Print Pada Python terdapat fungsi print() yang berfungsi untuk mencetak atau menampilkan objck ke output layar atau kefile teks. Fungsi print merupakan fungsi yang paling sederhana untuk menampilkan output Python Selain untuk menampilkan output fungsi print juga digunakan untuk menemukan 1 menghapus dan memperbaiki error atau kesalahan pada sintaks karena apabila terdapat error pada sintaks, fungsi print tidak akan berialan sehingga output tidak akan muncul I a Menggunakan tanda kutip ganda ( | untuk mencetak sebuah kalimat >>> print ( "Selamat Datang pada Praktikum Penrogaman Komputer 2025 | Selamat Datang pada Praktikum Pemrogaman Komputer 2025 Gambar 1.11 Implementasi Tanda Kutip Ganda b. Menggunakan koma tanda koma digunakan untuk pemisah antara dua obiek >>> print Jumlah dari 2020+5 adalah I 2025 1 Jumlah dari 2020+5 adalah 2025 Gambar 1.12 Implementasi Tanda Koma s "
+}
+15:{
+"page":15
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 221]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 C. Menggunakan string formatter digunakan untuk mencetak data dengan format yang diinginkan | melalui penambahan simbol tertentu pada string Berikut ini adalah beberapa stringformatter yang disediakan oleh Python Tabel 1. 1 Tabel String Formatter Python Simbol Keterangan %S Mencetak data meniadi string %d Mencetak angka desimal bertanda Contoh >>> print %s modul %d adalah python dasar I 9 "praktikum | 1) | praktikum modul 1 adalah python dasar Gambar 1.13 Penggunaan String Formatter 1.3.3 Kesalahan Sintaks dan Kesalahan Penamaan Python menyediakan berbagai standar error yang dapat digunakan oleh para programmer untuk menjaga pengembangan aplikasi dari error yang tidak terduga Terdapat kesalahan yang sering muncul saat menialankan program Python adalah SvntaxError NameError dan Indentation Error a. SvntaxError muncul ketika terjadi kesalahan pada penggunaan sintaks Python Contoh >>> print - "praktikum pemrogaman komputer #Tidak menutup Fungsi Print Gambar 1.14 SvntaxError >>> print 'praktikum pemrogaman komputer Gambar 1.15 Perbaikan SvntaxError b NameError ini muncul ketika tidak ditemukannya variabel tidak ditemukan pada lingkup lokal di suatu function serta pada lingkup global | Contoh >>> modul n = python dasar >>> print ( (modul ) python dasar >>> print ( modul ) Gambar 1.16 NameError >>> modul = " 'python dasar >>> print ( modul 1 python dasar >>> print ( (modul 1 Gambar 1.17 Perbaikan NameError 8 "
+}
+16:{
+"page":16
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 231]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 C. IndentationError terjadi ketika ada inkonsistensi dalam penyusunan spasi atau tab yang digunakan untuk menandai blok kode. Contoh >>> X = 12 if X < 8 print I " kurang dari 8 0 1 elif X 8 print I " 'x sama dengan 8 0 1 else print ( "X lebih dari 8" I Gambar 1.18 IndentationError >>> x = 12 >>> if : < 8 | print I " kurang dari 8" elif X 8 print ( "x sama dengan 8 else | print ( "x lebih dari 8" X lebih dari o Gambar 1.19 Perbaikan IndentationError 1.3.4 Input Data Input data pada pemrograman memungkinkan program untuk berinteraksi dengan pengguna. Melalui input, program dapat meminta informasi dari pengguna menggunakan data tersebut untuk menialankan operasi yang diperlukan Dalam Python terdapat fungsi input ( dan raw input ( untuk mengambil input dari keyboard Fungsi input ( digunakan untuk menerima data dalam bentuk angka. Sedangkan raw A input ( untuk menerima input teks. Pada Python 3. kita hanya memerlukan fungsi input ( saja, karena fungsi raw input () sudah digabungkan. Contoh a. Data Jenis String >>> input ( "Masukkan Jenis Kel amin Anda Masukkan Jenis Kelamin Anda Perempuan Perempuan Gambar 1.20Data String b. Data Jenis Numerik >>> input 'Masukkan Nomor Telepon Anda I 1 Masukkan Nomor Telepon Anda 082326105251 082326105251 Gambar 1.21 Data Numerik C "
+}
+17:{
+"page":17
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 284]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 1.4 Kelebihan dan Kekurangan Pada Python 1.4.1 Kelebihan Bahasa Pemrograman Python Bahasa pemrograman Python memiliki beberapa kelebihan | di antaranya adalah sebagai berikut a Kode Yang Lebih Ringkas. Python memungkinkan penulisan kode yang lebih singkat dibandingkan dengan bahasa pemrograman lainnya. b. Komunitas Besar Python memiliki banyak pengguna dan pengembang T sehingga memudahkan kita mendapatkan bantuan dan informasi C. Library Standar Yang Lengkap Python sudah dilengkapi dengan berbagai library ( pustaka | yang siap digunakan tanpa perlu instalasi tambahan d. Pengetikan Dinamis Pada bahasa pemrograman Python | kita tidak perlu mengetikkan tipe data secara langsung saat membuat variabel I Python akan otomatis mengenali tipe datanya berdasarkan nilai yang diberikan 1.4.2 Kekurangan Bahasa Pemrograman Python Bahasa pemrograman Python memiliki beberapa kekurangan T di antaranya adalah sebagai berikut: a Performa Lambat Jika dibandingkan dengan bahasa pemrograman lain seperti I bahasa C. C++ dan Java. Python merupakan bahasa yang paling lambat diantara ketiganya. b Kontrol Tipe Data Rendah Karena diketik secara dinamis X. Python memiliki kemungkinan lebih sedikit kontrol atas tipe data. c Konsumsi Memori Tinggi Konsumsi memori yang tinggi membuat Python kurang disukai untuk perangkat seluler d. Akses Database Terbatas Lapisan akses data yang kurang berkembang dibandingkan JDBC (Java Database Connectivity 2 dan ODBC ( (Open Database Connectivity ). 1.5 Variabel, Tipe Data, dan Operator 1.5.1 Variabel Di dalam Python . variabel adalah nama yang digunakan untuk menetapkan sebuah nilai atau obiek. Secara teknis, variabel adalah referensi atau label yang menuniukkan ke suatu nilai di dalam memori komputer Anda dapat memberikan nama apapun dalam sebuah variabel, asalkan mengikuti aturan penamaan variabel dalam Python ( Maesaroh | et al.. 2024). Adapun aturan penulisan variabel dalam Python adalah sebagai berikut 10 "
+}
+18:{
+"page":18
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 375]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 a. Karakter utama harus berupa huruf dari ( A A | Z atau a Z | atau garis bawah (_) dan tidak dapat didahului oleh angka. b Tidak dapat menggunakan operasi hitung dan karakter khusus seperti + @ ,$, - & # C. Karakter selanjutnya boleh berisi huruf, angka, maupun garis bawah. d. Nama variabel tidak dapat disela dengan spasi, untuk variabel yang terdiri dari dua kata atau lebih dapat dipisah dengan simbol underscore (_ ). e. Penggunaan huruf kapital dan huruf kecil memiliki makna yang berbeda. f. Tidak dapat menggunakan reserved word 1.5.2 Tipe Data Tipe data suatu memori atau media pada komputer yang digunakan untuk menampung informasi atau data sementara. Python sendiri memiliki tipe data yang beragam dan terbilang unik bila dibandingkan dengan tipe data pada bahasa pemrograman yang lain Hidayah | Alam & Prihandoko, 2023 ). Berikut adalah tipe data dari bahasa pemrograman Python a. Tipe Data Integer Integer adalah tipe numerik yang mewakili seluruh bilangan bulat dan tidak memiliki angka desimal. Contoh 1.2.3. ,4, -5 dan seterusnya (Hidayah, Alam & Prihandoko | 2023 ). Adapun contoh program dapat dilihat pada Gambar 1.22 Contoh Program Dari Tipe Data Integer. #Tipe data integer 2 bilangan 10 3 angka 20 bilangan bulat 30 5 6 print( 50* "=" 7 print( "Semua nilai dari variabel dibawah adalah integer" ) 8 print( "Nilai dari variabel bilangan adalah bilangan) o print( "Nilai dari van iabel angka adalah angka 10 print( "Nilai dari var iabel bilangan bulat adalah: bilangan 1 bulat) 11 print( "Nilai darivariabel bilangan ditambah variabel angka adalah: bilangan angka ) 12 print(50* - ) Gambar 1.22 Contoh Program Dari Tipe Data Integer Semua nilai dari variabel dibawah adalah integer Nilai dari variabel bilangan adalah: 10 Nilai dari variabel angka adalah: 20 Nilai dari variabel bilangan bilangan i bulat adalah: = 30 Nilai darivariabel ditambah variabel angka adalah : 30 Gambar 1.23 Output Dari Program Tipe Data Integer b Tipe Data Float Tipe data float hampir sama dengan tipe data integer . yaitu berisi sebuah angka/numcrik. Adapun perbedaan antara tipe datafloat dan integeradalah variabel yang digunakan I jika tipe data integer menggunakan bilangan bulat. maka pada tipe data float menggunakan bilangan desimal | Pemisah pada bilangan desimal 11 "
+}
+19:{
+"page":19
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 340]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 menggunakan tanda titik Hidayah Alam 1 & Prihandoko. 2023. Contohnya adalah 2.3, 4.15.0.5 dan seterusnya. Adapun contoh program dapat dilihat di bawah ini TiD data float bilangan 5.6 angka 2.25 bilangan desimal 0.5 print(50* --) print( "Semua nilai dari variabel di bawah ini adalah tipe data float ") print( "Nilai dari variabel bilangan adalah bilangan) print( Nilai dari variabel angka adalah angka) 10 print( "Nilai dari variabel bilangan desimal adalah bilangan desimal) 11 print( "Nilai dari variabel bilangan ditambah variabel angka adalah bilangan angka) 17 print(58* - Gambar 1.24 Contoh Program Dari Tipe Data Float Semua nilai dari variabel di bawah ini adalah tipe data float Nilai dari variabel bilangan adalah 5.6 Nilai dari variabel angka adalah 2.25 Nilai dari variabel bilangan I desimal adalah 0.5 Nilai dari variabel bilangan ditambah variabel angka adalah 7.85 Gambar 1.25 Output Dari Program Tipe Data Float C. Tipe Data String Tipe data string sering juga disebut tipe data teks karena tipe data ini digunakan untuk menyimpan sebuah teks. Data yang bertipe string harus diapit oleh tanda kutip, baik tanda kutip satu ( . atau tanda kutip dua (* * 7 setelah karakter sama dengan (=) Hidayah | Alam & Prihandoko, 2023 ). Adapun contoh program dapat dilihat seperti pada Gambar 1.26 Contoh Program Dari Tipe Data String di bawah ini. 1 #Tipe data strina 2 string = "Ini tipe data string 3 4 print( 20* = 5 print(string) 6 print(20*"= Gambar 1.26 Contoh Program Dari Tipe Data String Ini tipe data string Gambar 1.27 Output Dari Program Data String d I Tipe Data List Tipe data list pada Python digunakan untuk menyimpan kumpulan nilai atau objek yang dapat diubah ( mutable dan diakses dengan menggunakan indeks. List dapat berisi berbagai tipe data. termasuk integer, float, string T. dan bahkan list lainnya. Tipe data ini diawali dengan tanda kurung siku ([..) ( Maesaroh | et al.. 2024). Adapun contoh program dapat dilihat seperti pada Gambar 1.28 Contoh Program Dari Tipe Data List di bawah ini 12 "
+}
+20:{
+"page":20
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 305]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 1 # Tipe data list 2 * Membuat list kosong 3 daftarlist = 5 Menambahkan nilai kedalam list 6 daftarlist append(1) 7 daftar_list.append "saya" ) 8 daftar_list append(7 I q daftar_list append( True I 10 11 Menampilkan list 12 print( "Nilai pada daftar list adalah daftar_list) 13 14 Mengakses nilai list 15 print( "Nilai pada index ke-2 adalah daftarlist[21) 16 17 Mengubah nilai list 18 daftar list[21 = "kamu 19 print( "Nilai pada index ke-2 adalah daftar list[21) Gambar 1.28 Contoh Program Dari Tipe Data List Nilai pada daftar list adalah [1, saya | 7, Truel Nilai pada index ke-2 adalah 7 Nilai pada index ke-2 adalah kamu Gambar 1.29 Output Dari Program Tipe Data List e Tipe Data Tuple Tipe data tuple pada Python digunakan untuk menyimpan kumpulan nilai atau obick yang tidak dapat diubah ( immutable setelah tuple dibuat. Tuple menggunakan tanda kurung ( untuk pembuatannya dan dapat berisi berbagai tipe data, seperti string, integer, float, dan lainnya ( Maesaroh | et al.. 2024). Adapun contoh program dapat dilihat seperti pada Gambar 1.30 Contoh Program Tipe Data Tuple di bawah ini Tipe data tuple 2 Membuat tuple R daftar tuple = (1, 2. 3 4. 5 5 Menampilkan isi tuple 6 print( daftar tuple I 7 8 Mengakses nilai dalam tuple C print( "Nilai pada indeks ke-0 adalah daftar tupler01) 10 print( "Nilai pada indeks ke-2 adalah daftar tuplef21) | 11 12 Menggabungkan tuple 13 tuple_gabungan daftar tuple + (6, 7 8 14 print( "Tuple gabungan tuple_gabungan ) Gambar 1.30 Contoh Program Tipe Data Tuple (1, 2, 3, 4, 5 ) Niiai pada indeks ke-0 adalah 1 Nilai pada indeks ke-2 adalah 3 Tuple gabungan ( (1, 2. | 3, 4 | 5, 6, 7, 8 Gambar 1.31 Output Dari Program Tipe Data Tuple 13 "
+}
+21:{
+"page":21
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 301]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 f Tipe Data Dictionary Tipe data dictionary digunakan untuk menyimpan data dalam bentuk pasangan antara kunci dan nilai ( key-values ). Dalam pembuatannya, tipe data ini menggunakan tanda kurung kurawal {..} dan setiap pasangan kunci dan nilai dipisahkan menggunakan tanda titik dua (:) ( Maesaroh et al..2024). Adapun contoh program dapat dilihat seperti pada Gambar 1.32 Contoh Program Tipe Data Dictionary di bawah ini. Membuat dictionary dictionary f "nama "Fuad "umur 21 "asal "Lampung" Menamnilkan nilai dalam dictionarv print( "Nama dictionary[ "nama "1) print( "Umur dictionary[ umur "1 print( "Asal dictionary "asal "1 Mengubah nilai dalam dictionarv 10 dictionary "umur 1 17 11 print( "Umur setelah dirubah dictionary umur 1) 17 13 Menambahkan data baru 14 dictionaryl "pekerjaan " "Mahasiswa 15 print( "Pekerjaan dictionary "pekeriaan 1) 16 17 Menghapus Data 18 print( 19 print( "data sebelum dihapus Ar dictionary 20 print() 21 del dictionaryl "asal"] 22 print( "data setelah dihapus in" dictionarv Gambar 1.32 Contoh Program Tipe Data Dictionary Nama Fuad Umur 21 Asal Lampung Umur setelah dirubah 17 Peker jaan Mahasiswa data sebelum dihapus . 'nama Fuad umur 17 'asal Lampung pekeriaan Mahasiswa 1 data setelah dihapus . 'nama Fuad umur 17 'pekerjaan Mahasiswa 1 Gambar 1.33 Output Dari Program Tipe Data Dictionary & Tipe Data Boolean Tipe data boolean merupakan tipe data yang simpel dan mudah. Tipe data ini hanya menyimpan dua buah nilai, yaitu True dan False. Nilai True digunakan untuk pernyataan bernilai benar Sedangkan nilai False digunakan untuk pernyataan yang bernilai salah Penulisan True dan False harus diawali dengan huruf besar/ kapital I Tipe data ini biasanya digunakan untuk melakukan pengecekan kondisi yang menggunakan fungsi if ( Maesaroh, et al.. 2024). Adapun contoh program dapat dilihat seperti pada Gambar 1.34 Contoh Program Tipe Data Boolean di bawah ini. 14 "
+}
+22:{
+"page":22
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 223]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4. 1 #Tipe data boolean 2 benar = True a salah False 4 5 if benar 6 print( Var iabel benar memiliki nilai True ) 7 if not salah: 8 print( "Variabel salah memiliki nilai False I Gambar 1.34 Contoh Program Dari Tipe Data Boolean Variabel benar memiliki nilai True Variabel salah memiliki nilai False Gambar 1.35 Output Dari Program Tipe Data Boolean h Operator Operator merupakan pengolah variabel atau nilai. Terdapat beberapa operator untuk pemrosesan pada Python dan setiap operator memiliki beberapa fungsi masing -masing. Jenis-ienis operator yang sering digunakan pada Python yaitu 1 Operator Aritmatika Merupakan operator yang digunakan untuk melakukan proses perhitungan matematika. simbol operator yang digunakan antara lain + * I /. % o >>>a=30 >>> h = >>> * a-b >>> print c) 26 2. Operator Perbandingan Operator perbandingan yaitu operator yang digunakan untuk membandingkan 2 9 buah nilai. Simbol operator yang digunakan antara lain | E != <> < | . > < > >>a =30 >> > h = > >> > c= <h > >> print c * False 3 Operator Penugasan Operator penugasan merupakan operator yang digunakan untuk memberikan tugas pada variabel . misalnyaa= 11.Maka variabel a ditugaskan untuk menyimpan angka 11. Simbol operator yang digunakan diantaranya | : + - . /: % // | 15 "
+}
+23:{
+"page":23
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 226]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 >>>a =30 >>> a + +3 >>> print a 13 4. Operator Logika Operator Logika digunakan untuk membuat aplikasi logika. Scbagaimana bilangan atau string 7 suatu kondisi juga memiliki operator-operator yang disebut opcrator logika yaitu not T and dan or >>> > X x 15 >>> > V = 10 >>> 7 7 X and y >>> print 7 10 1.6 Kontrol Program Pada Python 1.6.1 Pengandaian Pengandaian merupakan salah satu mekanisme kontrol program yang digunakan untuk mengatur alur eksekusi berdasarkan kondisi tertentu Dalam Python i pengandaian dilakukan menggunakan tiga pernyataan utama, yaitu if. elif, dan else 2 yang memungkinkan program mengeksekusi perintah sesuai dengan kondisi yang diberikan n a. Pernyataan If Pernyataan ifmerupakan conditional statement pada program berfungsi untuk menjalankan kode tertentu hanya jika kondisi yang ditentukan bernilai True nilai | 85 if nilai > 75 | print( Anda lulus mata kuliah Teknik Industri!" | b Pernyataan If..elif. Pada dasarnya 1 pernyataan elif digunakan untuk menambahkan kondisi tambahan setelah pernyataan if. sehingga memungkinkan pengecekan kondisi secara berurutan Penggunaan kondisi if...elif merupakan bagian dari proses pengandaian atau conditional statement yang melibatkan pernyataan if. Dengan menggunakan elif. kita dapat mengatur kode program untuk mengevaluasi bebcrapa kemungkinan | Meskipun memiliki kesamaan dengan kondisi if. perbedaannya terletak pada kemampuan elif untuk menangani lebih dari satu kondisi, ( Sembiring | 2021 16 "
+}
+24:{
+"page":24
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 nilai = 75 if nilai > 90 print( "Nilai A' | elif nilai > 75 print( "Nilai B' | else print( "Nilai C" ` C. Pernyataan If.else Pernyataan else adalah bagian dari struktur kontrol yang digunakan bersama dengan pernyataan if ( dan juga elif) untuk menangani skenario ketika tidak ada kondisi yang bernilai True. Dalam konteks ini. else menyediakan jalur alternatif eksekusi ketika tidak ada kondisi yang memenuhi kondisi ifatau elif. angka = 10 if angka % 2 | | 0 print( Angka genap' " | else print( Angka ganjil" | 1.6.2 Pengulangan Pengulangan ( looping | adalah salah satu mekanisme kontrol program yang digunakan untuk menjalankan sekumpulan perintah secara berulang hingga kondisi tertentu terpenuhi. Dalam Python A pengulangan dapat dilakukan menggunakan dua pernyataan utama, yaitu - for dan while a Pengulangan for Pengulangan menggunakan for digunakan untuk mengulang suatu proses dengan jumlah perulangan yang sudah ditentukan Ciri khasnya adalah adanya nilai awal dan nilai akhir yang meniadi syarat perulangan Perulangan ini digunakan untuk mengakses setiap elemen dalam sebuah list, yang bisa berisi berbagai jenis data seperti angka, string | atau karakter Setiap elemen diakses satu per satu memungkinkan kita untuk melakukan operasi pada masing -masing elemen tersebut (Rahmat, D O dkk 2022 ). bilangan 1 | ["1 112 1f 5" A for angka in bilangan print( angka | b. Pengulangan While Perulangan while digunakan untuk mengulang suatu proses dengan jumlah perulangan yang belum diketahui sebelumnya. Ciri utama dari perulangan while adalah pengujian kondisi terlebih dahulu sebelum melakukan iterasi. Perulangan ini akan terus mengulang serangkaian instruksi selama kondisi yang ditentukan masih terpenuhi | Pengulangan akan berhenti ketika kondisi yang diuii tidak lagi benar Dengan kata lain | perulangan akan terus berlangsung hingga syarat yang ditentukan tidak terpenuhi Rahmat dkk.. 2022 1 17 "
+}
+25:{
+"page":25
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 309]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 total = while True bilangan = int( input( "Masukan bilangan bulat atau masukan ( untuk berhenti :" | if bilangan = 0 break total + bilangan print( "Total semua bilangan yang dimasukan total 1.6.3 Penanganan Kesalahan Penganganan kesalahan pada Python dapat dikontrol agar program tidak terhenti karena error dengan try-except. Istilah Try dan Except dalam Python merupakan pernyataan yang berhubungan dengan penanganan kesalahan ( error handling ). Pada Python | blok Try digunakan untuk menialankan kode yang mungkin menimbulkan error. sedangkan blok except digunakan untuk menangani error tersebut. Dengan menggunakan metode ini, program akan tetap bisa berialan meskipun teriadi kesalahan saat dieksekusi ( Khan etal.. 2022). | Untuk lebihjelasnya dapat dilihat pada Gambar 1.36 Contoh Program Try and Except di bawah ini try data : input( Masukkan input: angka : int( data i print( f Berhasil! Input anda adalah {angka}" F except print( Input bukan integerl pu 1 Gambar 1.36 Contoh Program Try and Except Dari Gambar 1.36 Contoh Program Try and Except di atas , Ketika kita memasukkan input selain integer program akan tetap bisa berjalan dan dieksekusi Hal ini teriadi dikarenakan bagian Try menangani proses yang menyebabkan error yaitu saat mengubah input ke integerdengan int( data ) | dan jika teriadi error. Python akan langsung lompat ke blok Except untuk menampilkan 2 pesan Input bukan integer! ). Untuk lebih jelasnya dapat dilihat pada Gambar 1.37 Output Program Dari Penggunaan Try and Except di bawah ini I Masukkan input | p Input bukan integer! Gambar 1.37 Output Program Dari Penggunaan Try and Except Berbeda halnya iika kita tidak menggunakan Try and Except, maka program tersebut akan error Hal ini dikarenakan adanya ketidaksesuaian antara input yang dimasukkan dengan tipe data yang diminta. Sehingga program yang dieksekusi akan berhenti dan menampilkan pesan error. Untuk lebih jelasnya dapat dilihat pada berikut ini 18 "
+}
+26:{
+"page":26
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 293]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 data : input( "Masukkan input angka : int( data) print( u input yang anda masukkan adalah fdatal" 1 Gambar 1.38 Contoh Program Tanpa Menggunakan Try and Except. Masukkan input: Traceback (most recent call last 1 File "c lUsers lazizhlOneDrivelDokumer Fuad Nitip WModul PythonlProgramltesting py line 9, in <module angka int(data ValueError invalid literal for int( with base 10 Gambar 1.39 Output yang ditampilkan tanpa menggunakan Try and Except 1.7 Fungsi dan Parameter Fungsi adalah blok kode terorganisir yang dapat digunakan kembali untuk melakukan tindakan tertentu dalam program Dengan menggunakan fungsi, kita dapat menghindari penulisan kode yang berulang X schingga program meniadi lebih efisien dan mudah dikelola. Fungsi membantu memecah program besar meniadi bagian-bagian kecil yang lebih mudah dipahami dan diorganisir Pada Python fungsi dibuat dengan menggunakan kata A kunci idef, diikuti dengan nama fungsiyang diinginkan dan diakhiri dengan tanda titik dua * R Parameter adalah nilai yang diberikan ke dalam fungsi saat fungsi tersebut dipanggil. Parameter memungkinkan fungsi untuk menerima input yang dapat digunakan dalam eksekusi kode di dalamnya. Ketika mendefinisikan fungsi parameter diletakkan di dalam tanda kurung 0. Parameter dapat berupa nilai tetap | variabel | atau ekspresi | dan memungkinkan fungsi untuk beroperasi dengan berbagai input yang berbeda. Dengan menggunakan parameter fungsi meniadi lebih fleksibel dan dapat digunakan untuk berbagai tujuan dalam program def hello world() print( Hello World!" 1 hello world() a. Fungsi Dengan Parameter Fungsi dapat membaca parameter parameter adalah nilai yang disediakankepada fungsi, dimana nilai ini akan menentu def welcome user( username 1 print( "Welcome!", username | welcome user( Prokom 11 b Fungsi Tanpa Parameter Fungsi ini tidak memiliki parameter input namun pada fungsi ini tetap melaksanakan tugas yang telahdi masukan. def ucapan( print( 1 Selamat Praktikum!! | ucapan() 19 "
+}
+27:{
+"page":27
+"words":
+[0 - 100]
+[100 - 196]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 C. Fungsi Dengan Variabel Lokal dan Global Variabel global dapat diakses dari semua fungsi, sementara variabel lokal hanya dapat diakses di dalam fungsi tempat mereka didefinisikan I Saat Python mencari variabel | ia pertama-tama mencari di dalam fungsi lokal I Jika variabel tersebut tidak ditemukan A Python akan mencari di ruang lingkup global. Jika variabel tidak ditemukan di ruang lingkup global, Python akan menggunakan variabel bawaan atau variabel yang sudah ada di Python nama kota = Jakarta f # Variabel global print( "Kota %s % nama kota | def wilayah( nama provinsi = "DKI I Jakarta Variabel lokal I print( Provinsi %s" % nama provinsi wilayah() d. Fungsi Rekrusif Fungsi rekursif adalah fungsi yang memanggil dirinya sendiri secara berulang ulang karena prosesnya dilakukan secara berulang ulang maka harus ada kondisi yang harus mengakhiri prosesnya Fungsi rekursif dapat menyelesaikan beberapa persoalan seperti perhitungan bilangan fibonacci dan faktorial. def pangkat( X,y , if y 0: return 1 else return X pangkat( X,y 1 | X = - int( input( "Masukan Nilai X y = - int( input( "Masukan Nilai Y print( "%d dipangkatkan %d = %d % (x,y,pangkat( X. 20 "
+}
+28:{
+"page":28
+"words":[
+0:{
+"text":"ModulI"
+"xmin":171
+"ymin":269
+"xmax":1346
+"ymax":482
+}
+1:{
+"text":"Python"
+"xmin":163
+"ymin":559
+"xmax":592
+"ymax":694
+}
+2:{
+"text":"GUI"
+"xmin":622
+"ymin":567
+"xmax":838
+"ymax":663
+}
+3:{
+"text":"Matien"
+"xmin":1289
+"ymin":1777
+"xmax":1584
+"ymax":1847
+}
+4:{
+"text":"silvy"
+"xmin":577
+"ymin":2228
+"xmax":828
+"ymax":2366
+}
+5:{
+"text":"Bagus"
+"xmin":2063
+"ymin":2254
+"xmax":2333
+"ymax":2335
+}
+]
+"raw_text":"ModulI Python GUI Matien silvy Bagus "
+}
+29:{
+"page":29
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 312]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 MODUL I GUI ( Graphical User Interface P A. Tujuan Praktikum Praktikum Modul GUI ( Graphical User Interface 1 memiliki tujuan sebagai berikut 1. Praktikan mampu membuat aplikasi sederhana menggunakan PySide? 2. Praktikan mampu meneriemahkan aplikasi dari Python dasar ke bentuk GUI ( Graphical User Interface ) 3 Praktikan mampu meneriemahkan algoritma dan flowchart menjadi aplikasi menggunakan Python GUI dengan PySide2 B. Landasan Teori 2.1 Pengenalan GUI ( Graphical User Interface P dan PySide2 GUI 1 Graphical User Interface | adalah antarmuka yang mempermudah pengguna dalam berinteraksi dengan komputer atau sistem operasi melalui tampilan grafis. Penggunaan GUI melibatkan pointer perangkat lunak serta berbagai elemen antarmuka. Elemen -elemen dalam GUI mencakup kontrol | menu I tata letak wadah dan interaksi Terdapat berbagai bahasa pemrograman modern yang telah didukung oleh seperangkat library (yang biasa disebut dengan toolkit - untuk membuat aplikasi GUI. PySide2 merupakan salah satu library yang digunakan untuk membuat aplikasi GUI dengan pengikat Python ? dan Qt5 dari cross-platform GUI toolkit Qt, dan berialan pada semua platform yang didukung oleh Qt termasuk Window | Mac OS X dan Linux Qt adalah salah satu library pendukung yang berguna untuk pengembangan aplikasi grafis bersifat lintas platform. Banyak modul-modul dalam Ot yang bisa digunakan untuk pengembangan aplikasi | seperti QtCore - QtGui QtWidgets | QtSql, QtNetwork | QtScript, QtTest, QtSvg T dan OtWebkit, 2.2 Widget dan Dialog Widget merupakan sebuah dasar dari pengembangan aplikasi Graphical User Interface yang akan digunakan untuk menampilkan sekumpulan item | sehingga user akan dapat dengan mudah memilih item yang sekiranya akan digunakan. Qt akan menyediakan berbagai macam widget dasar dan laniutan yang dapat disesuaikan dengan kebutuhan user ketika akan melakukan pengembangan aplikasi 1. Widget- Widget ini tersedia di dalam modul QtCore serta QtGui | 2.2.1 Widget Dasar Berikut ini adalah beberapa Widget dasar yang digunakan Untuk pengembangan aplikasi Graphical User Interface 21 "
+}
+30:{
+"page":30
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 210]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 Tabel 2.1 Widget Dasar Widget Deskripsi QCheckBox Tombol yang dapat diaktifkan ataupun di non-aktifkan dan dapat memilih lebih dari satu pilihan OComboBox Daftar pilihan yang diberikan kepada pengguna dalam bentuk tombol ataupun drop down. ODateTimeEdit W Vidget yang digunakan untuk mengcdit tanggal,bulan | tahun | serta waktu dengan menggunakan keyboard ataupun tombol panah atas atau bawah. ODial Kontrol yang berbentuk bulat menyerupai dengan yang digunakan pada potensiometer atau speedometer ' QDoubleSpinBox W idget yang berbentuk spin kontak digunakan untuk mengambil nilai tertentu | dengan menckan tombol panah ke atas atau ke bawah yang berguna untuk meningkatkan atau mengurangi nilai yang ditampilkan OLabel Menampilkan gambar maupun teks,mendukung teks biasa. rich-text, pixmap O film atau angka. QLineEdit W Vidget editor teks yang digunakan untuk mengedit satu baris teks. OMenu Menu widget menu pilihan | untukdigunakan dalam menu bar menu konteks. serta menu pop-up lainnya. QProgressBar Tampilan widget progress bar yang membantu menunjukkan sebuah presentase kepada pengguna pada saat penyelesaian suatu kegiatan OPushButton Widget tombol digunakan untuk mengeksekusi perintah klik atau push ORadioButton Menyediakan pilihan tombol radio yang dapat diaktifkan atau di non aktifkan User hanya dapat memilih satu pilihan saia. OScrollBar Menyediakan scroll bar berbentuk vertical ataupun horizontal yang memungkinkan user untuk melakukan 22 "
+}
+31:{
+"page":31
+"words":
+[0 - 100]
+[100 - 168]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 Widget Deskripsi akses pada bagian dokumen yang lebih besar dari widget yang digunakan OtabBar Menyediakan bar tab yang akan digunakan dalam dialog tab QTabW Vidget Widget yang menyediakan bar tabdan area halaman yang digunakan untuk menampilkan halaman yang terkait dengan masing-masing tab dalam tumpukan widget tab QTableWidget Widget yang digunakan untuk membuat tabel yang berisi header serta item pada tampilannya. Berikut merupakan contoh penggunaan Widget-widget dasar pada GUI | yang dapat dilihat pada Gambar 2.1 Basic Layout QWidget X File (QMenu OTextEdit Tombol ( QPushButton i C QRadioButton O QCheckBox Lahel 1 (QLabe QLineEdit Lahel 2 (OLabe 1/1/2000 12:00 AM ODateTimeEdit QDia 90% QProgressBar Label 3 (QLabe i QComboBox Label 4 ( OLabel n 0.00 Gambar 2.1 Tampilan Beberapa Jenis Widget Dibawah ini merupakan Script untuk menghasilkan tampilan beberapa Widget dasar seperti pada Gambar 2. import sys from PySide2.QtCore import* from PySide2.QtGui import* from PySide2.QtWidgets import * H Membuat tampilan jendela class Dasar( QWidget * def init ( self) 23 "
+}
+32:{
+"page":32
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 223]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 QWidget, init 1 self) self.setWindowTitle "Basic Layout QWidget" | self.resize( 7550 450 1 self.center() self.konten() self.konten2( self.timer() self.command() def center( self) screen = QGuiApplication primaryScreen().geometry( frame = self.frameGeometry() frame. .moveCenter( screen.center() O self.move( frame.topLeft() | #contoh penggunaan QLabel def konten( self) self.text1 = QLabel( ('File 1 QMenu ) self T self.text1 .move( 15, 15 | self.text2 = OLabel('Label 1 | ( OLabel)', self) self.text2.move( 20.210 1 self.text3 = OLabel('Label 2 ( OLabel) self) self.text3.move( 20. | 240 ) self.text4 = QLabel( "QDateTimeEdit self) self.text4.move( 340. 245 ) self.text5 = QLabel('QDial self) self.text5.move( 100. 290 0 self.text6 = QLabel( "QProgressBar self) self.text6.move( 375, 285 | self.text7 = OLabel('Label 13 (OLabel) self) self.text7.move( 20.350 1 self.text8 = OLabel('Label 4 ( QLabel) | self | self.text8.move( (20. 390 1 #script untuk widget dasar def konten2( self) self.TextEdit = QTextEdit( "QTextEdit t'. self I self. TextEdit.setGeometry( 15. 40. 500 ) 100 ` self.PushButton = QPushButton( "Tombol ( QPushButton ) 'self) self.PushButton.setGeometry 15. 150. 200. 40 | self.RadioButton = QRadioButton( ('QRadioButton' self) self.RadioButton .move(235, 155 | self.CheckBox ' = QCheckBox( "QCheckBox self) self.CheckBox.move(390 155 | self.LineEdit = QLineEdit('QLineEdit self I self.LineEdit.setGeometry 165, 205. 160. | 25 ` self.DateTimeEdit = QDateTimeEdit( self self.DateTimeEdit.move 165, 240 0 self.Dial = QDial( self 1 self.Dial.setGeometry(20, 265, | 70.70 | self.ComboBox = OComboBox( self) 24 "
+}
+33:{
+"page":33
+"words":
+[0 - 100]
+[100 - 145]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 self.ComboBox.addItems T'OComboBox ' 'OComboBox'T) self.ComboBox.setGeometry 165. 348. 290. 25 | self.DoubleSpinBox = QDoubleSpinBox( self) self.DoubleSpinBox.setGeometry 165.390. 290.25 | self.ProgressBar = QProgressBar( self) self.ProgressBar.setGeometry 170 285. 200. 20 0 self.ProgressBar.setValue 790 ` #contoh penggunaan progress bar def timer( self) self.hitung = QBasic Timer() self.posisi =0 def command( self) if self.hitung.isActive() self.hitung.stop( else self.hitung.start( 100 self) # Agar aplikasi dapat berjalan if name main app = QApplication( (sys.argv : ex = Dasar() ex.show() sys.exit( app.exec_( | Berikut mcrupakan contoh penggunaan widget dasar ( QTable Widget) di Graphical User Interface yang dapat dilihat pada gambar 2.2 DAFTAR PRODUK TOKO LABTI X Daftar Produk Toko LABTI Nama Produk Harga Televisi Rp.8.000.00 2 Kulkas Rp.7.000.00 3 Kipas Angin Rp.1.000.00 4 Mesin Cuci Rp.6.000.00 5 Setrika Rp.2.000.00 Gambar 2.2 Tampilan QTableWidget Dibawah ini merupakan script untuk menghasilkan tampilan seperti pada gambar 2.2 25 "
+}
+34:{
+"page":34
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 202]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 #mengimpor modul PySide2 import sys from PySide2.QtCore import * from PvSide2.OtGui import % from PySide2.QtWidgets import * H Membuat tampilan jendela Iclass data( QWidget 1 def init self) QWidget init ( self) self.setWindowTitled "DAFTAR PRODUK TOKOLABTI" | self.resize( 520.320 D layout = QVBoxLayout() title = QLabel( '<h1><b>Daftar Produk Toko LABTI</b></h1>" | title.setAlignment( Qt.AlignCenter | layout.addWidget( title | self.produk(layout | self.setLayout(layout T 4 Membuat tabel def produk( self layout) | table - QTable Widget() table.setRowCount(5 A table.setColumnCount( 2 | data pr | | 'Nama Produk ['Televisi i', Kulkas Kipas Angin Mesin Cuci 1 'Setrika'l | 'Harga' | T'Rp.8.000.00', Rp.7.000.00', 'Rp.1.000.00 ' Rp.6.000.00 ' 'Rp.2.000.00'] headers = list( data pr.keys() | for i, key in enumerate( headers 1 for row item in enumerate( data pr[key] | new F item = QTableWidgetItem( item | table.setItem( row 7 1. new item | table.setHorizontalHeaderLabels headers . table.resizeRowsToContents( layout.addWidget( table | Agar aplikasi berjalan if name main app = QApplication( (sys.argv T ex = data() ex.show( sys.exit( (app.exec_() | Selain menambahkan tabel Graphical User Interface juga dapat menambahan gambar guna mempercantik tampilan dari program Berikut mcrupakan contoh tampilan gambar pada Graphical User Interface seperti yang tertera dalam gambar 2.3. 26 "
+}
+35:{
+"page":35
+"words":
+[0 - 100]
+[100 - 140]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 PT ELEKTRONIK TBK X o ELEKTRONIK LABTI Gambar 2.3 Tampilan Gambar GUI Berikut merupakan script untuk menghasilkan tampilan seperti pada Gambar 2.3 class gambar( QWidget def init ( self QWidget. init ( self) self.setWindowTitle "PT ELEKTRONIK TBK self.resize( 520. 400 o layout = QVBoxLayout( self.gambar(layout * self.menu2( layout * self.setLayout( layout 1 def gambar( self layout n boxlayout = OHBoxLavout() gambar = QPixmap( 'Gambar png ).scaled(350, 320 1 label = OLabel( self) label.setPixmap(gambar * label.setAlignment( Qt.AlignCenter boxlayout.addWidget( (label) boxlayout.setAlignment( Qt.AlignCenter layout.addLayout( (boxlavout) def menu2(self layout | judul = OLabel( '<h1><font color 'navy" '>ELEKTRONIK LABTI</font> </h1> ', self) judul.setFont( OFont( Times New Roman 12 1) | judul.setAlignment( Qt.AlignCenter | layout.addWidget(judul 2.2.2 Built-in Dialogs Dialogs adalah suatu model yang digunakan untuk menyediakan informasi yang diperlukan sebelum jendela utama bekeria. PySide2 juga melengkapi dengan 27 "
+}
+36:{
+"page":36
+"words":
+[0 - 100]
+[100 - 175]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 Dialogs yang telah tersedia dan dapat langsung digunakan Dialogs-dialogs tersebut yakni sebagai berikut: Tabel 2.2 Dialog Dialog Deskripsi QcolorDialog Menyediakan dialog bagi user untuk menentukan warna. QErrorMessage Menyediakan dialog bagi yang menampilkan kesalahan pesan kepada user QFileDialog Menyediakan dialog bagi user untuk memilih file atau direktori QFontDialog Menyediakan dialog bagi user untuk memilih font QInputDialog Berfungsi untuk menyimpan atau menampung input bagi user QPageSetupDialog Berfungsi untuk mengelola konfigurasi pilihan yang terkait halaman pada printer QPrintPreviewDialog Berfungsi untuk melihat pratinjau dan mengatur konfigurasi layout halaman output printer QPrintDialog Berfungsi untuk membantu dalam printer dan konfigurasi percetakan Owizard Menyediakan kerangka keria dialog untuk wizard QProgressDialog Berfungsi untuk memberikan informasi kepada user terkait berapa lama proses akan berlangsung | Dari beberapa dialog yang dimiliki oleh PySide2 yang sering diimplementasikan dalam Graphical User Interface yakni QMessageBox Berikut contoh QMessageBox dapat dilihat pada gambar 2.4 WARNI ING x a Apakah yakin data akan dihapus? Yes No Gambar 2.4 QMessageBox Berikut merupakan script yang digunakan untuk menghasilkan tampilan seperti pada gambar 2.4 28 "
+}
+37:{
+"page":37
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 268]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 def delete ( self messAge = QMessageBox.question self "WARNING t "Apakah yakin data akan dihapus?" QMessageBox. Yes QMessageBox.No if messAge QMessageBox.Yes from perakitan import permesinan self.pemas | permesinan( self.pemas.show() self.hide() if messAge==QMessageBox.No pass 2.3 Manajemen Tata Letak (Layout X Tata letak merupakan representasi dari ukuran | jarak serta posisi berbagai elemen dalam jendela GUI. Penggunaan tata letak yang efektif dapat meningkatkan kenyamanan dan kemudahan pengguna dalam berinteraksi dengan aplikasi I Tata letak yang baik ditandai oleh beberapa aspek penting X seperti alur yang lancar pengelompokan elemen secara logis, penekanan pada elemen yang relevan serta keselarasan yang terstruktur Di dalam PySide2 . terdapat dua pendekatan manaiemen tata letak yaitu a. Posisi Absolute (Absolute Positioning ) 1 merupakan sebuah metode manual untuk mengatur posisi dan ukuran suatu widget. Posisi absolut pada PySide2 dapat dilakukan dengan fungsi move x,y | dimana X mengatur posisi secara horizontal dan y mengatur posisi secara vertikal I sehingga posisi widget tidak akan berubah ketika mengubah ukuran window yang telah ditampilkan b. Kontainer Tata Letak 1 Layout Containers ) merupakan sebuah cara untuk menangani posisi otomatis dan mengubah ukuran widget dengan class manaiemen Layout yang digunakan dalam PyQt. Secara umum kontainer dalam tata letak dapat dikategorikan menjadi a QBoxLayout: untuk mengatur widget secara vertikal atau horizontal | b QGridLayout * mengatur widget ke dalam bentuk grid I di mana jendela dibagi meniadi grid sebanyak yang dibutuhkan. c QFormLayout * mengatur widget berdasarkan urutan input ke dalam iendela. d. QStackedLayout mengatur widget berada pada dua halaman yang berbeda. e OTabLayout: mengatur widget sehingga berada pada Tab yang diinginkan 29 "
+}
+38:{
+"page":38
+"words":[
+0:{
+"text":"MODUL"
+"xmin":1176
+"ymin":109
+"xmax":1336
+"ymax":138
+}
+1:{
+"text":"1"
+"xmin":1361
+"ymin":110
+"xmax":1373
+"ymax":134
+}
+2:{
+"text":"MODUL"
+"xmin":1524
+"ymin":109
+"xmax":1685
+"ymax":138
+}
+3:{
+"text":"2"
+"xmin":1708
+"ymin":109
+"xmax":1728
+"ymax":137
+}
+4:{
+"text":"MODUL"
+"xmin":1872
+"ymin":109
+"xmax":2031
+"ymax":138
+}
+5:{
+"text":"3"
+"xmin":2056
+"ymin":109
+"xmax":2073
+"ymax":136
+}
+6:{
+"text":"MODUL"
+"xmin":2183
+"ymin":109
+"xmax":2343
+"ymax":138
+}
+7:{
+"text":"4"
+"xmin":2366
+"ymin":110
+"xmax":2383
+"ymax":133
+}
+8:{
+"text":"QHBoxLayout"
+"xmin":556
+"ymin":384
+"xmax":741
+"ymax":411
+}
+9:{
+"text":"X"
+"xmin":1132
+"ymin":383
+"xmax":1155
+"ymax":406
+}
+10:{
+"text":"QVBoxLayout"
+"xmin":1463
+"ymin":387
+"xmax":1643
+"ymax":413
+}
+11:{
+"text":"x"
+"xmin":2033
+"ymin":386
+"xmax":2050
+"ymax":405
+}
+12:{
+"text":"Button"
+"xmin":1702
+"ymin":572
+"xmax":1772
+"ymax":590
+}
+13:{
+"text":"Button"
+"xmin":570
+"ymin":734
+"xmax":640
+"ymax":752
+}
+14:{
+"text":"Button"
+"xmin":798
+"ymin":734
+"xmax":867
+"ymax":752
+}
+15:{
+"text":"2"
+"xmin":879
+"ymin":734
+"xmax":888
+"ymax":751
+}
+16:{
+"text":"Button"
+"xmin":1026
+"ymin":734
+"xmax":1095
+"ymax":752
+}
+17:{
+"text":"1"
+"xmin":1108
+"ymin":734
+"xmax":1115
+"ymax":745
+}
+18:{
+"text":"Rutton"
+"xmin":1702
+"ymin":733
+"xmax":1772
+"ymax":749
+}
+19:{
+"text":"2"
+"xmin":1784
+"ymin":733
+"xmax":1792
+"ymax":748
+}
+20:{
+"text":"Button"
+"xmin":1702
+"ymin":894
+"xmax":1772
+"ymax":911
+}
+21:{
+"text":"="
+"xmin":1782
+"ymin":894
+"xmax":1788
+"ymax":904
+}
+22:{
+"text":"Gambar"
+"xmin":561
+"ymin":1082
+"xmax":720
+"ymax":1115
+}
+23:{
+"text":"2.5"
+"xmin":734
+"ymin":1081
+"xmax":792
+"ymax":1115
+}
+24:{
+"text":"QHBoxLayout"
+"xmin":809
+"ymin":1081
+"xmax":1104
+"ymax":1121
+}
+25:{
+"text":"Gambar"
+"xmin":1494
+"ymin":1081
+"xmax":1652
+"ymax":1115
+}
+26:{
+"text":"2.6"
+"xmin":1667
+"ymin":1081
+"xmax":1724
+"ymax":1115
+}
+27:{
+"text":"QHBoxLayout"
+"xmin":1742
+"ymin":1081
+"xmax":2039
+"ymax":1121
+}
+28:{
+"text":"QGridLayout"
+"xmin":557
+"ymin":1235
+"xmax":726
+"ymax":1261
+}
+29:{
+"text":"X"
+"xmin":1127
+"ymin":1234
+"xmax":1150
+"ymax":1257
+}
+30:{
+"text":"QFormLayout"
+"xmin":1467
+"ymin":1244
+"xmax":1647
+"ymax":1269
+}
+31:{
+"text":"x"
+"xmin":2030
+"ymin":1243
+"xmax":2048
+"ymax":1262
+}
+32:{
+"text":"Nama"
+"xmin":1425
+"ymin":1336
+"xmax":1487
+"ymax":1352
+}
+33:{
+"text":"Emai"
+"xmin":1425
+"ymin":1397
+"xmax":1481
+"ymax":1415
+}
+34:{
+"text":"Button"
+"xmin":571
+"ymin":1473
+"xmax":642
+"ymax":1492
+}
+35:{
+"text":"Button"
+"xmin":796
+"ymin":1473
+"xmax":865
+"ymax":1492
+}
+36:{
+"text":"7"
+"xmin":878
+"ymin":1474
+"xmax":885
+"ymax":1488
+}
+37:{
+"text":"Button"
+"xmin":1022
+"ymin":1473
+"xmax":1092
+"ymax":1489
+}
+38:{
+"text":"3"
+"xmin":1103
+"ymin":1473
+"xmax":1113
+"ymax":1488
+}
+39:{
+"text":"Nomor"
+"xmin":1425
+"ymin":1461
+"xmax":1498
+"ymax":1478
+}
+40:{
+"text":"Handphone"
+"xmin":1509
+"ymin":1459
+"xmax":1635
+"ymax":1478
+}
+41:{
+"text":"Kirim"
+"xmin":1840
+"ymin":1527
+"xmax":1892
+"ymax":1541
+}
+42:{
+"text":"Button"
+"xmin":571
+"ymin":1687
+"xmax":640
+"ymax":1706
+}
+43:{
+"text":"4"
+"xmin":652
+"ymin":1688
+"xmax":660
+"ymax":1702
+}
+44:{
+"text":"Button"
+"xmin":796
+"ymin":1687
+"xmax":865
+"ymax":1706
+}
+45:{
+"text":"|"
+"xmin":877
+"ymin":1687
+"xmax":885
+"ymax":1702
+}
+46:{
+"text":"Buttor"
+"xmin":1022
+"ymin":1687
+"xmax":1089
+"ymax":1703
+}
+47:{
+"text":"6"
+"xmin":1103
+"ymin":1687
+"xmax":1113
+"ymax":1705
+}
+48:{
+"text":"Gambar"
+"xmin":549
+"ymin":1929
+"xmax":707
+"ymax":1965
+}
+49:{
+"text":"2.7"
+"xmin":722
+"ymin":1929
+"xmax":778
+"ymax":1962
+}
+50:{
+"text":"QGridLayout"
+"xmin":797
+"ymin":1929
+"xmax":1063
+"ymax":1968
+}
+51:{
+"text":"Gambar"
+"xmin":1492
+"ymin":1929
+"xmax":1650
+"ymax":1962
+}
+52:{
+"text":"2."
+"xmin":1665
+"ymin":1929
+"xmax":1698
+"ymax":1964
+}
+53:{
+"text":".8"
+"xmin":1693
+"ymin":1929
+"xmax":1720
+"ymax":1964
+}
+54:{
+"text":"QFormLayout"
+"xmin":1740
+"ymin":1929
+"xmax":2026
+"ymax":1972
+}
+55:{
+"text":"QStackedLayout"
+"xmin":561
+"ymin":2083
+"xmax":788
+"ymax":2110
+}
+56:{
+"text":"x"
+"xmin":1127
+"ymin":2082
+"xmax":1147
+"ymax":2103
+}
+57:{
+"text":"Page"
+"xmin":526
+"ymin":2173
+"xmax":580
+"ymax":2194
+}
+58:{
+"text":"QStackedLavout2"
+"xmin":1459
+"ymin":2201
+"xmax":1687
+"ymax":2224
+}
+59:{
+"text":"x"
+"xmin":2022
+"ymin":2200
+"xmax":2040
+"ymax":2221
+}
+60:{
+"text":"Nama"
+"xmin":518
+"ymin":2225
+"xmax":580
+"ymax":2243
+}
+61:{
+"text":"Email"
+"xmin":518
+"ymin":2333
+"xmax":577
+"ymax":2353
+}
+62:{
+"text":"Page"
+"xmin":1424
+"ymin":2384
+"xmax":1478
+"ymax":2405
+}
+63:{
+"text":"1"
+"xmin":1478
+"ymin":2384
+"xmax":1496
+"ymax":2398
+}
+64:{
+"text":"Nomor"
+"xmin":518
+"ymin":2445
+"xmax":593
+"ymax":2462
+}
+65:{
+"text":"Handphone"
+"xmin":603
+"ymin":2443
+"xmax":730
+"ymax":2468
+}
+66:{
+"text":"C"
+"xmin":1415
+"ymin":2527
+"xmax":1440
+"ymax":2553
+}
+67:{
+"text":"Pilihan"
+"xmin":1463
+"ymin":2534
+"xmax":1533
+"ymax":2553
+}
+68:{
+"text":"TV"
+"xmin":1544
+"ymin":2535
+"xmax":1592
+"ymax":2549
+}
+69:{
+"text":"Pesanan"
+"xmin":518
+"ymin":2553
+"xmax":610
+"ymax":2572
+}
+70:{
+"text":"O"
+"xmin":1749
+"ymin":2527
+"xmax":1779
+"ymax":2556
+}
+71:{
+"text":"Pilihan"
+"xmin":1795
+"ymin":2534
+"xmax":1865
+"ymax":2553
+}
+72:{
+"text":"TV"
+"xmin":1877
+"ymin":2535
+"xmax":1928
+"ymax":2553
+}
+73:{
+"text":"Nomor"
+"xmin":518
+"ymin":2664
+"xmax":593
+"ymax":2682
+}
+74:{
+"text":"Resi"
+"xmin":603
+"ymin":2663
+"xmax":651
+"ymax":2682
+}
+75:{
+"text":"Kirim"
+"xmin":1712
+"ymin":2693
+"xmax":1766
+"ymax":2709
+}
+76:{
+"text":"Kirim"
+"xmin":816
+"ymin":2785
+"xmax":870
+"ymax":2802
+}
+77:{
+"text":"Gambar"
+"xmin":536
+"ymin":2883
+"xmax":696
+"ymax":2919
+}
+78:{
+"text":"2."
+"xmin":709
+"ymin":2883
+"xmax":740
+"ymax":2916
+}
+79:{
+"text":".9"
+"xmin":736
+"ymin":2884
+"xmax":767
+"ymax":2916
+}
+80:{
+"text":"OStackedLayout"
+"xmin":784
+"ymin":2883
+"xmax":1134
+"ymax":2921
+}
+81:{
+"text":"Gambar"
+"xmin":1433
+"ymin":2883
+"xmax":1592
+"ymax":2919
+}
+82:{
+"text":"2.10"
+"xmin":1606
+"ymin":2883
+"xmax":1691
+"ymax":2919
+}
+83:{
+"text":"QStackedLayout?"
+"xmin":1706
+"ymin":2883
+"xmax":2062
+"ymax":2923
+}
+84:{
+"text":"30"
+"xmin":2243
+"ymin":3363
+"xmax":2288
+"ymax":3396
+}
+]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 QHBoxLayout X QVBoxLayout x Button Button Button 2 Button 1 Rutton 2 Button = Gambar 2.5 QHBoxLayout Gambar 2.6 QHBoxLayout QGridLayout X QFormLayout x Nama Emai Button Button 7 Button 3 Nomor Handphone Kirim Button 4 Button | Buttor 6 Gambar 2.7 QGridLayout Gambar 2. .8 QFormLayout QStackedLayout x Page QStackedLavout2 x Nama Email Page 1 Nomor Handphone C Pilihan TV Pesanan O Pilihan TV Nomor Resi Kirim Kirim Gambar 2. .9 OStackedLayout Gambar 2.10 QStackedLayout? 30 "
+}
+39:{
+"page":39
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 211]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 QTab Layou... x QTab Layou.. x Home Pesanan Home Pesanan Nama ( Televisi Emai il | Nomor Handphone HP OTV I Kamera [ Kulkas I AC Kirim Gambar 2.11 QTabLayout1 Gambar 2.12 QTabLayout2 2.4 Visualisasi Data Python OtCharts adalah widget tambahan dalam framework Qt yang digunakan untuk membangun visualisasi data dalam bentuk grafik pada aplikasi berbasis antarmuka grafis | GUI). Widget ini menyediakan berbagai jenis grafik diantaranya seperti grafik garis ( line chart | 0 grafik batang ( bar chart), grafik lingkaran (pie chart | | grafik sebar ( scatter chart) | dan grafik kurva halus ( spline chart ) QtCharts berfungsi untuk mempermudah representasi data agar lebih mudah dipahami, meningkatkan efisiensi dalam analisis data. serta mendukung pemantauan data secara waktu nyata ( real-time ) Tabel 2.3 Jenis Grafik QtChart Widget Grafik Deskripsi OLineSeries Menampilkan data dalam bentuk garis lurus yang menghubungkan titik-titik data. OBarSeries Menampilkan data dalam bentuk batang ( bar chart | secara berdampingan OPieSeries Menampilkan data dalam bentuk diagram lingkaran ( pie chart | | membagi keseluruhan menjadi bagian | bagian proporsional terhadap nilai idata OStackedBarSeries Variasi dari OBarSeries A namun setiap batang dibagi meniadi beberapa segmen 1 stacked | 0 Digunakan untuk memperlihatkan kontribusi bagian dari total keseluruhan 31 "
+}
+40:{
+"page":40
+"words":
+[0 - 100]
+[100 - 101]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 Widget Grafik Deskripsi QSplineSeries Menampilkan data dalam bentuk garis lengkung ( spline | untuk menghubungkan titik data. Dari banyaknya bentuk dan jenis grafik yang biasanya digunakan dalam pengembangan GUI Berikut adalah tampilan dari beberapa bentuk grafik yang tersedia dalam OtCharts Contol OtCharts Contoh OtCharts OLneSerie Examnle ORarSerles Fxamnle O 5 7 7 6 5 | | 4.0 0 2 75 10 Gambar 2.13 QLineSeries Gambar 2.14 OBarSeries . Contoh OtChart Contol OtCharts ORaSana Evamnle OStackedRarsere Examole samsund sharp Gambar 2.15 OPieSeries Gambar 2.16 OStackedBarSeries Contoh.OCharts OSnlineSeriesEvamn 200 C n Gambar 2.16 QSplineSeries 32 "
+}
+41:{
+"page":41
+"words":
+[0 - 100]
+[100 - 132]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 Berikut merupakan script yang digunakan untuk menghasilkan beberapa grafik seperti yang ada pada gambar diatas def line - chart( self series = QtCharts.QLineSeries( series.append(0, 6) series.append(2 4 1 series.append(3 ,8 1 series.append(7, 4 1 series.append( 10.5 | chart = QtCharts.QChart() chart.addSeries( series | chart.createDefaultAxes( chart.setTitle( "QLineSeries Example | def bar chart( self) set0 = QtCharts.QBarSet( "A" / set0.append([1, 2 3.4. 51) series = OtCharts. .QBarSeries() series.append( set0 chart = QtCharts.QChart() chart.addSeries( series | chart.setTitle( "QBarSeries Example" | chart.createDefaultAxes( def stacked - bar chart( self) set0 = QtCharts.QBarSet( "A' ' set1 QtCharts.QBarSet( "B' | = set0.append([1, 2 31 | setl.append([5, ,0, 81 1 series = QtCharts .OStackedBarSeries() series.append( set0 | series.append( set1 ` chart = QtCharts.QChart( chart.addSeries( series | chart.setTitle( "QStackedBarSeries Example" | chart.createDefaultAxes( 33 "
+}
+42:{
+"page":42
+"words":[
+0:{
+"text":"MODUL"
+"xmin":1176
+"ymin":109
+"xmax":1336
+"ymax":137
+}
+1:{
+"text":"1"
+"xmin":1361
+"ymin":110
+"xmax":1373
+"ymax":134
+}
+2:{
+"text":"MODUL"
+"xmin":1524
+"ymin":109
+"xmax":1685
+"ymax":138
+}
+3:{
+"text":"2"
+"xmin":1708
+"ymin":109
+"xmax":1728
+"ymax":137
+}
+4:{
+"text":"MODUL"
+"xmin":1872
+"ymin":109
+"xmax":2031
+"ymax":138
+}
+5:{
+"text":"3"
+"xmin":2056
+"ymin":109
+"xmax":2073
+"ymax":136
+}
+6:{
+"text":"MODUL"
+"xmin":2183
+"ymin":109
+"xmax":2343
+"ymax":137
+}
+7:{
+"text":"4"
+"xmin":2366
+"ymin":110
+"xmax":2383
+"ymax":133
+}
+8:{
+"text":"def"
+"xmin":526
+"ymin":455
+"xmax":578
+"ymax":482
+}
+9:{
+"text":"pie"
+"xmin":590
+"ymin":456
+"xmax":638
+"ymax":488
+}
+10:{
+"text":"chart("
+"xmin":662
+"ymin":455
+"xmax":760
+"ymax":485
+}
+11:{
+"text":"self)"
+"xmin":755
+"ymin":455
+"xmax":830
+"ymax":482
+}
+12:{
+"text":"series"
+"xmin":588
+"ymin":515
+"xmax":678
+"ymax":541
+}
+13:{
+"text":"="
+"xmin":692
+"ymin":527
+"xmax":710
+"ymax":537
+}
+14:{
+"text":"QtCharts."
+"xmin":727
+"ymin":514
+"xmax":880
+"ymax":548
+}
+15:{
+"text":"QPieSeries()"
+"xmin":878
+"ymin":514
+"xmax":1096
+"ymax":548
+}
+16:{
+"text":"series.append("
+"xmin":588
+"ymin":574
+"xmax":824
+"ymax":611
+}
+17:{
+"text":"'Samsung"
+"xmin":833
+"ymin":574
+"xmax":994
+"ymax":609
+}
+18:{
+"text":"40"
+"xmin":1032
+"ymin":574
+"xmax":1071
+"ymax":603
+}
+19:{
+"text":"|"
+"xmin":1074
+"ymin":578
+"xmax":1084
+"ymax":599
+}
+20:{
+"text":"series."
+"xmin":588
+"ymin":633
+"xmax":688
+"ymax":660
+}
+21:{
+"text":".append("
+"xmin":679
+"ymin":633
+"xmax":824
+"ymax":671
+}
+22:{
+"text":""Sharp"
+"xmin":830
+"ymin":633
+"xmax":938
+"ymax":669
+}
+23:{
+"text":"30"
+"xmin":979
+"ymin":633
+"xmax":1017
+"ymax":660
+}
+24:{
+"text":")"
+"xmin":1016
+"ymin":635
+"xmax":1026
+"ymax":659
+}
+25:{
+"text":"series.append("
+"xmin":588
+"ymin":692
+"xmax":824
+"ymax":728
+}
+26:{
+"text":""LG'"
+"xmin":822
+"ymin":692
+"xmax":906
+"ymax":719
+}
+27:{
+"text":"30"
+"xmin":919
+"ymin":692
+"xmax":976
+"ymax":721
+}
+28:{
+"text":"1"
+"xmin":979
+"ymin":693
+"xmax":985
+"ymax":717
+}
+29:{
+"text":"chart"
+"xmin":587
+"ymin":752
+"xmax":669
+"ymax":781
+}
+30:{
+"text":"="
+"xmin":680
+"ymin":764
+"xmax":702
+"ymax":776
+}
+31:{
+"text":"QtCharts.QChart()"
+"xmin":714
+"ymin":752
+"xmax":1022
+"ymax":784
+}
+32:{
+"text":"chart.addSeries("
+"xmin":587
+"ymin":811
+"xmax":854
+"ymax":841
+}
+33:{
+"text":"series"
+"xmin":850
+"ymin":811
+"xmax":948
+"ymax":839
+}
+34:{
+"text":"1"
+"xmin":951
+"ymin":813
+"xmax":958
+"ymax":834
+}
+35:{
+"text":"chart.setTitle("
+"xmin":587
+"ymin":871
+"xmax":817
+"ymax":902
+}
+36:{
+"text":""OPieSeries"
+"xmin":815
+"ymin":871
+"xmax":1019
+"ymax":902
+}
+37:{
+"text":"Example"
+"xmin":1030
+"ymin":871
+"xmax":1184
+"ymax":905
+}
+38:{
+"text":"|"
+"xmin":1199
+"ymin":874
+"xmax":1204
+"ymax":894
+}
+39:{
+"text":"return"
+"xmin":585
+"ymin":934
+"xmax":681
+"ymax":958
+}
+40:{
+"text":"chart"
+"xmin":696
+"ymin":930
+"xmax":778
+"ymax":959
+}
+41:{
+"text":"def"
+"xmin":524
+"ymin":1049
+"xmax":575
+"ymax":1077
+}
+42:{
+"text":"spline"
+"xmin":589
+"ymin":1049
+"xmax":685
+"ymax":1082
+}
+43:{
+"text":"chart("
+"xmin":708
+"ymin":1049
+"xmax":806
+"ymax":1077
+}
+44:{
+"text":"self)"
+"xmin":797
+"ymin":1049
+"xmax":876
+"ymax":1079
+}
+45:{
+"text":"series"
+"xmin":588
+"ymin":1109
+"xmax":678
+"ymax":1136
+}
+46:{
+"text":"="
+"xmin":693
+"ymin":1120
+"xmax":711
+"ymax":1130
+}
+47:{
+"text":"QtCharts.QSplineSeries("
+"xmin":726
+"ymin":1108
+"xmax":1148
+"ymax":1143
+}
+48:{
+"text":"series."
+"xmin":588
+"ymin":1167
+"xmax":686
+"ymax":1193
+}
+49:{
+"text":".append(0,"
+"xmin":679
+"ymin":1167
+"xmax":855
+"ymax":1205
+}
+50:{
+"text":"3"
+"xmin":869
+"ymin":1167
+"xmax":884
+"ymax":1193
+}
+51:{
+"text":"|"
+"xmin":890
+"ymin":1170
+"xmax":895
+"ymax":1190
+}
+52:{
+"text":"series.append("
+"xmin":588
+"ymin":1227
+"xmax":824
+"ymax":1263
+}
+53:{
+"text":"(1,"
+"xmin":815
+"ymin":1227
+"xmax":855
+"ymax":1256
+}
+54:{
+"text":"3"
+"xmin":852
+"ymin":1227
+"xmax":884
+"ymax":1254
+}
+55:{
+"text":"1"
+"xmin":890
+"ymin":1230
+"xmax":895
+"ymax":1251
+}
+56:{
+"text":"series."
+"xmin":588
+"ymin":1286
+"xmax":686
+"ymax":1314
+}
+57:{
+"text":".append(3,"
+"xmin":679
+"ymin":1286
+"xmax":855
+"ymax":1324
+}
+58:{
+"text":"4"
+"xmin":867
+"ymin":1287
+"xmax":884
+"ymax":1311
+}
+59:{
+"text":"1"
+"xmin":883
+"ymin":1287
+"xmax":896
+"ymax":1304
+}
+60:{
+"text":"series."
+"xmin":588
+"ymin":1347
+"xmax":686
+"ymax":1372
+}
+61:{
+"text":"append(7."
+"xmin":684
+"ymin":1346
+"xmax":850
+"ymax":1382
+}
+62:{
+"text":"2"
+"xmin":852
+"ymin":1346
+"xmax":884
+"ymax":1372
+}
+63:{
+"text":"2"
+"xmin":883
+"ymin":1347
+"xmax":896
+"ymax":1370
+}
+64:{
+"text":"chart"
+"xmin":587
+"ymin":1406
+"xmax":669
+"ymax":1433
+}
+65:{
+"text":"="
+"xmin":680
+"ymin":1417
+"xmax":702
+"ymax":1429
+}
+66:{
+"text":"QtCharts."
+"xmin":715
+"ymin":1405
+"xmax":869
+"ymax":1439
+}
+67:{
+"text":".QChart()"
+"xmin":861
+"ymin":1405
+"xmax":1023
+"ymax":1441
+}
+68:{
+"text":"chart."
+"xmin":587
+"ymin":1464
+"xmax":674
+"ymax":1493
+}
+69:{
+"text":"addSeries("
+"xmin":667
+"ymin":1464
+"xmax":854
+"ymax":1494
+}
+70:{
+"text":"series"
+"xmin":850
+"ymin":1464
+"xmax":947
+"ymax":1494
+}
+71:{
+"text":"|"
+"xmin":951
+"ymin":1466
+"xmax":958
+"ymax":1489
+}
+72:{
+"text":"chart.setTitle("
+"xmin":587
+"ymin":1524
+"xmax":817
+"ymax":1554
+}
+73:{
+"text":""QSplineSeries"
+"xmin":815
+"ymin":1524
+"xmax":1071
+"ymax":1557
+}
+74:{
+"text":"Example""
+"xmin":1083
+"ymin":1524
+"xmax":1246
+"ymax":1558
+}
+75:{
+"text":"|"
+"xmin":1254
+"ymin":1529
+"xmax":1256
+"ymax":1532
+}
+76:{
+"text":"chart.createDefaultAxes("
+"xmin":587
+"ymin":1583
+"xmax":1014
+"ymax":1617
+}
+77:{
+"text":"34"
+"xmin":2243
+"ymin":3363
+"xmax":2288
+"ymax":3396
+}
+]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 def pie chart( self) series = QtCharts. QPieSeries() series.append( 'Samsung 40 | series. .append( "Sharp 30 ) series.append( "LG' 30 1 chart = QtCharts.QChart() chart.addSeries( series 1 chart.setTitle( "OPieSeries Example | return chart def spline chart( self) series = QtCharts.QSplineSeries( series. .append(0, 3 | series.append( (1, 3 1 series. .append(3, 4 1 series. append(7. 2 2 chart = QtCharts. .QChart() chart. addSeries( series | chart.setTitle( "QSplineSeries Example" | chart.createDefaultAxes( 34 "
+}
+43:{
+"page":43
+"words":[
+0:{
+"text":"ModulI"
+"xmin":162
+"ymin":245
+"xmax":1434
+"ymax":452
+}
+1:{
+"text":"Website"
+"xmin":156
+"ymin":537
+"xmax":626
+"ymax":640
+}
+2:{
+"text":"StatisDjango"
+"xmin":659
+"ymin":545
+"xmax":1438
+"ymax":672
+}
+3:{
+"text":"Faisal"
+"xmin":982
+"ymin":1649
+"xmax":1242
+"ymax":1731
+}
+4:{
+"text":"shira"
+"xmin":2050
+"ymin":1693
+"xmax":2281
+"ymax":1761
+}
+5:{
+"text":"Putri"
+"xmin":419
+"ymin":2626
+"xmax":631
+"ymax":2694
+}
+6:{
+"text":"Dendra"
+"xmin":1522
+"ymin":2613
+"xmax":1813
+"ymax":2683
+}
+]
+"raw_text":"ModulI Website StatisDjango Faisal shira Putri Dendra "
+}
+44:{
+"page":44
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 292]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 MODUL II WEBSITE STATIS A. Tujuan Praktikum Praktikum Modul 13 website Statis memiliki tuiuan sebagai berikut 1. Mampu memahami sintaks-sintaks yang digunakan pada HTML dan CSS. 2. Mampu memahami penggunaan Django. 3 Mampu membuat tampilan website statis sederhana menggunakanHTML dan CSS melalui Django B. Landasan Teori 3.1 HTML 3.1.1 Pengertian HTML HTML adalah bahasa yang digunakan untuk menulis halaman web. HTML banyak yang disebut sebagai suatu bahasa pemrograman | HTML sebenarnya sama sekali bukan bahasa pemrograman HTML merupakan pengembangan dari standar pemformatan dokumen teks | yaitu Standard Generalized Markup Language ( SGML). HTML sering juga disebut sebagai bahasa penandaan ( markup 0 terhadap sebuah dokumen teks. Tanda tersebut digunakan untuk menentukan format atau style dari teks yang ditandai. Simbol markup yang digunakan oleh HTML ditandai dengan lebih kecil ( < dan tanda lebih besar > 1 dan disebut tag. Sebuah n file HTML merupakan file teks biasa yang mengandung tag-tag HTML Karena merupakanfile teks. maka HTML dapat dibuat dengan menggunakan teks editor yang sederhana misalnya NotePad Tanda bahwa sebuah file teks merupakan HTML terdapat pada eksistensi filenya, yaitu .htm atau .html | ( Rachmawati. 2022 3.1.2 Kelebihan dan Kekurangan HTML HTML memiliki kelebihan dan kekurangan | diantaranya yaitu a Kelebihan HTML 1. Dapat dikombinasikan dengan bahasa pemrograman lain Contoh Personal Home Page (PHP P dan JavaScript 2. Dapat dibuat menggunakan berbagai platform pada beberapa ienis komputer dengan sistem operasi yang berbeda. 3 Memiliki struktur yang rapi dan konsisten 4 Dapat dimasukkan gambar statis maupun dinamis dan video pada tampilan website 5 Bersifat open source b Kekurangan HTML 1 Halaman bersifat statis. 2 Memiliki terlalu banyak tag 3. Tidak semua browser bisa menjalankan HTML versi terbaru 4 HTML tidak memungkinkan user untuk menjalankan logic 35 "
+}
+45:{
+"page":45
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 248]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 3.1.3 Svntax Dasar HTML Syntax dasar adalah suatu aturan yang digunakan dalam penulisan kalimat ketika akan membuat sebuah website. sehingga website tersebut dapat diialankan. Berikut adalah contoh penulisan syntax dasar HTML seperti gambar 3.1 <!DOCTYPE html> <html> <head> ctitle>Prokom 2025</title> </head> <body> Selamat datang dan selamat mengikuti Praktikum Pemrograman Komputer 2025 </body> </html> : Prokom 2025 x + A C O 127.0.0.1:8000 Selamat datang dan selamat mengikuti Praktikum Pemrograman Komputer 2025 Gambar 3.1 Hasil Running Svntax Dasar HTML Dalam menampilkan suatu teks atau objek pada WEBSITE HTML merupakan tag yang terdiri dari <tag_pembuka> dan </tag_penutup> yang diantaranya terdapat obiek yang diberikan perintah seperti pada Gambar 3.1. dengan penjelasan sebagai berikut a Deklarasi <!DOCTYPE html> mendefinisikan tipe dokumen | yakni HTML 5. b Teks di antara <html> dan </html> menjelaskan dokumen website C. Teks di antara <head> dan </head> menielaskan penempatan judul dokumen html pada jendela browser d. Teks di antara <title> dan </title>menggambarkan judul website e. Teks diantara <body> dan </body> menggambarkan isi halaman yang terlihat 3.1.4 Tag dan Atribut HTML a. Headings Headings pada HTML terdiri dari <h1> yang merupakan ukuran terbesar sampai <h6> yang merupakan ukuran terkecil. Atribut yang dapat ditambahkan pada headings yaitu salah satunya adalah align | yang memiliki fungsi mengatur penempatan teks Align merupakan nama pada atribut. sedangkan sebagai nilai kita dapat menambahkan left, right, center dan justify. b Format HTML Penggunaan format terhadap karakter yang ditampilkan dapat membuat sebuah dokumen HTML yang menarik 36 "
+}
+46:{
+"page":46
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 340]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 1 | Physical Format Physical Format adalah format terhadap fisik suatu font. Tag yang termasuk physical format adalah dapat dilihat pada Tabel 3.1. Tabel 3.1 Tag Physical Format Elemen Keterangan <b> </b> Membuat tulisan teks tebal <i> </i> Untuk membuat teks terlihat miring <u> </u> Untuk menggaris bawahi teks <s> </s> Untuk memberikan coretan pada teks <br> </br> Membuat line break atau garis baru <tt> </tt> Menampilkan teks dalam format typewriter <big> </big> Untuk membesarkan teks <small>... </small> Untuk mengecilkan teks <sub> F </sub> Membuat teks subscript <sup> </sup> Membuat teks superscript <mark>.. </mark> Membuat teks yang di highlight 2. Tag <blockquote> Digunakan untuk menuliskan kutipan pada bagian yang dikhususkan pada sebuah dokumen | misalkan kutipan kitab suci, kata mutiara 1. dan lain | lain. Teks yang diberikan tag ini akan meniorok ke dalam Contoh implementasi dari tag <blockquote> dapat dilihat pada script dibawah ini. <p>E -commerce adalah kegiatan transaksi jual beli barang atau jasa yang dilakukan melalui media elektronik | terutama internet Dalam e a -commerce seluruh proses mulai dari promosi pemesanan | pembayaran | hingga pengiriman dilakukan secara online </p> <blockquote>Keunggular e-commerce meliputi jangkauan pasar yang luas kemudahan akses kapan saja dan di man saja | serta efisiensi dalam proses transaksi / /blockquote> <p> -commerce juga berperan penting dalam dunia industri karena mendukung transformasi digital dan memperluas peluang bisnis. Dengan inovasi yang terus berkembang | seperti analisis data. e- commerce menjadi semakin strategis dalam meningkatkan kepuasan pelanggan dan efisiensi operasional.</p> E-commerce adalah kegiatan transaksi jual beli barang atau jasa yang dilakukan melalui media elektronik. terutama internet Dalam e-commerce. seluruh proses mulai dari promosi, pemesanan, pembayaran hingga pengiriman dilakukan secara online Keunggulan e-commerce meliputi jangkauan pasar yang luas. kemudahan akses kapan saja dan di mana saia serta efisiensi dalam proses transaksi E-commerce juga berperan penting dalam dunia industri karena mendukung transformasi digital dan memperluas peluang bisnis. Dengan inovasi yang terus berkembang, seperti analisis data. e-commerce menjadi semakin strategis dalam meningkatkan kepuasan pelanggan dan efisiensi operasional Gambar 3.2 Hasil Running tag<blockquote> 37 "
+}
+47:{
+"page":47
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 285]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 3 Font Tag <font> digunakan untuk mengatur jenis S. ukuran | dan warna huruf dokumen HTML a. Size Digunakan untuk mengatur ukuran font. Ukuran font yang digunakan berkisar antara 1-7 dengan 1 merupakan ukuran terkecil dan 7 merupakan ukuran terbesar b. Face * Digunakan untuk mengatur jenis atau nama font C. Color: Digunakan untuk mengatur warna font HTML c List HTML List dapat digunakan untuk menampilkan data yang disusun seperti suatu daftar sehingga item-item yang ada memiliki nomor urut atau bisa juga berupa tanda-tanda khusus/symbol. Ada dua macam list, yaitu ordered list ( ol) dan unordered list ul). 1. Ordered List Ordered List berfungsi untuk membuat daftar list dimana tiap bagian akan diberi penomoran menggunakan nomor atau abiad | tag dibuka dengan <ol> dan ditutup dengan </ol>. Untuk tiap bagian diawali dengan <li> dan diakhiri dengan </li> I Macam | macam atribut untuk penomoran pada Ordered List antara lain a Type 6 = A 2 digunakan untuk Format penomoran dengan huruf A | B.C b Type 'a digunakan untuk Format penomoran dengan huruf a,b.c. c. Type = *T" digunakan untuk Format penomoran dengan huruf I. II. III | d Type " digunakan untuk Format penomoran dengan huruf i.ii. 111. 2. Unordered List Unordered List memiliki fungsi untuk membuat daftar dimana tiap bagian tidak akan diberi penomoran | tag dibuka dengan <ul> dan ditutup dengan </ul> Untuk tiap bagian diawali dengan <li> dan diakhiri dengan </li> Tag list tersebut dapat ditambahkan atribut TYPE dengan nilai a. Disc | Bulatan hitam ( o b Square | Kotak / ) C. Circle: Bulatan kosong (o : Contoh penggunaan ordered list dan unordered list dapat dilihat pada script dibawah ini 38 "
+}
+48:{
+"page":48
+"words":
+[0 - 100]
+[100 - 137]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 <!DOCTYPE html> <html> <head> <title>Prokom 2025</title> </head> <body> <h2> PRAKTIKUM PEMROGRAMAN KOMPUTER 2025 </h2> <h4>*Contoh Ordered List *</h4> <ol type="A" y <li>Python Dasar</1i> <li>Pyside2</li> <li>Web Statis dengan Django</li> <li>Web Dinamis dengan Django</li> </ol> <h4>*Contoh Unordered List *</h4> <ul type= "circle '> <li>PROKOMK x/1i> </ul> <ul type="disc " > <li>2025</li> </ul> <ul type= "square' '> <li>Semangat</1i) </ul> </body> </html> S Prokon 2025 x + C G 127.0.0.1:8000 PRAKTIKUM PEMROGRAMAN KOMPUTER 2025 *Contoh Ordered List* A. Python Dasar B. Pyside? C. Web Statis dengan Django D. Web Dinamis dengan Django *Contoh Unordered List* C PROKOM 2025 Semangat Gambar 3.3 Hasil Running Tag List d | Image Dokumen HTML dapat ditambahkan gambar dengan berbagai macam format, misal .gif, .jpeg | pcx png | .wmf, d1l. Untuk menambah gambar digunakan tag | 39 "
+}
+49:{
+"page":49
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 289]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 <img src 'nama file gambar y Berikut merupakan contoh penulisan tag dan atribut image HTML <img src= " C\modul\gambar.jpg " alt= "Logo Perusahaan align top width= "150px - height= "150px . title= "Logo Perusahaan " * Jika dokumen html dalam satu folder dengan gambar tidak perlu menambahkan direktori file gambar Dari penulisan script di atas dapat dijelaskan sebagai berikut: Tabel 3.2 Penielasan Script Atribut Keterangan Src Meruiuk URL atau direktori file gambar Alt Menampilkan teks pengganti gambar jika gambar tidak dapat ditampilkan Align Posisi teks di sekitar gambar nilainya adalah top. | middle bottom 1. left, right Width Lebar gambar dalam satuan pixel Height Tinggi gambar dalam satuan pixel Title Menampilkan teks pada saat kursor diarahkan ke gambar e Tabel HTML Tabel merupakan cara untuk menampilkan informasi dengan bentuk kolom dan baris dalam halaman WEBSITE. Tag <table> digunakan untuk memulai tabel dan mengakhiri tabel. Tabel terdiri dari tabel baris dengan tag <tr> dan tabel kolom dengan tag <td> Tabel baris dapat ditambahkan baris judul dengan tag <th> Komponen pada tabel dapat dijelaskan scbagai berikut 1. Height dan Width Tabel HTML Lebar tabel diatur dengan menggunakan atribut width dan untuk mengatur tinggi tabel dengan atribut height Nilai atribut mengunakan ukuran % ( max 100% | dan ukuran pixel | 2. Judul Tabel HTML Judul dalam tabel dibedakan meniadi tiga | macam | yaitu iudul tabel iudul kolom tabel dan judul baris tabel | Judul kolom atau iudul baris dibuat dengan elemen yang sama yaitu elemen tabel header <th> 3 Warna dan Border pada Tabel HTML Pada pewarnaan tabel dapat diatur warna latar belakang menggunakan atribut BGCOLOR dan warna font dengan atribut FONT COLOR. Sedangkan ketebalan tabel dapat diatur dengan atribut BORDER 40 "
+}
+50:{
+"page":50
+"words":
+[0 - 100]
+[100 - 137]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 Berikut contoh script pembuatan tabel. <!DOCTYPE html> <html> <head H> ctitle>Praktikur Prokon 2025</title> </head d> <body> <caption align " 'middle 'x<b><u><i><Mata Kuliah Teknik Industrix/ix/uxc/bx/captioncbr <h4> *Mata Kuliah Teknik Industri*</h4> ctable border=4 width "20% Y <tr> <th>Kode</th> <th>Mata Kuliah< /th> <th>Semester</th) </tr> <tr align=center> <td>TIN20932</td) <td>Ergonomi</td> <td>2</td> </tr> <tr align=center> <td>TIN20332</td> <td>Kalkulus IK</td> <td>2</td> </tr> </table> </body > </html> G Praktikum Prokom 2025 x + 6 * C O 127.0.0.1:8000 *Mata Kuliah Teknik Industri * Kode Mata Kuliah Semester TIN20932 Ergonomi 2 TIN20332 Kalkulus II 2 Gambar 3.4 Hasil Tampilan Tabel f / Link Link merupakan penghubung menuiu alamat lainnya bisa berupa suatu gambar atau teks yang terkait. Ditandai dengan tag anchor yaitu tag <a> dan dengan atribut href sebagai name serta alamat yang dituiu bisa diisi pada bagian 41 "
+}
+51:{
+"page":51
+"words":
+[0 - 100]
+[100 - 199]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 value. Berikut di bawah ini merupakan macam -macam kegunaan Link pada HTML 1 1 Link ke dokumen lain Untuk menghubungkan pada dokumen lain | dokumen tersebut harus diletakkan pada suatu direktori yang sama untuk memudahkan pemanggilan. < !DOCTYPE html> <html> <head> <title>Praktikun Prokom 2025</title> </head> <body> <h15elamat datang di Praktikum Pemrograman Komputer Tahun 2025</h1> <a href=" "Link.html | ">DaftarPraktikumProkom .html</a> <br> ca href="Link.html >Registrasi.html</a) </body> </html> 6 Praktikum Prokon 2025 : G 127.0.0.1:8000 Selamat datang di Praktikum Pemrograman Komputer Tahun 2025 DaftarPraktikumProkon html Registrasi htm Gambar 3.5 Hasil Running Svntax Link ke Dokumen Lain 2. Link ke alamat URL atau website Selain menghubungkan ke dokumen lain | Link dapat digunakan untuk menghubungkan ke URL dengan script sebagai berikut. <a href= "https ://bit.ly.PROKOM2025 >Formulir Pendaftaran Praktikunc/a> 3. Link ke alamat email Link email dapat menghubungkan pada program pengiriman email yang terdapat pada komputer yang dipakai untuk mengakses data atau teks tersebut secara otomatis. <a href="mailto :prokom2025@gmail.con >Pendaftaran PROKOM 2025</a> 4 Link File yang akan didownload Selain menuiu ke alamat lain Link juga bisa digunakan untuk mengunduhfile yang tercantum pada dokumen tersebut * <a href=" "c prokom/2025 " >Download Modul Prokom 2025</a> 42 "
+}
+52:{
+"page":52
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 245]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 g Form HTML Form adalah sebuah daftar isian untuk memasukkan data atau suatu informasi tertentu Form dibuat menggunakan tag <Form> dan atribut seperti action dan method 1. Action Atribut action digunakan untuk mengarahkan masukan Form pada URL tertentu Jika atribut ini tidak dipakai maka informasi yang masuk akan dikirim ke halaman website itu sendiri 2. Method Atribut method adalah cara mengirimkan informasi ke URL yang ditentukan Value yang dipakai pada atribut ini yaitu get dan post. Metode get akan membuat informasi akan dikirimkan bersama url Sedangkan metode post, informasi dikirimkan secara terpisah. Dalam memasukkan data dalam Form digunakan tag <input> yang berada dalam tag < Form>. Atribut yang bisa digunakan dalam tag <input> adalah type dan name Type berguna untuk menentukan tipe kotak masukan | dimana value yang dimasukkan bisa berupa text, submit. reset d11. Sedangkan name merupakan atribut untuk menentukan nama data. Dibawah ini merupakan macam - macam atribut. a Text Field Dalam atribut type dengan value text untuk memasukkan teks dalam satu baris dengan maksimum karakter sebanyak 20 karakter <Form> Nama <br> <input type= text name= firstname type=" text I ' <br> </Form> <Form> NIM <br> <input type= text " nim= "nim type= "text I '> </Form> Nama | NIM Gambar 3.6 Contoh Running Svntax Input Text Field b Password Field Pada password file digunakan untuk memasukkan satu baris teks yang bersifat tersembunyi dengan dimasukkan karakter yang disamarkan dengan bulatan atau tanda bintang 1 43 "
+}
+53:{
+"page":53
+"words":
+[0 - 100]
+[100 - 158]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 <Form> Password <br> <input type= : 'password name= "prokom 2025 value= .. y <br> </ Form> Password : Gambar 3.7 Contoh Running Syntax Input Password Field C. Radio Button Radio Button merupakan salah satu value dari atribut type dimana berupa beberapa tombol yang hanya dapat dipilih salah satunya. <Form> <p>PRAKTIKAN</p> <input type= " radio name= "Praktikan " value= I 2024" checked 1>2024<br> <input type= "radio name= "Praktikan value= - "2023 checked >2023<br> <input type= "radio name= "Praktikan value= " 2022 checked>2022<br> <input type="radio name= "Praktikan value= . 2021 " checked>2021<br> </ Form> PRAKTIKAN O2024 O2023 02022 02021 Gambar 3.8 Contoh Running Syntax Input Radio Button d. Check Box Perbedaan dengan option/radio button adalah dapat mencentang atau memilih lebih dari satu pilihan < Form <input type= " checkbox " name = " Praktikum value= "Prokom ">Pemrograman Komputer<br> <input type= " "checkbox name "Praktikum . value= "PTI">Perancangan Teknik Industri<br> </ Form> 44 "
+}
+54:{
+"page":54
+"words":
+[0 - 100]
+[100 - 154]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 V Pemrograman Komputer V Perancangan Teknik Industri Gambar 3.9 Contoh Running Syntax Input Check Box e. Combo Box Combo Box merupakan salah satu value dimana untuk mengetahui pilihan dapat dilihat dari tanda panah ke bawah <Form action> <select name "PROKOM2025 . > PROKOM 2025 <option value= "daftar ulang praktikan >Daftar Ulang praktikan </option> coption value= "praktikan 2025">Praktikan 2025</option> </select> </Form> Praktikan 2025 Daftar Ulang praktikan Praktikan 2025 Gambar 3.10 Contoh Running Svntax Input Combo Box f. Submit Button Submit Button digunakan untuk membuat tombol submit atau reset <Form > <input type= 'submit value= Kirim > <input type= " 'submit value= "Hapus" > </Form> Kirim Hapus Gambar 3.11 Contoh Running Syntax Button 9 Text Area Text Area seperti text field akan tetapi text area cenderung dapat menampung lebih dari 20 karakter <Form> <textarea cols= E '36 rows ="4" ">5ilahkan isi keterangan di bawah ini </textarea> </Form> 45 "
+}
+55:{
+"page":55
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 238]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 Silahkan isi keterangan di bawah ini Gambar 3.12 Contoh Running Svntax Input Text Area 3.2 CSS 3.2.1.Pengertian CSS Cascading Style Sheet ( CSS merupakan salah satu bahasa pemrograman website yang mengatur komponen dalam sebuah website sehingga akan memberikan tampilan yang lebih terstruktur dan seragam CSS telah mendukung banyak bahasa penanda ( markup language * seperti HTML , XHTML , XML , XVG dan Mozilla XUL Fungsi CSS yaitu memberikan pengaturan lebih lengkap agar struktur website yang dibuat terlihat lebih rapi dan indah. Warna, font gambar text size / dan semua aspek yang mendukung halaman website dapat diatur menggunakan CSS. Perancangan CSS dilakukan dengan mendefinisikan font (huruf | O. color ( warna ). margin ( ukuran | background (latar font size 1 | belakang) | ukuran huruf) | dan lain - lain Elemen-elemen tersebut disebut juga dengan C styles 3.2.2.Aturan Penulisan Fungsi Selector digunakan untuk mencari bagian mana dari HTML yang ingin disisipi kode CSS. CSS menyediakan beragam jenis Selector, mulai dari yang sederhana seperti element Selector hingga yang cukup rumit seperti pseudo Selector Declaration adalah bagian yang berada di antara tanda kurung kurawal untuk lebih jelasnya dapat dilihat pada gambar dibawah ini | Selector Declaration h1 f font-size: 18px; color: green; I Gambar 3.13 Selector-Declaration Property adalah atribut yang dibutuhkan untuk mengatur jenis style CSS atau bagian apa yang akan diubah dari sebuah tag HTML Misalnya jenis font, ukuran 46 "
+}
+56:{
+"page":56
+"words":
+[0 - 100]
+[100 - 181]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 huruf. warna. background lebar tabel dan hal yang berkaitan dengan komponen HTML lainnya. Agar bisa digunakan Property memiliki nilai satuan atau value. Value ini sangat bergantung kepada jenis Property 7. misalnya untuk ukuran font bisa menggunakan satuan pixel, point, d11. Tapi untuk Property warna ( color * kita harus menggunakan value berupa nama warna atau kode RGB.Untuk lebih jelasnya dapat dilihat pada gambar berikut ini Selector Property Value h1 f font-size: 18px: * color: green: = 1 Gambar 3.14 Selector Property- Value a Selector Selector adalah elemen website yang akan didefinisikan berupa tag HMTL id dan class 1. Tag HTML ditulis langsung tanpa menggunakan tanda. body background whi te : background | size cover background d-position center height 70px 2. Id ditulis dengan menggunakan tanda # di depan Selector #latarbelakang background | -color rgba 255, ,255, ,255,.5 - : 3. Class ditulis dengan menggunakan tanda titik (.) di depan selector footer f position fixed top ( left ( width 100 : padding 20px 100px display flex justify-content space e-between align -items center 47 "
+}
+57:{
+"page":57
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 315]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 b Property Property adalah atribut yang akan diubah n Property CSS jumlahnya sangat banyak T Berikut merupakan komponen Property yang digunakan pada CSS. 1 Property Text Stvle Property ini digunakan untuk membuat gaya tulisan pada website. Contoh dari Property ini yaitu color, font-weight, font-color dan font-family 2. Property Text Layout Property ini digunakan untuk mengatur efek dari layout suatu tulisan pada halaman website yang berfokus pada penempatan dan tampilan yang ditempatkan pada halaman website Contoh dari Property ini yaitu letter- spacing | text-align 2 dan text-decoration 3 Property Border Property ini digunakan untuk mengatur elemen yang mempunyai garis dengan berbagai variasi lebar warna serta gaya suatu tampilan . User bisa membuat suatu garis dari beberapa arah yang berbeda. Contoh dari Property ini yaitu border border-width. dan border-top-width. 4 A Property Margin Property ini digunakan untuk mengatur ruang atau jarak batasan antar elemen | misalnya antara elemen atas dan bawah atau antara kiri dan bawah d1l. Contoh dari Property ini yaitu margin, margin-bottom, dan margin-left 5 Property Padding Property ini digunakan untuk mengatur ruang antara elemen dan konten Contoh dari Property ini yaitu padding, padding-top, dan padding-left 6 Property Page Layout Property ini digunakan untuk mendesain layout pada halaman website | dengan menguassai Property ini maka user bisa merubah themes atau template dari website tersebut Contoh dari Property ini yaitu position, top | dan left. 7. Property Background Property inidigunakan untuk mengatur tampilan background (latar belakang | suatu website serta pengaturan suatu background yang lainnya, misalnya background dari font. Contoh dari Property ini yaitu background, background-color, dan background-image. 8 Property Type Element Property ini digunakan untuk mengatur suatu elemen dalam website. Contoh dari Property ini yaitu display, white-space 7 dan list-style-type 9 Property Interface Property ini digunakan untuk mengatur tampilan pada website untuk membuat tamppilan yang dituiukan untuk pengguna. Contoh Property ini yaitu curso, outline. dan outline-color 48 "
+}
+58:{
+"page":58
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 250]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 10 Value Value adalah nilai dari Property yang diberikan | Dalam memberi nilai/value pada Property, digunakan tanda titik dua (:) dan setiap Property diakhiri dengan tanda titik koma (: 1 3.2.3.Satuan dalam CSS In satuan inchi cm satuan centimeter mm satuan millimeter pt | satuan point ( X1 point = 1/72 inchi ) pc satuan pica ( 1 pica = 12 point I px satuan pixel ( satu titik gambar kecil dalam layar monitor | Vw viewport width ( 1% dari lebar viewport X vh | viewport height ( 1% dari tinggi viewport | % satuan ukuran elemen relative berupa persen 3.2.4. Macam-macam CSS CSS memiliki beberapa cara penulisan berbeda-beda yang dibagi menjadi tiga macam antara lain Inline Style Sheet, Embedded Style Sheet 1 dan External Style Sheet a Inline Stvle Sheet CSS dideklarasikan sebagai atribut pada elemen karena properti dan nilainya melekat langsung pada elemen tidak dibangun sebagai aturan . dan tidak ada Selector Penulisan dengan metode Inline Stvle Sheet dituliskan langsung pada program HTML dibagian tag yang bersangkutan dan tidak mempengaruhi bagian tag yang lain. Cara penulisannya cukup dengan menambahkan atribut style Contoh <!DOCTYPE html> <html> <head> <title>Inline Style Sheet</ /title> </head> <body> <h1 style= 'text-decoratior underline rgb | 45 4 250 | IT > | Praktikum Pemrograman Komputer 2025</h1> <p style= 'color rgb | (255 | 137 26 | | font C-size 18px : >Berikut contoh penggunaan inline style sheet</p> <h4 style= 'font serif = >BERHASIL</h4> </body> </html> 40 "
+}
+59:{
+"page":59
+"words":
+[0 - 100]
+[100 - 154]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 S Inline Stvle Sheet x + C O 127.0.0.1:8000 Praktikum Pemrograman Komputer 2025 Berikut contoh penggunaan inline stvle sheet BERHASII Gambar 3.15 Hasil Running Inline Stvle Sheet b. Embedded Stvle Sheet CSS didefinisikan terlebih dahulu dalam tag <style> </style> dan diletakkan di atas tag <body> Contoh < DOCTYPE html> <html> <head> <title> Embedded Style Sheet</title> </head> <style type=" text/css" > h1 text- -decoration underline font - family Times New Roman font -size 18px p | color blue | example (background | red. ;color black, </style> <body> <h1 style= 'text c-decoration underline red > Praktikum Pemrograman Komputer 2025</h1> <p style= T 'color blue : >Berikut contoh penggunaan embedded style sheet</p> <h4 ><span class = 1 'example >BERHASIL</ span></h4> </body> </html> 6 Embedded Style Sheet x C O 127.0.0.1:8000 Praktikum Pemrograman Komputer 2025 Berikut contoh penggunaan embedded style sheet BERHASI Gambar 3.16 Hasil Running Embedded Style Sheet 50 "
+}
+60:{
+"page":60
+"words":
+[0 - 100]
+[100 - 195]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 C. External style sheet Cara ini hampir mirip dengan embedded style sheet. hanya saja aturan CSS ditempatkan secara terpisah External style sheet terhubung dengan dokumen melalui elemen head File style sheet text disimpan menggunakan ekstensi .cSS. Contoh File 'modul3.css b2 text -decoration underline konten1 | konten2 | color white : background red Vinfo modul3 color blue : background cyan File *home.html Sload statict <!DOCTYPE html> <html> <head> <title>Eksternal Style Sheet</title> <link rel- "stylesheet type- text/css href-" 1 Sstatic "oy.css a </head> <body> <h2>Modul 3 Website Statis Dengan Djangos/h2> <p>Modul 3 mempelajari tentang <span class- konteni >HTML | CSS </span> dan <span class- konten2"> Django</span></p <p id- info modul3 ">Tetep Semangat!> bersedih-sedi, dahulu bersenang senang kemudian </p> </body> </html> ternal t O 12700 0O Modul WebStatis Dengan Django Modul 3 mempelajari tentang HTML CSS dan Django Tetep Semangat!> bersedih- sedih dahulu bersenang senang kemudian! Ma ceut a serd : O A a O O e 6 Gambar 3.17 Hasil Running External Style Sheet 3.3 Django 3 .3.1 Pengertian Django Django adalah website | framework yang menggunakan bahasa pemrograman Python Framework ini dirancang untuk membangun aplikasi website yang 51 "
+}
+61:{
+"page":61
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 303]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 dinamis b penuh fitur dan memiliki sistem keamanan yang baik Django mulai dikembangkan pada tahun 2003 oleh Adrian Holovaty dan Simon Willison Framework ini secara resmi diperkenalkan ke publik pada tahun 2005 dengan tujuan mempermudah pembuatan website yang kompleks. Django dilengkapi dengan berbagai fitur bawaan seperti sistem administrasi, ORM 1 Object-Relational Mapping 1 O. dan manajemen URL yang fleksibel | Berkat kelengkapan fitur dan kemudahannya, Django berhasil menjadi salah satu framework web yang paling populer dan banyak digunakan di seluruh dunia. ( Fitria Risyda, 2023 I 3.3.2 Kelebihan Django Framework Django memiliki kelebihan diantaranya sebagai berikut a. Django memiliki banyak fitur bawaan dan alat yang memudahkan pengguna dalam mengembangkan website b. Django memiliki sitem keamanan yang kuat dan terintegrasi. C. Django ORM memungkinkan para pengembang untuk berinteraksi dengan database melalui kode Python | tanpa perlu menulis kueri SQL secara manual (Jadid Alif Ramadhan I 2023 ) 3.3.3 Kekurangan Django Framework Django memiliki kelebihan diantaranya sebagai berikut * a. Django menggunakan pola MTV (Model-Template- Vien P yang terkadang terasa kurang fleksibel untuk proyek tertentu b. Django cukup kompleks, sehingga pemula mungkin memerlukan waktu untuk memahami 3.3. 3.4 Langkah Menjalankan Django Pastikan modul Django telah terpasang pada PC dengan memeriksa menggunakan Command Prompt. Terdapat beberapa Langkah dalam menialankan Django a. Jalankan Command Prompt dengan cara run as administrator C Command Prompt 2 Apps Documents Web Settings Folders Phot 34 Best match I Commanc Prompt Systen Settings Command Prompt Sustem P Manage app evecution aliaces Search the web ( One ommand Prompt S search in mor Runas administrato O ecult P Open Ge location O c ommand nromn admin & PintoSta & Dinto t 9 c ommand prompt commands for system backur Q c ommand prompt commands list command prompt commands for Gambar 3.18 Menialankan Command Prompt 52 "
+}
+62:{
+"page":62
+"words":
+[0 - 100]
+[100 - 165]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 b Pastikan modul Django sudah terpasang dengan menuliskan pip list pada Command Prompt. Con nmand Promn Microsoft Windows IVersior 10. 22631 4890 Cc Microsoft Corporation A1 rights re eserved C:lUsersIvICTUS>pi list Package Versior asgiref 28 backr 00 rto zoneinfo contourpy 1. 1.. cue le Dianao 1...1 tonttool 1.53. k importlib res ources 15 ivisolver matolotlib 7 mvsal-connector ovthon 8 0.28 mysalclient numDy 2 packaginc 2 pillow 10 R pip 2L pyparsing 1. Dyside 152 python -dateutil 29 0.post setur otools U1 shiboken 15 six 16. salparse 5. typing extensions 12 tzdat 2024 Gambar 3.19 Memastikan Terdapat Modul Django C. Buatlah sebuah project dengan nama dan lokasi direktori yang diinginkan Command Prompt Microsoft Windows TVersion 10.0.22631 4890 (c) Microsoft Corporation ALl rights reserved C:\UsersIVICTUS>c CAUsers>cd C:l>diango admin startproiect DiangoTutorial C:1> Gambar 3.20 Membuat Project pada Django d Apabila berhasil, maka akan terdapat folder bernama Django_Tutorial di lokasi direktori yang sesuai dengan perintah yang ada di Command Prompt. 53 "
+}
+63:{
+"page":63
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 268]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 Windows (C D ThisPC Windows (C O Nev X l Sor View A Name Date modified Tvoe Size Home modul? 24/05/2024 Galler 1217 WinRAR archive 10.292 B DumpStack 22/11/2023 231d5 Tex Documen 13 OneDrive Pers vaksir 21/07/2024 1128 WinRA archive Autodest 29/10/202422:5 Flefolder Deskton Diango Tutoria 22/02/2025 030 Filefolde Downloads % 05/06/2022 0252 Filefolde = Documents Kelompok68 23/06/2024 104 Filefolde ddddd modul3 27/05/2024 09-28 Filefolde R Pictures moduled 10/06/2024 11.4 Filefolder Music Perfl.oa 07/05/2022 1224 fate folda D Viden Progran File 28/02/202 15:00 Filefolde VICTUS - Progran Files (x86 03/12/2024 1450 Filefolder D600230127 - nvside2dandatabase 24/06/2024 0855 Filefolder SolidWorks_Flexnet Conn 26/02/2025 235 Flefolde Screenchot SWSatur 18/10/2024 2340 Filefolda Nev Volume(D Licen 03/10/2023 2028 Glefolde Windoun 18/02/2025 0455 Filefolde ThisP XhovGame 13/10/2024 173 Flefolde Windows (C New Volume 18items Liter selected Gambar 3.21 Hasil Pembuatan Project pada Django e Masuk ke dalam direktori I Django_Tutorial pada Command Promptkemudian tuliskan Python manage.py runserver untuk menjalankan server Command Prompt pythor Microsoft Windows IVersion 10.0.22631 4890 (c) Microsoft Corporation All rights reservec c \UserslvICTUS>cd c \Users>cc c :>django admin startproject Diango_Tutorial C >co Django Tutorial c \Diango Tutorial Ppython manage Dv runserver Watching for file changes with StatReloader Performing system checks Svstem check identifiec no issues C silenced) You have 18 unapplied migration(s) Your project may not work properly until you appl auth contenttypes sessions Run pythor manage py migrate to 2025 apply them Februarv 28 17:02:25 Django version 4.2.11 usinc Starting settings 'Django_Tutorial settings develonnent server at httn: 8000 Ouit the server with CTRL BREAK Gambar 3.22 Cara Menjalankan Server pada Django 54 "
+}
+64:{
+"page":64
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 235]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 f Copy alamat server yang terdapat pada Command Promt dan paste di browser untuk mengetahui bahwa Django sudah berhasil dijalankan @ inst surceesfulh 137001.000 * Update & O Stor n : django Vier releasenote for Diango4 The install worked successfully Congratulations Vo are seeing this page because DEBUG=True isin.vou settinns fleand vou have not confiqured any LDI : Django Documentation Tutorial: Polling Apr 90 Diangc Community bouto acted it Django Con hel contrinut Gambar 3.23 Tampilan Django Berhasil Dijalankan 3.3.5 MVC Arsitektur user melakukan reques Gooale merender vieu ke browser neneuna interaksi data dengar mode mengirin resul - THE 00 * View Controller | Model Gambar 3.24 MVCArsitektur MVC adalah pola desain atau arsitektur yang digunakan dalam rekayasa perangkat lunak dimana terdapat pemisahan yang. jelas antara data 1 model) user interface ( view | a Model Model merupakan representasi dari logika bisnis dan data bisnis. Model bertanggungjawab sebagai penghubung antara controller dengan database untuk mengambil data pada database. Model dapat direalisasi dengan memakai komponen website yang bersifat bebas b View View merupakan implementasi dari presentasi | yaitu halaman yang akan dipakai sebagai respon untuk dikirimkan kepada user View akan mempresentasikan data bisnis yang telah diolah. C. Controller Controller merupakan pengontrol aliran request ( data I | Controller bertanggungjawab menerima request yang dikirimkan user. Data request akan diolah atau diteruskan kepada komponen yang mengolah data Pada akhirnya 55 "
+}
+65:{
+"page":65
+"words":
+[0 - 100]
+[100 - 198]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 request yang diolah akan diserahkan kepada komponen view ( Pramudya Tamir Indra Permana, 2024 ) 3.3. .6 Templates pada Django Pembuatan templates pada Django menggunakan Django Templates dengan mengubah pada sctting.py yang terdapat dalam direktori project. Terdapat beberapa Langkah dalam pembuatan templates a. Menambahkan templates pada setting.py di bagian TEMPLATES agar direktori templates dapat diketahui. TEMPLATES | 4 BACKEND django.template.backends.djang.DjaneoTemplat DIRS I templates APP DIRS | True | 'OPTIONS { b. Membuat folder templates di dalam project A New X ( ( 1 Sort View OneDrive Perso Name Date modified Type Size pemrograman komputer 22/02/2025 02:10 File folder Desktop templates 22/02/202502415 FIe folder J | db.salite3 22/02/2025 02:00 SOLITE3 File OKB Downloads a manage 22/02/2025 01:27 Pvthon Source File 1KP Documents Gambar 3.25 Membuat Folder Templates C. Membuat file HTML di dalam folder templates A New [ A N Sort View A Name Date modified Type Size Home A homebase.htm 22/02/2025 02:33 Chrome HTMI Do. KB Gallerv Desktop Gambar 3.26 Membuat Folder HTML d. Buat file views.py di dalam project dan tambahkan script pada views.py from django.shortcuts import render def home ( request ' return render( request "homebase.html" | 56 "
+}
+66:{
+"page":66
+"words":
+[0 - 100]
+[100 - 184]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 e. Pada urls.py tambahkan script yang berwarna kuning from django.contrib import admin from django.urls import path | include from. import views urlpatterns = | path( 'admin/ / | admin. .site.urls ) | path 1 views. home ), f Buat tampilan di file HTML < !DOCTYPE html> <html> <head > <title>Prokom 2025</title> </head> <body> <h1>Selamat datang dan selamat mengikuti Praktikum Pemrograman Komputer 2025</h1> <hr> <ol type="1 " Y <li>HTML</li> <li>CSS</li> <li>Django</li> <li>Text Editor</li> </ol> <h2>Semangat I !</h2> </body> </html> 9 Jalankan Program dengan python manage.py runserver a Drokom 2029 + C @ 1270.0.1-8000 Selamat datang dan selamat mengikuti Praktikum Pemrograman Komputer 2025 1HTMI 2CSS 3.Diango Text Editor Semangat!!! Gambar 3.27 Hasil Running File HTML pada Django 3.3.7 App pada Django App pada Django adalah proyck yang berfungsi mengelola fitur tertentu Setiap app punya struktur file sendiri seperti views.py untuk logika tampilan | models.py untuk database, dan urls.py untuk routing. App bersifat mandiri dan bisa digunakan ulang di proyek lain Untuk membuat app 9, cukup jalankan perintah python manage.py startapp nama app. ( Yusri Ikhwani. 2023 | 57 "
+}
+67:{
+"page":67
+"words":
+[0 - 100]
+[100 - 156]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 PS C: Iprokom2025> python manage.py startapp isi PS C: Iprokom2025> Gambar 3.28 Membuat App pada Django PROKOM2025 > isi > prokom2025 > templates I db.sglite3 E managepy Gambar 3.29 Tampilan Hasil Running App a. Penggunaan URL pada App Dalam Django I URL pada app digunakan untuk mengatur jalur yang menghubungkan permintaan pengguna ke fungsi atau tampilan tertentu di views Tni memungkinkan halaman web menampilkan konten yang sesuai berdasarkan URL yang diakses. 1 1 Membuat urls.py pada direktoriapp yang baru from django.urls import path from. .import views urlpatterns = | path ( | views.menu ) | | 2. Tambahkan script warna kuning di bagian urls.py pada direktori iproject from django.contrib import admin from django.urls import path | include from.import views urlpatterns : | path ( 'admin/ | admin. .site.urls ) | path( courses/' include ( courses .urls I 1 ), path ( | views .home . | | 58 "
+}
+68:{
+"page":68
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 231]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 3 Jalankan app pada browser O Drokom 2025 C G 127001-8000 Selamat datang dan selamat mengikuti Praktikum Pemrograman Komputer 2025 1.HTMI 2CSS 3.Diango Text Editor Semangat!! Gambar 3.30 | Tampilan Hasil Running pada Django b Penggunaan Template pada App Template dalam Django adalah file HTML yang digunakan untuk menampilkan halaman website Di dalam app | kita buat folder templates dan file HTML dan menambahkan fungsi yang memanggil template itu I Tambahkan URL di urls.py supaya halaman bisa diakses. Dengan template 2 kita bisa menampilkan data dari backend ke halaman website dengan cara yang rapi dan mudah 1. Menambahkan nama app yang dibuat pada setting py INSTALLEDAPPS I | django.contrib.admir django.contrib.auth O django.contrib.contenttype django.contrib.sessions django.contrib.messages django.contrib.staticfiles - ' courses I 2. Membuat folder templates pada app + New X in N Sort View A Name Date modified Tvpe Size Home R migrations 08/03/2025 17:57 File folder Gallerv templates 08/03/2025 19-33 File folder a init 08/03/2025 17:57 Pvthor Source File OKB Desktop a admin 08/03/2025 17-57 Pvthon Source File KP 1 Downloads apps 08/03/2025 17-57 Pvthon Source File 1KB t Documents la models 08/03/2025 17:57 Pvthor Source File 1.KB ddddd a tests 08/03/2025 17-57 Pvthon Source File 1KP K Pictures urls 08/03/2025 18:30 Pvthor Source File 1KB O Music a views 08/03/2025 17-57 Pvthor Source File 1KB Gambar 3.31 Membuat Folder Templates pada App 59 "
+}
+69:{
+"page":69
+"words":
+[0 - 100]
+[100 - 140]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 3 Perbarui views.py pada folder app from django.shortcuts import render H Create your views here I def home ( request ) 4 Jalankan program pada browser a Prokom 2025 C G 1270.0.1-8000 Selamat datang dan selamat mengikuti Praktikum Pemrograman Komputer 2025 HTMI CSS 3. Diango Text Editor Semangat!!! Gambar 3.32 Hasil Running Templates pada App 3.3.8 Templates Tags Template tags pada Django adalah perintah khusus yang digunakan di dalam file template HTML , untuk mengontrol logika tampilan | seperti membuat perulangan percabangan atau menyisipkan bagian halaman tertentu a. Perbarui views.py pada direktori app. def home ( request ) data = { top prokom2025 header Selamat datang di Praktikum Pemrograman Komputer 2025 isi1 HTML isi2 CSS Django isi3 Django isi4 Text Editor return render ( request | homebase. .html | data . 60 "
+}
+70:{
+"page":70
+"words":
+[0 - 100]
+[100 - 151]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 b Ubah script homebase.html dengan tambahan tags. < !DOCTYPE html> <html> <head > <title>{{top}}</title> </head > <body> <h1>{{header}}</h1> <ul> 5% for link | name in read % I <li><a href="{{ link 77 ' {{ name }}</a></li> 1 % endfor % I </ul> <ol type: "1 > <li>{{isi1}}</li> <li>{{isi2}}</li> <li>{{isi3}}</li> <li>{{isi4}}</li> </ol> <h2>Semangat I !!</h2> </body> </html> c. Jalankan program pada browser I prokom2025 x C G 127.0.0.1:8000 Selamat datang di Praktikum Pemrograman Komputer 2025 1.HTMI 2. CSS Django 3.Django 4. Text Editor Semangat!!! Gambar 3.33 Hasil Running Templates Tags 3.3. .9 Templates Variabel Templates variable bermanfaat untuk meminimalisasi penulisan script yang sama pada halaman yang berbeda. Berikut langkah menggunakan templates variable a I Perbarui views.py pada direktori project dengan membuat dictionary from django.shortcuts import render H Create your views here def home ( request ) return render ( request | "homebase.html ) 61 "
+}
+71:{
+"page":71
+"words":
+[0 - 100]
+[100 - 191]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 b. Ubah script HTML dengan menuliskan key pada dictionary context < !DOCTYPE html> <html> <head> <title>Prokom 2025</title> </head> <body> <ul> <h1>Selamat Datang di Modul 3 Web Statis</h1> <li>HTML</li> <li>CSS</li> <li>Django</li> <li>Text Editor</li> </ul> <h2>Semangat! I | !</h2> </body> </html> C. Jalankan program pada browser I Prokom 2025 X + C G 127.0.0.1:8000 Selamat Datang di Modul Web Statis HTML CSS Django Text Editor Semangat!!! Gambar 3.34 Hasil Running Templates Variable 3.4 Text Editor 3.4.1.Pengertian Text Editor Text editor adalah perangkat lunak yang digunakan untuk membuat, mengedit dan memanipulasi teks dalam berbagai format, baik untuk keperluan penulisan sederhana maupun pengkodean dalam bahasa pemrograman Text editor biasanya lebih ringan dan fokus pada pengolahan teks mentah tanpa banyak elemen visual. sehingga sering digunakan oleh programmer penulis skrip I atau siapa saja yang membutuhkan alat untuk menulis kode atau catatan sederhana. Selain itu text editor juga bisa dimanfaatkan untuk membuat halaman website atau template website design dan juga membuat aplikasi tertentu Software ini memang secara umum ditujukan untuk mempermudah aktivitas pemrograman Salah satu contoh software text editor yang digunakan pada praktikum ini adalah Visual Studio Code 62 "
+}
+72:{
+"page":72
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 348]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 3.4.2 Visual Studio Code Visual Studio Code adalah sebuah text editor yang dikembangkan oleh Microsoft dan dirancang khusus untuk pengembangan perangkat lunak dengan fitur yang kaya serta performa yang ringan Visual Studio Code mendukung berbagai bahasa pemrograman seperti JavaScript, Python C++ Java. dan masih banyak lagi, dengan fitur unggulan seperti syntax highlighting, IntelliSense (kode pelengkapan otomatis yang cerdas ), debugging bawaan serta integrasi dengan Git untuk manaiemen versi | Visual Studio Code juga mendukung multi-platform, sehingga dapat dijalankan di Windows, macOS. dan Linux T menjadikannya pilihan bagi banyak pengembang perangkat lunak baik pemula maupun profesional I 3.4.3 Extensions Django Extensions Django pada Visual Studio Code adalah ekstensi tambahan yang dirancang untuk meningkatkan pengalaman pengembangan proyek Django di Visual Studio Code. Django sendiri adalah framework berbasis Python yang digunakan untuk membangun aplikasi web dengan cepat dan efisien Dengan menggunakan ekstensi Django di Visual Studio Code C pengembang dapat memanfaatkan fitur-fitur seperti syntax highlighting khusus untuk Django templates, auto-completion untuk kode Django | snippet bawaan untuk mempercepat penulisan kode, serta dukungan untuk debugging dan manajemen model database. Dengan adanya ekstensi ini pengembangan aplikasi Django menjadi lebih mudah | lebih cepat, dan lebih terorganisir terutama dalam hal navigasi antar file proyek, pembuatan template, serta debugging aplikasi. * File Edi Selection Van C Du 9 Seare nno EXTENSIONSMARKETPLAC 7 ExtensionDiona diana F O Diange 9 Beautifulsvnta: andscoped di Django Bantiste Darthena d 14128046 F A (13 Bantich Darthenav & Beautifulsyntax and scoped sninpets for roerfectionistswithdeadine a Diango s Bi Uninst Auto Undate dianae Dianao Temalate anD- A Robert Salfis Install DETAL FEATURE CUANGELO Dianeira Dia ond i collectica snippets C Barkman nste Marketolace Django extension for Visual Studio Code L Dianar Templ. ak Heniie hatistan diange Django template language dian Beautifu suntax an sconer snippets ner fecionists with dendline LLL d nctall Harsin 11 Dublicher 2018.0610 diango n 3053 Ma a Releases 232534 Diango Snippets ddeaK diangs Con Djangs snippe 1 Catenories bib phasd nstal Prooramminolanmn diango-intel Caa c Fullautacemanlat cs Snipgets a Install Dianao Templ.. 00 Resources dF Gambar 3.35 Django Extentions 63 "
+}
+73:{
+"page":73
+"words":[
+0:{
+"text":"Modul"
+"xmin":161
+"ymin":253
+"xmax":1054
+"ymax":460
+}
+1:{
+"text":"IV"
+"xmin":1135
+"ymin":270
+"xmax":1457
+"ymax":445
+}
+2:{
+"text":"Website"
+"xmin":155
+"ymin":542
+"xmax":624
+"ymax":645
+}
+3:{
+"text":"Dinamis"
+"xmin":656
+"ymin":550
+"xmax":1141
+"ymax":645
+}
+4:{
+"text":"Django"
+"xmin":1173
+"ymin":550
+"xmax":1583
+"ymax":676
+}
+5:{
+"text":"Adjie"
+"xmin":983
+"ymin":1658
+"xmax":1197
+"ymax":1744
+}
+6:{
+"text":"Qulub"
+"xmin":2081
+"ymin":1709
+"xmax":2331
+"ymax":1780
+}
+7:{
+"text":"6"
+"xmin":1436
+"ymin":1946
+"xmax":1516
+"ymax":2029
+}
+8:{
+"text":"Y"
+"xmin":216
+"ymin":2489
+"xmax":249
+"ymax":2509
+}
+9:{
+"text":"Febiant"
+"xmin":368
+"ymin":2628
+"xmax":676
+"ymax":2699
+}
+10:{
+"text":"Ilham"
+"xmin":1548
+"ymin":2620
+"xmax":1779
+"ymax":2684
+}
+]
+"raw_text":"Modul IV Website Dinamis Django Adjie Qulub 6 Y Febiant Ilham "
+}
+74:{
+"page":74
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 335]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 MODUL IV WEBSITE DINAMIS A. Tujuan Praktikum Praktikum Modul 4 Website Dinamis memiliki tuiuan sebagai berikut 1. Mengenal dan mengetahui cara keria website dinamis. 2. Mampu membuat database dan tabel pada MySQL 3 Mampu memanipulasi data di dalam tabel | B. Landasan teori 4.1 Database 411 Pengertian Website Dinamis Website dinamis adalah jenis situs web berupa halaman website dimana isi konten dapat diubah melalui halaman admin tanpa harus membuka source code. Hal ini disebabkan oleh konten website yang sudah tersimpan di dalam database selain itu website dinamis dapat diperbaharui secara berkala tanpa harus membuka source code sehingga orang awam dapat mengubah tanpa perlu menguasai bahasa pemrograman tertentu Halaman website dinamis biasanya ditulis dalam bahasa pemrograman server side seperti PHP ASP . JSP dan lainnya yang mendukung konektivitas dengan database. Pembuatan database dapat dilakukan dengan SQL server MySQL ataupun Microsoft Access. Keinginan pengguna terakhir ( end user yang diakomodasi adalah mengambil informasi atau menambahkan informasi yang berguna dan terkini dari atau ke dalam database. Kapasitas database yang besar akan mendukung penyediaan informasi yang optimal sehingga dapat berjalan dengan baik walaupun diakses oleh ribuan orang dalam waktu yang bersamaan. Pada website dinamis juga memerlukan kapasitas yang besar karena akan digunakan untuk menampung informasi yang dikirim oleh end user Di samping itu 1 tipe ini bersifat interaktif karena teriadi dialog antara end user dengan webmaster maupun antar end user melalui forum yang disediakan Informasi pada website dinamis berkembang sesuai dengan waktu sebenarnya ( real time * | Oleh karena itu website ini selalu mendapatkan informasi terbaru sesuai apa yang terjadi pada waktunya. Selain itu 1 website dinamis memberikan hal yang baru baik dari sisi tampilan maupun kemudahan dalam perawatan ( maintenance I O. sehingga website dengan model tersebut sangat diminati di semua kalangan baik di dunia pendidikan maupun perusahaan karena dapat memenuhi kebutuhan end user Beberapa contoh website dinamis yaitu Youtube : Shopee 2 Instagram | Traveloka. SPADA 1 dan lain sebagainya ( Widia & Asriningtias S. 2021 ). 64 "
+}
+75:{
+"page":75
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 309]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4. hanen cor a nati0 a Vouluhe laboratorium.ums x clen Laboratorium Teknik Industri UMS Shorts laboratoriumte duntiann no e 70vider uhenintien ONATORIUM A ahouthiechanr mor Se Lt Home Videor Plavlists Sia intelik videns Ponula Oides commnant andsubecribe Siann n a o Eynlore t Trendion M SPENGOLAHANDATA APENGOLAHANDATA MO 3PENGOLAHAN DATA M MATER DISIOLOG BIOMEKANIKAILPTLL202 FISIOLOGLIIT&ANOV APTIM EISIOLOGULPTL0 RIOMEKANIKA PTI 2025 1d da dae Mov G ne : 8 Spon i Gambar 4. 1 User Interface Website Dinamis Website dinamis memiliki kelebihan dan kekurangan dibandingkan dengan website statis diantaranya sebagai berikut a Kelebihan 1 Menggunakan bahasa yang fleksibel sehingga dapat dikombinasikan dengan fungsi yang ada dengan bahasa pemrograman lainnya 2 Konten dan layout dapat dilakukann perubahan sesuai dengan keinginan pembuat selain itu konten dan lavout halaman dibuat terpisah | sehingga loading pada halaman lebih cepat 3. Menggunakan database untuk menyimpan konten atau isi 4 , Memfasilitasi komunikasi 2 arah antara admin dan juga visitor ( pengunjung web | yang memungkinkan untuk dilakukan interaksi 5. Memiliki banyak fitur tambahan yang memudahkan pengelola dan pengguna untuk bekerjasama. 6 Dalam pembuatan web lebih mudah dengan menggunakan Content Management System ( CMS | karena tools yang tersedia. 7. Penggunaan bahasa pemrograman website dinamis lebih banyak seperti PHP ASP. | JSP Python dan lainnya b. Kekurangan 1 Dalam pembuatan file website dibutuhkan hosting yang cukup besar 2. Membutuhkan dana lebih banyak untuk pengembangan dan biaya hosting yang lebih mahal I 3 Website dinamis lebih kompleks sehingga sering teriadi error jika dalam pengerjaannya tidak dilakukan dengan teliti 4. Rentan terhadap serangan keamanan seperti SQL injection atau cross-site scripting 7 (Laugi, 2018 | 4.1.2 Cara Kerja. User atau client melakukan request kepada URL yang akan direspon oleh URL Conf dan memilih view sesuai request Selanjutnya view akan menampilkan template sesuai dengan request yang diminta oleh client Jika membutuhkan data 65 "
+}
+76:{
+"page":76
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 280]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 yang diminta. maka pada model akan membuat struktur data sesuai request melalui query yang sesuai. Berikutnya data akan diminta ke database yang sudah sesuai kemudian akan dikirimkan ke model dan akan merespon data ke vien Pada view akan dipilihkan HTML yang sesuai untuk ditampilkan ke client python django urls.py a Rea e | Request Request > Query , 4 Read > 2 Write D Client WAa Pag Internet Re onse z views.py models.py database A Inaut Disnlay User Dat < main.html Gambar 4. Arsitektur Django dengan Database 4.1.3 Pengenalan Database Basis data merupakan kumpulan data yang terstruktur secara sistematis untuk mempermudah pengelolaan dan akses. Sistem basis data mencakup model data skema serta bahasa kueri yang mendukung interaksi dengan data ( Fahzirah 2024 Y Data sendiri adalah representasi dari fakta yang dapat dicatat dan memiliki fungsi Database sendiri akan tersimpan pada hardware komputer secara online maupun offline serta dapat digunakan untuk diolah maupun dimanipulasi menjadi suatu informasi. Berikut merupakan tuiuan | fungsi, kelebihan dan kekurangan dari database a Tujuan 1. Agar data dapat diatur dengan mudah. tepat, dan cepat dalam penggunaannya 2. Agar tidak terjadi duplikasi data sehingga konsistensi data dapat terjaga. 3 Supaya data tidak bergantung pada program aplikasi yang digunakan I 4 Memastikan integritas dan validitas data tetap terjaga. b Fungsi 1 Mempermudah proses penyimpanan | akses | dan pembaruan data. 2 Membantu penyimpanan data dalam jumlah besar 3. Mengelompokkan data dan informasi agar dapat lebih mudah digunakan. 4 , Memungkinkan pengguna untuk melakukan pencarian data secara cepat dan akurat 5. Mendukung transaksi data yang aman dan terstruktur 6. Menghubungkan berbagai 1 ienis data untuk mendapatkan informasi yang lebih kompleks. 66 "
+}
+77:{
+"page":77
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 329]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4. C. Kelebihan 1. Kemudahan dalam mengubah dan memperbarui data. 2. Memiliki standar keamana data yang tinggi. 3. Mempercepat dan mempermudah pengambilan informasi 1 4. Dapat digunakan oleh banyak pengguna secara bersamaan tanpa konflik 5. Mencegah terjadinya inkonsistensi data 6 Mendukung pencadangan dan pemulihan data untuk menghindari kehilangan data. d. Kekurangan 1. Proses backup membutuhkan waktu cukup lama. 2. Membutuhkan spesifikasi perangkat yang tinggi agar dapat berjalan lancar 3 Sistem cukup rumit. sehingga membutuhkan perhatian dan pemeliharaan yang lebih. 4. Memerlukan sumber daya yang besar untuk pengelolaan database berskala besar Informasi yang terdapat pada database dapat diakses dengan database Management System (DBMS ). Database Management System didefinisikan sebagai sistem perangkat lunak yang memungkinkan pengguna untuk dapat membuat. memelihara, dan mengontrol mengakses ke database I DBMS mengizinkan pengguna untuk menyimpan mengambil, dan memanipulasi data dengan cara yang terstruktur dan terpusat Arsitektur DBMS mencakup komponen- komponen utama seperti model data I mesin penyimpanan A bahasa query | dan pengelola transaksi ( Manroe - 2018 I DBMS ( Database Management Svstem 1 memiliki peran yang sangat penting dalam perkembangan aplikasi dan sistem di dunia. Saat ini, berbagai perusahaan besar baik di tingkat nasional maupun internasional, memanfaatkan database untuk mendukung sistem aplikasinya. Terdapat banyak DBMS populer yang digunakan | seperti Oracle C Microsoft SQL Server MySQL - PostgreSQL , Microsoft Access, IBM DB2. dan lainnya. Database memiliki struktur yang menyusun penataan data didalamnya. Berikut merupakan struktur yang terdapat pada database. a. Field Field merupakan suatu elemen dari tabel yang berisi fakta tertentu yang terdiri dari sub judul pada tabel dan item data seperti nama, nim dan lain = lain b Table Tabel merupakan sekumpulan field dari data-data yang telah terekam pada sebuah sistem kumpulan table adalah database C. Data Data merupakan kumpulan fakta mengenai suatu objek tertentu yang dapat dinyatakan dalam angka, huruf gambar, video 1 suara dan lain -lain d. Informasi Informasi adalah hasil dari pengolahan suatu data yang memiliki suatu fungsi dalam penggunaannya. 67 "
+}
+78:{
+"page":78
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 400]
+[400 - 413]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 Berikut merupakan tampilan struktur database pada phpMyAdmin. Table structure Relation view # Name Type Collation Attributes Nul Default Comments Extra Action | id int(11 No None AUTO INCREMENT Change a Drop More | Nama varchar(100 utf8mb4 general ci Yes NUL Change Drop More | NIM varchar(50 utf8mb4 general_ci Yes NUL Change e Drop More L Alamat varchar(100 utf8mb4_genera ci Yes NUL Change a Drop More O Check all With selected Browse A Change e Drop Primarv U Unique Index Sp Gambar 4. .3 Struktur Tabel PhPMyAdmin 4.2 XAMPP dan Pembuatan Database 4.2.1 Pengenalan XAMPP XAMPP adalah perangkat lunak bersifat open source yang dikembangkan oleh Apache dan dapat digunakan pada berbagai jenis sistem operasi seperti Windows. Linux | dan Mac Os. XAMPP sendiri merupakan singkatan dari (X Cross platform A | Apache, M MySQL, P PHP P D Perl ). XAMPP pada dasarnya berfungsi sebagai server lokal. Server lokal ini berfungsi hanya pada device anda sendiri dan biasanya digunakan untuk menguji website sebelum diunggah ke server website jarak jauh. Untuk menguji website kita dapat menggunakan 2 modul yaitu Apache dan MySQL Apache adalah perangkat lunak server website yang dapat berjalan di berbagai sistem operasi dan bersifat open source yang dikembangkan oleh open source 2 Apache Software Foundation | Apache memiliki layanan protokol keamanan yang disebut sebagai HTTP ( Hypertext Transfer Protocol). Cara HTTP pekerja dengan didasarkan pada model arsitektur client-server tanpa status yang beroperasi dengan bertukar pesan melalui koneksi TCP/IP yang andal dan cara Apache bekeria yaitu dengan cara memproses file yang di request oleh client melalui website 7 serta menghasilkan output yang dibutuhkan client MYSQL adalah sistem manajemen basis data relasional ( RDBMS ) yang beroperasi sebagai server memungkinkan akses multi-- pengguna ke berbagai database Perangkat lunak ini bersifat open source dan berada dibawah lisensi GNU General Public License ( GPL). SQL (Structured Ouery Language merupakan bahasa yang digunakan dalam MySQL untuk mengelola data | yang tersimpan dalam obiek database yang disebut tabel. Tabel sendiri terdiri dari baris dan kolom yang menyimpan kumpulan data yang saling terkait. MySQL memiliki beberapa keunggulan | seperti keandalan A kemudahan penggunaan serta kemampuannya untuk mendukung satu atau lebih tabel dalam suatu database. Cara Menjalankan XAMPP a Buka aplikasi XAMPP yang sudah ter-install di device anda dengan cara run as administrator pada XAMPP Pada bagian service modul Apache dan MySQL diklik untuk instalasi hingga berubah meniadi tanda centang kemudian klik start pada kolom actions bagian Apache dan MySQL hingga 68 "
+}
+79:{
+"page":79
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 308]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 status start kedua modul tersebut berubah menjadi stop. Dan pastikan warna kedua modul berwarna hijau | Berikut merupakan tampilan utama dari XAMPP P XAMPP Control Pane v3.3.0 Compiled Apr 6th 2021 X 8 XAMPP Control Panel v3.3.0 A Config Modules Netstat Service Module PID(s Port(s Actions 22632 Apache 80 1920 443 Stop Admin Confio Lons Shell MvSOI 15684 3306 Stor Admin Confio Lons Explorer FileZills Start Admin Confio Logs Services Mercurv Start Admin Confio Loos G Heln Tomcat Start Admin Config Loos Quit 13-37-34 [mysql] Status change detected stopped 13:37:35 [Apachel Attempting to stop Apache PID 16772 13:37:35 [Apachel Attempting to stop Apache (PID 23288 13:37:35 [Apachel Status change detected stopped 13-37-37 [Apachel Attempting to start Apache app.. 13-37:37 [Apachel Status change detected [mysal to start MySQL running 13:37:38 Attempting app.. 13-37-38 [mysal] Status change detected running Gambar 4. 4 | Tampilan Utama XAMPP b Klik pushbutton c Admin pada bagian MySQL lalu tunggu hingga phpMyAdmin terbuka. phpMyAdmin digunakan untuk membuat database dan digunakan untuk mengelola database pada MySQL. Berikut merupakan tampilan dari phpMyAdmin n 10 at phpMuAdmin Datahese So Sean account Fano imnon Seminn Ranicatic Veriahie Charse Fonine Pluni Databases N aC datahe nfati madul a ane mde Ne n Chack De e 1 C Che ahom t mt Che a . Ch msd s Chen prhdoge nan A aane achan Cha N arakum Che Tota Nat Fond ate nea0 Fnat : Gambar 4. Tampilan Dashboard PhpMyAdmin 4.2.2 Membuat Database dan Tabel Pembuatan database dapat dilakukan dengan berbagai metode C seperti melalui command promt CMD , menggunakan perintah create di IDLE Python yang terhubung ke MySQL, atau melalui phpMyAdmin | Pemilihan metode bergantung pada kebutuhan masing masing program yang dikembangkan. Berikut ini adalah contoh pembuatan database sederhana yang terhubung dengan phpMyAdmin. ( Setiyadi, et al.. 2022 I 6 C "
+}
+80:{
+"page":80
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 228]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 Buka Hidupkan Pergi ke Buat Atur I I | XAMPP MySQL Browser Database database di phpMyAdmin VsCode a Penggunaan Script pembuatan database pada VsCode DATABASES : 'default VENGINE " django.db.backends.mysql 'Name 'prokom2025 'PASSWORD 'HOST 'localhost 'PORT 73306 | ocahos1700 pholvA localhos vho r G a phpMuAdmin O Databases E SQL Statur Lees accounts Exnor Import Settings Replication Variahle Charsets Enaines More A te Recent Cauruite Databases Nov d6002300 Crant datnhan anngan0or den0030020 frmndula Pokom2025 Collation Create daehbnar date mahasisu Gambar 4. 6 Pembuatan Database pada phpMyAdmin b Penggunaan Script pembuatan table pada VsCode from django.db import models class Basis( models.Model | Tipe / Barang : models.CharField( max | length=200 1 Jenis 6 Barang = models.CharField( max length=200 | Tanggal Pembuatan = models.DateField( max X length=200 1 Harga = models.IntegerField( null=True | Stock 1 = models.IntegerField( null=True def str ( self | return "I 1 .format( self.id I 4.2.3 Membuat Koneksi Database Pada Python Django 0 koneksi digunakan untuk menghubungkan dengan MySQL melalui connector atau jenis SQL I lainnya. Connector ini berperan dalam menghubungkan Python dengan database di MySQL A Beberapa langkah untuk membuat koneksi database antara lain sebagai berikut ( Setiyadi, et al.. 2022 ). a Install MySQL Connector Proses install dilakukan pada command prompt ( CMD ` dimana modul MySQL connector akan diunduh secara online pip3 install mysql-connector 70 "
+}
+81:{
+"page":81
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 202]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 b. Koneksi MySQL Dalam membuat sebuah database hendaknya menghubungkan terlebih dahulu MySQL yang ada. Berikut merupakan cara dalam mengkoneksikan MySQL yang ada pada VsCode. DATABASES = f 'default "ENGINE django.db.backends.mysql' NAME 'prokom2025 'USER 'PASSWORD 'HOST | 'localhost , 'PORT 73306 4.2.4 Pengiriman Data Formulir Mengisi data dalam database dapat dilakukan dengan memasukkan data kedalam sebuahform 1 Data yang telah dimasukkan dalam form kemudian ditransfer ke database. Metode GET adalah metode pengiriman data pada URL di browser sedangkan metode POST adalah metode pengiriman data dengan parsing query string pada background Metode GET mengirim data melalui URL , sedangkan metode POST mengirim data melalui body request (Dirjen et al., 2017). Proses pengiriman data tersebut memiliki dua metode yaitu GET - | dan POST a Metode GET Metode GET menampilkan data dan menambahkan URL yang nantinya ditampung pada action Proses pengiriman data tidak langsung dikirimkan tetapi menggunakan perantara URL #Script URLS from django.contrib import admin from django.urls import path include from | import views urlpatterns = I path( "'admin/ admin.site.urls ) path( | views.index | * #Script Views from django.shortcuts import render def index(request 1 return render(request 'index.html'.context - #Script Index < !DOCTYPE html> <html> <head> 71 "
+}
+82:{
+"page":82
+"words":
+[0 - 100]
+[100 - 160]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 <title>METODE GET</title> </head> <body> <h1>METODE GET</h1> <Form method ='GET> <label for = 'Nama '>Nama </label> <input type= "text 1 name "Nama" id="Nama" "> <br> <br> <label for = "NIM">NIM </label> <input type= "text 1 name "NIM id= "NIM "> <br> <br> <label for | "PRODI"> PRODI </label> <input type "text 1 name "PRODI' id= "PRODI"> <br> <button type "Submit ">Kirim</button> </Form> </body> </html> * C O 127.0.0.1:8000 METODE GET Nama Ilham Nasukha NIM D600230104 PRODI Teknik Industri Kirim Gambar 4. 7 Hasil Running Formulir Metode GET = C O 127.0.0.1:8000/2Nama =Ilham- Nasukha&NIM = D600230104&PRODI Teknik+ Industri METODE GET Nama NIM PRODI Kirim Gambar 4. . Hasil Running Formulir Metode GET(1 b. Metode POST Metode POST mengirimkan data langsung kepada action tanpa melalui URL schingga bersifat uncacheable ( tidak dapat disimpan pada cache) Proses pengiriman data dalam form secara langsung dikirimkan ke halaman yang dituiu. Jadi data akan langsung diterima oleh user 72 "
+}
+83:{
+"page":83
+"words":
+[0 - 100]
+[100 - 159]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 #Script Urls from django.contrib import admin from django.urls import path include from | import views urlpatterns = I path( "'admin/ admin.site.urls ) 1 path( views.index ) #Script Views from django.shortcuts import render def index(request ) context = | if request.method 'POST print( "Berhasil" | context['Nama' = request.POST|'Nama'| context['NIM'] = request.POST['NIM'] context['PRODI = request.POST[PRODI'] else print( "Gagal" ) return render(request 'index.html context | #Script Index <!DOCTYPE html> <html> <head> <title>] METODE POST</title> </head> <body> <h1>METODE POST</h1> <Form method='POST'> %csrf token% | <label for " = "Nama >Nama </label> <input type "'text name "Nama id: 'Nama"> <br> <br> <label for =' 1 'NIM">NIM </label> <input type "text 1 name 'NIM id= 'NIM' "> <br><br> <label for = "PRODI' ">PRODI </label> <input type= "text 1 name 'PRODI id "PRODI"> <br> <br> <button type= "Submit' '>Kirim</button> </Form> <h2> I ! Nama I I </h2> <h2> { NIM }}</h2> <h2> { PRODI} I </h2> </body> 73 "
+}
+84:{
+"page":84
+"words":
+[0 - 100]
+[100 - 183]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 </html> * A C G 127.0.0.1:8000 METODE POST Nama | Ilham Nasukha NIM D600230104 PRODI Teknik Industri Kirim A G 127.0.0.1:8000 METODE POST Nama NIM PRODI Kirin Iham Nasukha D600230104 Teknik Industri Gambar 4. 9 Hasil Running Formulir Metode POST 4.2. .5 DDL (Database Definition Language 2) B DML (Data Manipulation Language) DBMS ( Database Management System merupakan media perantara antar pengguna dengan suatu basis data yang tersimpan pada media penyimpanan dengan menggunakan bahasa khusus yang sudah diatur oleh perusahaan DBMS. DBMS memungkinkan pengguna untuk menyimpan | mengakses , dan mengelola data dengan mudah dan efisien Sistem ini juga menyediakan berbagai fitur seperti pencarian data. pembaruan data. serta keamanan data Pramarta et al.. 2021 Sebuah bahasa basis data biasanya dapat dipilah ke dalam 2 bentuk yaitu Data Definition Language DDL I dan Data Manipulation Language DML) a. DDL ( Data Definition Language Data Definition Language (DDL I merupakan perintah SQL yang digunakan untuk mendefinisikan atau mendeklarasikan obiek database 7 menciptakan obiek database atau bahkan menghapus objek database Data Definition Language yang umum dipakai yaitu 74 "
+}
+85:{
+"page":85
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 247]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 1. Create Digunakan untuk menciptakan obick database yang baru atau menciptakan database itu sendiri CREATE TABLE "industri 1 "id T serial NOT NULL PRIMARY KEY "barang varchar( 200 0 NOT NULL "'supplier 1 varchar( 200 O NOT NULL ) : 2. Rename Digunakan untuk merubah nama dari suatu obiek. Perintah di bawah akan mengubah nama tabel prodi menjadi program studi RENAME TABLE prodi TO program studi | ALTER TABLE prodi RENAME TO program studi 3 Alter Digunakan untuk mengubah atribut atau entitas dari obiek suatu database yang meliputi | menambah kolom 1 menghapus kolom F memberikan atribut. d11 I ALTER TABLE inventory ADD alamat suplier VARCHAR ALTER TABLE inventory DROP COLUMN nama suplier 4. Drop Digunakan untuk menghapus objek database dan table yang telah dibuat sehingga isi iyang ada dalam database dan table akan hilang / DROP DATABASE industri: DROP TABLE inventory b. DML (Data Manipulation Language * Data Manipulation Language (DML , merupakan query yang digunakan untuk memanipulasi data. seperti untuk menampilkan data, mengubah data. menghapus data atau mengisi data. Data Manipulation Language yang sering dipakai adalah 1 Select Perintah ini merupakan query yang digunakan untuk mengambil data atau menampilkan data. cursor = db.cursor( sql = "SELECT * FROM industri cursor.execute( sql) results = cursor.fetchall( 2. Insert Perintah ini digunakan untuk memasukkan data ke dalam tabel setelah database dan tabel selesai dibuat cursor = db.cursor sal = cc INSERT INTO industri ( barang, supplier VALUES (%s, %s 75 "
+}
+86:{
+"page":86
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 250]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 cursor.execute( sql I db.commit() 3. Update Perintah ini digunakan untuk melakukan perubahan pada data yang telah dimasukkan sebelumnya cursor = db.cursor sql | UPDATE industri SET barang =%s address=%s. WHERE id=%s cursor.execute( sql) db.commit( 4 Delete Perintah ini digunakan untuk menghapus data dari tabel Data yang telah dihapus tidak dapat dikembalikan lagi karena perintah yang dijalankan tidak dapat digagalkan. cursor = db.cursor sql = DELETE FROM industri WHERE id= %s cursor.execute( sql) db.commit() 4.3 Django Administration Django Administration adalah fitur bawaan dari framework Django yang menyediakan antarmuka administrasi berbasis web untuk mengelola data dalam aplikasi 1 Dengan Django Admin : pengembang dapat dengan mudah melakukan operasi CRUD ( Create, Read Update, Delete pada model database tanpa perlu membuat tampilan atau logika tambahan | Django Admin sangat berguna dalam pengelolaan data, seperti menambahkan | mengedit, atau menghapus entri dalam database, serta mengatur hak akses pengguna a Pengembangan Model Dalam framework Django | pengembangan struktur data di database tidak lagi diperlukan karena telah digantikan oleh model Django. Proses pengembangan aplikasi dimulai dengan merancang struktur data, tetapi Django menyederhanakan langkah ini dengan menyediakan model yang secara otomatis menangani struktur database. b. Konfigurasi Atribut Model Pengembangan atribut pada model dilakukan setelah class model ditentukan Class model ini dibuat di dalam file models.py pada masing -masing aplikasi yang telah dibuat. Setiap atribut pada model harus ditulis sesuai dengan format yang telah ditetapkan | Django sendiri menyediakan berbagai jenis format atribut. seperti CharField TextField. ForeignKey, dan IntegerField 76 "
+}
+87:{
+"page":87
+"words":
+[0 - 100]
+[100 - 134]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 C. Setup Registrasi Model Admin Untuk menampilkan class model pada halaman Django | setiap class model harus didaftarkan melalui Admin Proses registrasi ini wajib dilakukan agar model dapat diakses dan dikelola melalui antarmuka administrasi Django from django.contrib import admin # Register your models here. from models import Berita admin.site.register( Berita 1 d. Membuat User Django-Admin Framework Django secara default menyediakan tampilan login. Untuk dapat mengaksesnya, terlebih dahulu perlu dibuat akun superuser dengan menialankan perintah python manage.py createsuperuser melalui terminal atau command prompt. A dte D adni histration Gambar 4. 10 Tampilan Login Django Administration e. Tampilan Class Model Class model yang telah dibuat dan didaftarkan akan ditampilkan pada halaman web sesuai dengan lokasi aplikasi yang telah dikonfigurasi Berikut ini merupakan tampilan dari class model tersebut 77 "
+}
+88:{
+"page":88
+"words":
+[0 - 100]
+[100 - 110]
+"raw_text":"MODUL 1 MODUL 2 MODUL 3 MODUL 4 i IDiannesi al t000/admin Gonal Cunm Bula browse defaul addia afalt Dianne administration ADMIN G ec O Siteadministration An ATIn ANn uTun oTn Denn actions Chang Chenar ian Nan ualish Gambar 4. 11 Tampilan Class Model Django Administration f / Konfigurasi Form Atribut Django Administration Atribut yang telah dibuat pada class model, secara otomatis akan dibuat dalam form Form ini nantinya akan dimasukkan data. Adid a IDiann e localhostB000/admint critaloast/add Cn Chen Bulea r afa adiandafaule Diangc administration AD oun Hom Berita Adn Addnost T AI Conteh Ade a EERIT addannthe amoun ditinn Gambar 4. 12 Tampilan Form Atribut Class Model 78 "
+}
+89:{
+"page":89
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 340]
+"raw_text":"DAFTAR PUSTAKA Abadi. F. 2020. Pemrograman Web Dasar 1 Belaiar Html 5 Baniar Baru Cendekia. Adam Saputra, S. 2019. Buku Sakti Html. Css & Javascript. Yogyakarta | Anak Hebat Indonesia. Ani. Oktarini. S., Dkk 2019. Web Programming L Graha Ilmu Yogyakarta Astamal. R 2008. Dasar- Dasar Web Programming Linux User Group Stikom | :Surabaya Aziz A., Dkk. 2019. - , Panduan Pemilu Berbasis Website ( Teknologi Sistem Cerdas Dan Implementasi Di Masyarakat ) Deepublish Yogyakarta. C.A.R. M I A. W.. 2016. Konsep Dan Implementasi Pemrograman Gui. 1st Ed Yogyakarta S.N Effendi R. ( 2009 ). Keunikan Variabel Dalam Pemrograman Visual C+ Manajemen Informatika S 1(2 ). 1-8. Https://Www.Persee.Fr/Doc/Arch 0044- 8613_1977_Num 1311322 Faisal. R. M Abadi. F 2020. Pemrograman Web Dasar I | Belaiar Html 5. Scripta Cendekia Banjar Baru Gultom F.. Ginting 7 W.C.. Riswan | M. 2024. Perancangan Web Dengan Chat Gpt Untuk Meningkatkan Kualitas Akademik ( Studi Kasus | Universitas Efarina 1 Innovative Journal Of Social Science Research 4(1).5589-5600 Gunawan | Lawi. A & Adnan | 2016. Analisis Arsitektur Aplikasi Web Menggunakan Model View Controller (Mvc | Pada Framework Java Server Faces. Scientific Journal Of Informatics | 3(1), Pp. .55-67. Hadi. D. A 2015. Belajar Html & Css Dasar Aceh Hendrikus. 2014 Pengembangan Perangkat Pembelajaran Instalasi Sistem Opcrasi Berbasis Graphical User Interface. Jurnal Uny I Vol. 11. Pp. 55-67. Herlawati. H. And | Handayanto | R.T.. 2020. Penggunaan Matlab Dan Python Dalam Klasterisasi Data. Jurnal Kaiian Ilmiah I 20(1), Pp.103-118. Hidayati N. .2020. Pengembangan Sistem Informasi Pembelian Obat Secara Kredit Pada Apotik Dengan Menggunakan Model View Controller ( Mvc). J-Sakti (Jurnal Sains Komputer Dan Informatika ). 4(2), 457-471 | Hidayatullah | Priyanto & Kawistara. J 2017. Pemrograman Web. Bandung Informatika Bandung Huda. A.. Kom S.. Kom M And Ardi. N.. 2020. Dasar Dasar Pemrograman Berbasis Python Unp Press. Kadir A. 2003. Pemrograman Web Mencakup | Html | Css 3 Javascript, & Php O Penerbit Andi. Yogyakarta. Kurniawan | 2020. Pembelaiaran Pemrograman Python Dengan Pendekatan Logika Dan Algoritma. Jurnal Teknik Informatika Mahakarya, Vol 3 2 No2. | 1-37. 79 "
+}
+90:{
+"page":90
+"words":
+[0 - 100]
+[100 - 200]
+[200 - 300]
+[300 - 376]
+"raw_text":"Loganathan | Venkaethswaran 2013. Pyside Gui Application Development, Packt Publishing Ltd | Birmingham Loganathan Venkaethswaran 2016. Pyside GuiApplication Development, 2ud Edn | Packt Publishing Ltd Birmingham Ma' arif 2020 | Buku Ajar Pemrograman Lanjut Bahasa Pemprograman Python Yogyakarta M Levi. H. P. 2020. Perbandingan Performa Tools Web Scraping Pada Website Dengan Data Dinamis Dan Statis. Jurnal Infra | 1-27 Muhammad, R. & Kurniawan | B. 2020. Pembelaiaran Pemrograman Python Dengan Pendekatan Logika Algoritma. Jtim * Jurnal Teknik Informatika Mahakarya, 03(2),37-44 Nadita. V.. Sucipto O A., Octaviansyah A F. Irawan D.. Meilisa, L.2022. Rancang Bangun Aplikasi Laporan Marketing Secara Real Time Berbasis Web-Mobile ( Studi Kasus Pt International Business Futures ). Jurnal Ilmiah Infrastruktur Teknologi Informasi. 3(1), 1-8. Ningsih, S.R.. Suryani, A. L. : Sinlae A A. A.J.. Halid | A.. Markani, Muttaqin., Et A1. 2022. Perancangan Basis Data Yayasan Kita Menulis | Medan Pane | S & YogiA.S. | 2020. Big Data Classification Behavior Menggunakan Python Bandung | Kreatif Industri Nusantara Priyatno | A.M | Firmanda. F.. Farhas S. R.J., Amalia, F. And Sudirman A W.F.R.. 2023. Pelatihan Data Science Menggunakan Bahasa Pemrograman Python Di Pt Ilmu Data Indonesia. Dedikasi: Jurnal Pengabdian Pendidikan Dan Teknologi Masyarakat, 1(1), Pp.31-36. Purba. H.S. Kom | M . Sukmawati, R.A. Kom | M And Adini, M.H.. 2021. Pemrograman Dasar Menggunakan Python Deepublish. Raharjo O B. 2016 Pemrograman Gui Dengan Python Dan Pyqt. Bandung * Informatika Bandung Rahmatya, D.2023. Online Attendance With Python Face Recognition And Django Framework Jurnal Sistemasi, 1-52. Rerung T R. 2018. Pemrograman Web Dasar Cv Budi Utama | Yogyakarta. Ricart, A. B.. 2013. Crowdsim Sistem Simulasi Crowdsourcing Pusat Fakultas Informatika Barcelona. Volume L P. 46. Risyda | F.. & Nuryamin | Y. 2023. Perancangan Sistem Informasi Manajemen Invoice Menggunakan Generator Freamwork Django-Python Berbasis Website Pada Pt. Lampuind Tekno Elektrik Jsi ( Jurnal Sistem Informasi | Universitas Suryadarma A 10(1), 207-220 Sabita | H.. Herwanto | R.. Syafitri, Y., & Prasetyo I B. D. 2022. Pengembangan Aplikasi Akreditasi Program Studi Berbasis Framework Django. Jurnal Informatika | 22(1), 33-37 / Safriadi, N.. 2021. Academic Resources Management Information System ( Armis | Dengan Arsitektur Model View Control ( Mvc ). Jurnal Elkha. 4(1), Pp. 1-6. Saputra, D. .& Aji, R. | F. 2018. Analisis Perbandingan Performa Web Service Rest 80 "
+}
+91:{
+"page":91
+"words":
+[0 - 100]
+[100 - 149]
+"raw_text":"Menggunakan Framework Laravel Django Dan Ruby On Rails Untuk Akses Data Dengan Aplikasi Mobile.Bangkit Indonesia, 2(7), Pp. 17-22 Saputra, M. I H K. & Aprilian I L V.. 2020. Belaiar Cepat Metode Saw Kreatif Industri Nusantara, Bandung Sari. Mardianus C Ayu | Deanis., 2020 Tips Cerdas Bersama Python | Pontianak Sastradipraja, C. | K. & Munawar Z.. 2022. Konsep Dasar Teknologi Web Kaizen Media Publishing Bandung Setiyadi | D. . Retnoningsih | E.. & Rofiah S., 2022. Database Fundamental Dan Implementasinya Dengan Mysql, Literasi Nusantara Abadi. Malang Siahaan | V & Rismon H. S. 2019. Pemrograman Gui Python Dan Database Wiget Pyqt, Sqlite : Mysql, Dan Grafika. Yogyakarta Sparta Publishing Sianipar, R. H 2015. Html 5 Dan Css 3 Belajar Dari Kasus ( Vol. 1). Penerbit Informatika | Sunarya | Mh & Bahit M I 2020 Pemrograman Internet Deepublish Baniarmasin Yuniarti. W.D..2019. | Dasar-Dasar Pemrograman Dengan Python. Deepublish 81 "
+}
+92:{
+"page":92
+"words":[
+0:{
+"text":"I"
+"xmin":1546
+"ymin":1848
+"xmax":1644
+"ymax":1949
+}
+1:{
+"text":"B"
+"xmin":1126
+"ymin":1831
+"xmax":1394
+"ymax":2054
+}
+2:{
+"text":"|"
+"xmin":905
+"ymin":1913
+"xmax":986
+"ymax":1972
+}
+3:{
+"text":"|"
+"xmin":863
+"ymin":1898
+"xmax":889
+"ymax":1901
+}
+4:{
+"text":"|"
+"xmin":1322
+"ymin":1797
+"xmax":1385
+"ymax":1851
+}
+5:{
+"text":"I"
+"xmin":1298
+"ymin":1816
+"xmax":1335
+"ymax":1845
+}
+6:{
+"text":"HO"
+"xmin":1401
+"ymin":1429
+"xmax":1777
+"ymax":1672
+}
+7:{
+"text":"X"
+"xmin":1209
+"ymin":1464
+"xmax":1464
+"ymax":1724
+}
+8:{
+"text":"I"
+"xmin":1321
+"ymin":1725
+"xmax":1405
+"ymax":1817
+}
+9:{
+"text":"I"
+"xmin":1410
+"ymin":1571
+"xmax":1426
+"ymax":1599
+}
+10:{
+"text":"Ddd"
+"xmin":771
+"ymin":1485
+"xmax":1262
+"ymax":1740
+}
+11:{
+"text":"5"
+"xmin":1105
+"ymin":1710
+"xmax":1243
+"ymax":1866
+}
+12:{
+"text":"A"
+"xmin":911
+"ymin":1727
+"xmax":950
+"ymax":1787
+}
+13:{
+"text":"II"
+"xmin":306
+"ymin":505
+"xmax":537
+"ymax":674
+}
+14:{
+"text":"7"
+"xmin":287
+"ymin":553
+"xmax":315
+"ymax":581
+}
+15:{
+"text":"7"
+"xmin":211
+"ymin":515
+"xmax":287
+"ymax":579
+}
+]
+"raw_text":"I B | | | I HO X I I Ddd 5 A II 7 7 "
+}
+]

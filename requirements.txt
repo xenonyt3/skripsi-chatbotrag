@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+scikit-learn
+numpy
+requests
+pydantic
+PyMuPDF
+PyPDF2
+PyQt5

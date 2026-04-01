@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8"/>
+  <title>CHATBOT Praktikum PTI - Asisten Praktikum Terpadu</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <style>
+    :root{--bg:#f6f7fb;--fg:#111;--me:#d1e7ff;--bot:#fff;--muted:#666;--line:#e9e9ef;--accent:#111}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,Arial,Segoe UI,Roboto;background:var(--bg);color:var(--fg)}
+    .wrap{max-width:920px;margin:0 auto;height:100vh;display:flex;flex-direction:column}
+    header{padding:14px 18px;background:#fff;border-bottom:1px solid var(--line);font-weight:600}
+    .cfg{display:flex;gap:8px;align-items:center;padding:8px 16px;color:var(--muted);font-size:14px}
+    .cfg input,.cfg select{font:inherit;padding:8px;border:1px solid #ddd;border-radius:10px;background:#fff}
+    .cfg button{padding:8px 14px;border:0;border-radius:10px;background:var(--accent);color:#fff;cursor:pointer}
+    main#log{flex:1;overflow:auto;padding:16px;display:flex;flex-direction:column;gap:10px}
+    .row{display:flex}
+    .row.me{justify-content:flex-end}
+    .bubble{max-width:75%;padding:10px 14px;border-radius:16px;box-shadow:0 1px 2px rgba(0,0,0,.06);white-space:pre-wrap;line-height:1.35}
+    .bubble.me{background:var(--me);border-top-right-radius:4px}
+    .bubble.bot{background:var(--bot);border-top-left-radius:4px}
+    footer{display:flex;gap:10px;padding:12px;background:#fff;border-top:1px solid var(--line)}
+    textarea{flex:1;min-height:46px;max-height:160px;resize:vertical;padding:10px 12px;border:1px solid #ddd;border-radius:10px;font:inherit}
+    button.send{padding:10px 16px;border:0;border-radius:10px;background:var(--accent);color:#fff;cursor:pointer}
+    button.send[disabled]{opacity:.6;cursor:progress}
+    .typing{align-self:flex-start;font-size:12px;color:var(--muted);padding:0 16px 10px}
+    .spinner{display:inline-block;width:14px;height:14px;border:2px solid #ccc;border-top-color:#999;border-radius:50%;animation:spin 0.8s linear infinite;margin-right:6px}
+    @keyframes spin{to{transform:rotate(360deg)}}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <header>CHATBOT Praktikum PTI - Asisten Praktikum Terpadu</header>
+
+  <div class="cfg">
+    Mode:
+    <select id="mode">
+      <option value="ollama">ollama</option>
+      <option value="extractive">extractive</option>
+    </select>
+    Top-k: <input id="topk" type="number" value="8" min="1" max="8" style="width:72px">
+    <button id="btn-greet" title="Kirim sapaan">Sapa</button>
+  </div>
+
+  <main id="log"></main>
+
+  <footer>
+    <textarea id="msg" placeholder="Ketik pesan…  Tulis 'reset' untuk hapus riwayat."></textarea>
+    <button class="send" id="send-btn" onclick="send()">Kirim</button>
+  </footer>
+</div>
+
+<script>
+  const logEl = document.getElementById('log');
+  const msgEl = document.getElementById('msg');
+  const sendBtn = document.getElementById('send-btn');
+  const greetBtn = document.getElementById('btn-greet');
+
+  const sid = localStorage.getItem('sid') || (crypto.randomUUID ? crypto.randomUUID() : String(Date.now()));
+  localStorage.setItem('sid', sid);
+
+  // sapaan awal (sekali)
+  if (!sessionStorage.getItem('greeted')) {
+    addBubble("Halo Praktikan PTI! 👋 Ada yang bisa saya bantu?", 'bot');
+    sessionStorage.setItem('greeted', '1');
+  }
+
+  // Enter = kirim, Shift+Enter = baris baru
+  msgEl.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      send();
+    }
+  });
+
+  greetBtn.addEventListener('click', () => {
+    addBubble("halo", 'me');
+    sendCore("halo");
+  });
+
+  function addBubble(text, who){
+    const row = document.createElement('div');
+    row.className = 'row ' + (who==='me' ? 'me' : '');
+    const bub = document.createElement('div');
+    bub.className = 'bubble ' + (who==='me' ? 'me' : 'bot');
+    bub.textContent = text; // aman dari HTML injection
+    row.appendChild(bub);
+    logEl.appendChild(row);
+    logEl.scrollTop = logEl.scrollHeight;
+  }
+
+  let busy = false;
+  let typingEl = null;
+
+  function setTyping(on){
+    if (on) {
+      if (!typingEl) {
+        typingEl = document.createElement('div');
+        typingEl.className = 'typing';
+        typingEl.innerHTML = '<span class="spinner"></span>Mengetik…';
+        logEl.appendChild(typingEl);
+        logEl.scrollTop = logEl.scrollHeight;
+      }
+    } else {
+      if (typingEl) {
+        typingEl.remove();
+        typingEl = null;
+      }
+    }
+  }
+
+  async function send(){
+    const raw = msgEl.value;
+    const msg = raw.trim();
+    if (!msg || busy) return;
+    msgEl.value = '';
+    addBubble(msg, 'me');
+    await sendCore(msg);
+  }
+
+  async function sendCore(msg){
+    busy = true;
+    sendBtn.setAttribute('disabled','true');
+    setTyping(true);
+
+    const payload = {
+      session_id: sid,
+      message: msg,
+      mode: document.getElementById('mode').value,
+      top_k: parseInt(document.getElementById('topk').value, 10) || 3
+    };
+
+    try {
+      const r = await fetch('/chat', {
+        method:'POST',
+        headers:{'Content-Type':'application/json'},
+        body: JSON.stringify(payload)
+      });
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      const j = await r.json();
+      setTyping(false);
+      addBubble(j.answer || JSON.stringify(j), 'bot');
+    } catch (err) {
+      setTyping(false);
+      addBubble(`❌ Gagal mengirim: ${err.message}`, 'bot');
+    } finally {
+      busy = false;
+      sendBtn.removeAttribute('disabled');
+      msgEl.focus();
+    }
+  }
+</script>
+</body>
+</html>

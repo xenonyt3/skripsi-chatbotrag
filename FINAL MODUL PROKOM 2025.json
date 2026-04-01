@@ -1,0 +1,1052 @@
+json
+{"title": "MODUL PRAKTIKUM", "subtitle": "Praktikum Pemrograman Komputer 2025"}
+
+
+<!-- Page Break - Batch 2 -->
+
+
+json
+{"DAFTAR ISI": null, "DAFTAR ISI...": "i", "TATA TERTIB": "ii", "MODUL I PYTHON DASAR": "1", "1.1 Python": "1", "1.2 Cara Penginstalan Python dan VSCode.": "2", "1.3 Cara Penggunaan Python": "7", "1.4 Kelebihan dan Kekurangan Pada Python": "10", "1.5 Variabel, Tipe Data, dan Operator.": "10", "1.6 Kontrol Program Pada Python": "16", "1.7 Fungsi dan Parameter.": "19", "MODUL II GUI (Graphical User Interface)": "21", "2.1 Pengenalan GUI (Graphical User Interface) dan PySide2.": "21", "2.2 Widget dan Dialog..": "21", "2.3 Manajemen Tata Letak (Layout)": "29", "2.4 Visualisasi Data Python": "31", "MODUL III WEBSITE STATIS": "35", "3.1 HTML": "35", "3.2 CSS": "46", "3.3 Django": "51", "3.4 Text Editor": "62", "MODUL IV WEBSITE DINAMIS": "64", "4.1 Database": "64", "4.2 XAMPP dan Pembuatan Database": "68", "4.3 Django Administration.": "76", "DAFTAR PUSTAKA": "79"}
+
+
+<!-- Page Break - Batch 3 -->
+
+
+json
+{
+  "TATA TERTIB": "TATA TERTIB",
+  "PRAKTIKUM PEMROGRAMAN KOMPUTER 2025": "PRAKTIKUM PEMROGRAMAN KOMPUTER 2025",
+  "Ketentuan Praktikum": "Ketentuan Praktikum",
+  "Semua praktikan wajib bergabung ke dalam grub WhatsApp Praktikum": "Semua praktikan wajib bergabung ke dalam grub WhatsApp Praktikum",
+  "Pemrograman Komputer 2025.": "Pemrograman Komputer 2025.",
+  "Tidak ada toleransi keterlambatan dalam pengumpulan: Tugas": "Tidak ada toleransi keterlambatan dalam pengumpulan: Tugas",
+  "Pendahuluan, Pre-Test, Praktikum, Post-Test Praktikum, Laporan, dan": "Pendahuluan, Pre-Test, Praktikum, Post-Test Praktikum, Laporan, dan",
+  "ACC Paham. Apabila terlambat praktikum akan dikenakan inhal sesuai": "ACC Paham. Apabila terlambat praktikum akan dikenakan inhal sesuai",
+  "ketentuan antara praktikan dan asisten.": "ketentuan antara praktikan dan asisten.",
+  "Apabila terjadi permasalahan dalam pengumpulan tugas (koneksi, error,": "Apabila terjadi permasalahan dalam pengumpulan tugas (koneksi, error,",
+  "mati listrik, dsb) bisa segera menghubungi asisten pengampu masing-": "mati listrik, dsb) bisa segera menghubungi asisten pengampu masing-",
+  "masing.": "masing.",
+  "Tidak ada toleransi terhadap segala bentuk kecurangan, plagiarism, dan": "Tidak ada toleransi terhadap segala bentuk kecurangan, plagiarism, dan",
+  "hal-hal sejenis. Praktikan yang melanggar 1 kali akan diberikan sanksi": "hal-hal sejenis. Praktikan yang melanggar 1 kali akan diberikan sanksi",
+  "berupa penguragan nilai hingga memberi nilai 0 untuk asistensi, laporan,": "berupa penguragan nilai hingga memberi nilai 0 untuk asistensi, laporan,",
+  "dan pemahaman untuk modul yang bersangkutan. Untuk praktikan yang": "dan pemahaman untuk modul yang bersangkutan. Untuk praktikan yang",
+  "terbukti melanggar lebih dari satu kali maka sanksi terberat adalah": "terbukti melanggar lebih dari satu kali maka sanksi terberat adalah",
+  "praktikan dinyatakan gagal mengikuti Praktikum Pemrograman": "praktikan dinyatakan gagal mengikuti Praktikum Pemrograman",
+  "Komputer dan akan mengulang pada periode praktikumnya berikutnya.": "Komputer dan akan mengulang pada periode praktikumnya berikutnya.",
+  "Segala kegiatan praktikum diwajibkan membawa kartu praktikum dan": "Segala kegiatan praktikum diwajibkan membawa kartu praktikum dan",
+  "cocard.": "cocard.",
+  "Ketentuan lebih lanjut akan disampaikan pada berjalannya praktikum.": "Ketentuan lebih lanjut akan disampaikan pada berjalannya praktikum.",
+  "Kehadiran Praktikum": "Kehadiran Praktikum",
+  "Semua Praktikan wajib hadir tepat waktu sebelum praktikan dimulai atau": "Semua Praktikan wajib hadir tepat waktu sebelum praktikan dimulai atau",
+  "akan dikenakan sanksi, yaitu:": "akan dikenakan sanksi, yaitu:",
+  "Keterlambatan < 10 menit diperkenankan praktikum, tetapi waktu": "Keterlambatan < 10 menit diperkenankan praktikum, tetapi waktu",
+  "pengerjaan Pre-Test dikurangi sebanyak keterlambatan.": "pengerjaan Pre-Test dikurangi sebanyak keterlambatan.",
+  "Keterlambatan 10-15 menit diperkenankan mengikuti praktikum,": "Keterlambatan 10-15 menit diperkenankan mengikuti praktikum,",
+  "tanpa ada Pre-Test.": "tanpa ada Pre-Test.",
+  "Keterlambatan > 15 menit tidak diperkenankan mengikuti praktikum": "Keterlambatan > 15 menit tidak diperkenankan mengikuti praktikum",
+  "dan diberikan inhal.": "dan diberikan inhal.",
+  "Praktikan harus datang sesuai jadwal (shift). Asisten tidak menerima": "Praktikan harus datang sesuai jadwal (shift). Asisten tidak menerima",
+  "alasan apapun terkait pelanggaran tersebut kecuali yang telah ditetapkan": "alasan apapun terkait pelanggaran tersebut kecuali yang telah ditetapkan",
+  "pada poin selanjutnya dan praktikan yang bersangkutan dipersilahkan": "pada poin selanjutnya dan praktikan yang bersangkutan dipersilahkan",
+  "keluar dari ruang praktikum. Jika ingin tukar jadwal maka wajib": "keluar dari ruang praktikum. Jika ingin tukar jadwal maka wajib",
+  "konfirmasi kepada asisten maksimal 1 hari sebelum praktikum": "konfirmasi kepada asisten maksimal 1 hari sebelum praktikum",
+  "berlangsung.": "berlangsung.",
+  "Bagi praktikan yang berhalangan hadir karena:": "Bagi praktikan yang berhalangan hadir karena:",
+  "Sakit, praktikan wajib memberi tahu asisten dan membawa surat": "Sakit, praktikan wajib memberi tahu asisten dan membawa surat",
+  "keterangan dokter maksimal 2 hari setelah tanggal praktikan": "keterangan dokter maksimal 2 hari setelah tanggal praktikan",
+  "ii": "ii"
+}
+
+
+<!-- Page Break - Batch 4 -->
+
+
+json
+{"berhalangan_Jika_melanggar_maka_praktikan_tersebut_dianggap_tidak_mengikuti_praktikum_tanpa_keterangan":"true", "Izin_praktikan_wajib_menyerahkan_surat_keterangan_izin_maksimal_1_hari_sebelum_praktikum_pada_hari_yang_berhalangan_Jika_melanggar_maka_praktikan_tersebut_dianggap_tidak_mengikuti_praktikum_tanpa_keterangan":"true", "Terkena_musibah_praktikan_wajib_memberi_tahu_asisten_maksimal_1_hari_setelah_shift_yang_bersangkutan_berlangsung_Jika_melanggar_maka_praktikan_tersebut_dianggap_tidak_mengikuti_praktikum_tanpa_keterangan":"true", "Tanpa_keterangan_praktikan_tersebut_dianggap_tidak_mengikuti_praktikum_Selain_itu_praktikan_juga_mendapatkan_sanksi_nilai_0_dari_nilai_praktikum_untuk_modul_yang_bersangkutan":"true", "Praktikan_yang_tidak_hadir_sakit_izin_tanpa_keterangan_sebanyak_lebih_dari_satu_kali_dinyatakan_gagal_mengikuti_Praktikum_Pemrograman_Komputer_dan_harus_mengulang_kembali_di_periode_berikutnya":"true", "Bagi_praktikan_yang_berhalangan_hadir_harus_mengikuti_praktikum_susulan_dan_dikenakan_inhal":"true", "Praktikum":"true", "Tahapan_alur_Praktikum_Pemrograman_Komputer_adalah_sebagai_berikut":"true", "iii": "true"}
+
+
+<!-- Page Break - Batch 5 -->
+
+
+json
+{"Mulai": "Mulai", "Tugas Pendahuluan": "Tugas\nPendahuluan", "Pre Test": "Pre Test", "Praktikum": "Praktikum", "Video praktikum": "Video\npraktikum", "Penugasan Praktikum": "Penugasan\nPraktikum", "Asistensi": "Asistensi", "ACC Paham": "ACC\nPaham", "Evaluasi": "Evaluasi", "Post Test": "Post Test", "Selesai": "Selesai", "Modul dan kartu praktikum milik sendiri wajib dibawa saat praktikum.": "Modul dan kartu praktikum milik sendiri wajib dibawa saat praktikum.", "Jika tidak membawa salah satu atau keduanya maka diberikan sanksi -30 poin dari nilai praktikum untuk modul yang bersangkutan.": "Jika tidak membawa salah satu atau keduanya maka diberikan sanksi -30\npoin dari nilai praktikum untuk modul yang bersangkutan.", "TP (Tugas Pendahuluan) merupakan syarat utama untuk mengikuti praktikum dan harus dikumpulkan tepat waktu. Nilai TP minimal adalah 55. Jika tidak memenuhi maka dikenakan sanksi review 1 jurnal nasional tentang modul terkait dengan batas pengumpulan sebelum praktikum modul selanjutnya.": "TP (Tugas Pendahuluan) merupakan syarat utama untuk mengikuti\npraktikum dan harus dikumpulkan tepat waktu. Nilai TP minimal adalah\n55. Jika tidak memenuhi maka dikenakan sanksi review 1 jurnal nasional\ntentang modul terkait dengan batas pengumpulan sebelum praktikum\nmodul selanjutnya.", "Apabila diketahui terdapat plagiarisme dalam TP maka nilai TP 0 (pemberi dan penerima).": "Apabila diketahui terdapat plagiarisme dalam TP maka nilai TP 0\n(pemberi dan penerima).", "iv": "iv"}
+
+
+<!-- Page Break - Batch 6 -->
+
+
+json
+{"Asistensi dan Laporan": true, "Asistensi merupakan kegiatan konsultasi yang dilakukan praktikan dengan asisten dalam menyelesaikan penugasan program dan laporan praktikum sesuai ketentuan.": true, "Asistensi dilaksanakan setelah selesai praktikum untuk modul yang bersangkutan.": true, "Tata cara, waktu, dan tempat asistensi diatur sepenuhnya oleh asisten dengan segala pertimbangan dan kesepakatan bersama.": true, "Setiap kegiatan asistensi praktikan wajib membawa lembar asistensi untuk modul yang bersangkutan. Asisten berhak menolak asistensi jika praktikan tidak membawa lembar asistensi tersebut.": true, "Laporan praktikum yang dinyatakan sesuai ketentuan akan mendapatkan keterangan ACC (disetujui) pada lembar asistensi.": true, "Laporan akan di ACC apabila praktikan telah paham dengan modul yang bersangkutan dari praktikum, program, laporan, dan sebagainya.": true, "Praktikan yang laporannya tidak di ACC sebanyak 2 kali dinyatakan gagal mengikuti Praktikum Pemrograman Komputer dan harus mengulang kembali di periode berikutnya.": true, "Proporsi Nilai": true, "Komposisi nilai untuk semua modul adalah": true, "TP": "5%", "Laporan": "10%", "Pre-Test": "5%", "Pemahaman": "20%", "Praktikum": "15%", "Post-Test": "25%", "Asistensi": "15%", "Attitude": "5%", "Catatan": true, "Selain pelanggaran yang telah dijelaskan (jenis dan bobot sanksi) di atas, untuk setiap pelanggaran oleh praktikan akan dikenakan peringatan. Berikut aturan sanksi yang akan diberikan:": true, "Peringatan I, praktikan hanya mendapatkan teguran dan tidak diberikan sanksi poin.": true, "Peringatan II, praktikan mendapatkan sanksi -15 poin dari nilai akhir untuk Praktikum Pemograman Komputer.": true, "Peringatan III, praktikan mendapatkan sanksi -25 poin dari nilai akhir untuk Praktikum Pemograman Komputer.": true, "v": true}
+
+
+<!-- Page Break - Batch 7 -->
+
+
+json
+{"Tata tertib praktikum bisa beribah sesuai dengan situasi dan kondisi selama Praktikum Pemrograman Komputer berlangsung atas persetujuan koordinator praktikum dan dosen pengampu praktikum. Semua tata tertib diatas dibuat semata-mata demi terciptanya praktikum yang tertib, prosedural, dan disiplin.": "true", "Menyetujui,": "true", "Kepala Laboratorium Teknik Industri": "true", "Dosen Pengampu": "true", "Praktikum Pemrograman Komputer": "true", "(Purwo Setiawan, S.T., M.Sc.)": "true", "(Ir. Hafidh Munawir, S.T., M.Eng.)": "true", "Mengetahui,": "true", "Ketua Jurusan": "true", "Teknik Industri": "true", "(Ir. Dr. Etika Muslimah, S.T., М.М., М.Т.)": "true", "vi": "true"}
+
+
+<!-- Page Break - Batch 8 -->
+
+
+json
+{"Modul I": "Modul I",
+"Python Dasar": "Python Dasar",
+"Fuad": "Fuad",
+"Isma": "Isma",
+"Tri Sih": "Tri Sih"}
+
+
+<!-- Page Break - Batch 9 -->
+
+
+json
+{
+  "MODUL1": "MODUL 1",
+  "MODUL2": "MODUL 2",
+  "MODUL3": "MODUL 3",
+  "MODUL4": "MODUL 4",
+  "MODUL_I": "MODUL I",
+  "PYTHON_DASAR": "PYTHON DASAR",
+  "A_Tujuan_Praktikum": "A. Tujuan Praktikum",
+  "Praktikum_Modul_1_Python_Dasar_memiliki_tujuan_sebagai_berikut": "Praktikum Modul 1 Python Dasar memiliki tujuan sebagai berikut:",
+  "1_Mampu_mengenali_bahasa_pemrograman_Python_serta_sejarah_perkembangannya": "1. Mampu mengenali bahasa pemrograman Python serta sejarah perkembangannya.",
+  "2_Mampu_memahami_kelebihan_dan_kekurangan_bahasa_pemrograman_Python": "2. Mampu memahami kelebihan dan kekurangan bahasa pemrograman Python.",
+  "3_Mampu_memahami_konsep_dan_struktur_bahasa_pemrograman_Python": "3. Mampu memahami konsep dan struktur bahasa pemrograman Python.",
+  "4_Mampu_menerjemahkan_algoritma_dan_flowchrat_menjadi_sebuah_program_menggunakan_Python": "4. Mampu menerjemahkan algoritma dan flowchrat menjadi sebuah program menggunakan Python.",
+  "5_Mampu_membuat_program_aplikasi_sederhana_untuk_menyelesaikan_permasalahan_dan_perkuliahan": "5. Mampu membuat program aplikasi sederhana untuk menyelesaikan permasalahan dan perkuliahan.",
+  "B_Landasan_Teori": "B. Landasan Teori",
+  "1_1_Python": "1.1 Python",
+  "1_1_1_Definisi_Python": "1.1.1 Definisi Python",
+  "Python_adalah_bahasa_pemrograman_dinamis_tingkat_tinggi_di_mana_Python_merupakan_bahasa_pemrograman_interpreter_yaitu_bahasa_yang_mengkonversi_source_code_menjadi_machine_code_secara_langsung_ketika_program_dijalankan": "Python adalah bahasa pemrograman dinamis, tingkat tinggi, di mana Python merupakan bahasa pemrograman interpreter yaitu bahasa yang mengkonversi source code menjadi machine code secara langsung ketika program dijalankan.",
+  "Bahasa_ini_juga_mendukung_pendekatan_pemrograman_Berorientasi_Objek_untuk_pengembangan_aplikasi_dan_mudah_dipelajari_serta_menyediakan_banyak_struktur_data_tingkat_tinggi": "Bahasa ini juga mendukung pendekatan pemrograman Berorientasi Objek untuk pengembangan aplikasi dan mudah dipelajari serta menyediakan banyak struktur data tingkat tinggi.",
+  "Python_sebagai_bahasa_skrip_yang_mudah_dipelajari_namun_kuat_dan_serbaguna_yang_membuatnya_menarik_untuk_Pengembangan_Aplikasi": "Python sebagai bahasa skrip yang mudah dipelajari namun kuat dan serbaguna, yang membuatnya menarik untuk Pengembangan Aplikasi.",
+  "Sintaks_dan_pengetikan_Python_sangat_dinamis_dengan_sifat_interpretasinya_menjadikannya_bahasa_yang_ideal_untuk_skrip_dan_pengembangan_aplikasi_yang_cepat": "Sintaks dan pengetikan Python sangat dinamis dengan sifat interpretasinya menjadikannya bahasa yang ideal untuk skrip dan pengembangan aplikasi yang cepat.",
+  "Python_mendukung_banyak_pola_pemrograman_termasuk_gaya_pemrograman_berorientasi_objek_imperatif_dan_fungsional_serta_prosedural_Santos_et_al_2024": "Python mendukung banyak pola pemrograman, termasuk gaya pemrograman berorientasi objek, imperatif, dan fungsional serta prosedural (Santos, et al., 2024).",
+  "Python_didukung_di_berbagai_platform_sehingga_dapat_berjalan_di_berbagai_sistem_operasi_seperti_LinuxUnix_Windows_Mac_OS_X_Java_Virtual_Machine_OS2_Amiga_Palm_dan_Symbian_serta_dapat_digunakan_untuk_berbagai_aplikasi_mulai_dari_pengembangan_web_aplikasi_hingga_kecerdasan_buatan": "Python didukung di berbagai platform, sehingga dapat berjalan di berbagai sistem operasi seperti Linux/Unix, Windows, Mac OS X, Java Virtual Machine, OS/2, Amiga, Palm, dan Symbian, serta dapat digunakan untuk berbagai aplikasi mulai dari pengembangan web, aplikasi hingga kecerdasan buatan.",
+  "Python_dapat_diperoleh_dan_digunakan_secara_bebas_oleh_siapapun_bahkan_bagi_para_developer_yang_menggunakan_bahasa_pemrograman_ini_untuk_keperluan_komersial": "Python dapat diperoleh dan digunakan secara bebas oleh siapapun, bahkan bagi para developer yang menggunakan bahasa pemrograman ini untuk keperluan komersial.",
+  "Namun_demikian_penggunaan_packages_atau_module_dari_pihak_ketiga_mungkin_saja_membutuhkan_lisensi_yang_berbeda_misalnya_lisensi_berbayar": "Namun demikian, penggunaan packages atau module dari pihak ketiga, mungkin saja membutuhkan lisensi yang berbeda, misalnya lisensi berbayar.",
+  "1_1_2_Sejarah_Python": "1.1.2 Sejarah Python",
+  "Python_pertama_kali_dirancang_oleh_Guido_Van_Rossum_pada_akhir_tahun_1980_an_di_Centrum_Wiskunde_Informatica_CWI_di_Belanda_versi_terakhir_yang_dikeluarkan_CWI_adalah_1_2_tahun_1995_kemudian_Guido_pindah_ke_Corporation": "Python pertama kali dirancang oleh Guido Van Rossum pada akhir tahun 1980-an di Centrum Wiskunde & Informatica (CWI) di Belanda, versi terakhir yang dikeluarkan CWI adalah 1.2 tahun 1995 kemudian Guido pindah ke Corporation",
+  "1": "1"
+}
+
+
+<!-- Page Break - Batch 10 -->
+
+
+json
+{
+  "MODUL 1": "MODUL 1",
+  "MODUL 2": "MODUL 2",
+  "MODUL 3": "MODUL 3",
+  "MODUL 4": "MODUL 4",
+  "National Research Initiatives (CNRI)": "National Research Initiatives (CNRI) sambil terus melanjutkan pengembangan\npython. Pada bulan Mei 2000, Guido dan tim Python pindah ke BeOpen,com dan\nmembentuk tim BeOpen PythonLabs. Pada tahun 2001, dibentuklah organisasi\nPython yaitu Python Software Foundation (PSF) Nama Python sendiri diambil dari\nacara televisi favorit van rossum saat itu, yaitu “Monty Python's Flying Circus\".\nTujuan utama pembuatannya adalah untuk membuat bahasa pemrograman\nyang mudah dibaca, tapi juga kuat. Python terinspirasi dari Bahasa pemrograman\nABC yang mengutamakan kejelasan kode yang ringkas. Filosofi Python dikenal\nmelalui Zen of Python, yang mencakup prinsip seperti, \"Bacaan yang indah lebih\ndiutamakan daripada penulisan yang indah\" dan \"sebaiknya hanya ada satu cara\nyang jelas untuk melakukannya\". Beberapa momen penting dalam sejarah Python\nyaitu:",
+  "Python 1.0": "Python 1.0: dirilis pada Januari 1994, versi ini menampilkan fitur dasar\nPython yang masih digunakan hingga saat ini, seperti penanganan\npengecualian dan dukungan untuk fungsi dan modul.",
+  "Python 2.0": "Python 2.0: dirilis pada Oktober 2000, versi ini menghadirkan fitur fitur\npenting seperti dukungan unicode dan garbage collector yang lebih baik.",
+  "Python 3.0": "Python 3.0: dirilis pada Desember 2008, versi ini dikenal sebagai versi yang\n\"memecah\" kompatibilitas dengan versi sebelumnya, karena beberapa\nperubahan pada sintaks dan fitur. Namun, Python 3 dirancang untuk menjadi\n1.",
+  "1.2 Cara Penginstalan Python dan VSCode": "1.2 Cara Penginstalan Python dan VSCode",
+  "Pada pemrograman Python perlu dilakukannya instalasi Python terlebih": "Pada pemrograman Python perlu dilakukannya instalasi Python terlebih\ndahulu pada komputer yang akan digunakan. Maka setelah itu interpreter Python\ndapat dijalankan. Python interpreter berfungsi untuk membaca kode perintah dalam\nbahasa Python dan memproses kode-kode yang dipahami komputer.",
+  "Untuk mengunduh Python 3.8.3 maka buka browser lalu kunjungi situs resmi": "Untuk mengunduh Python 3.8.3 maka buka browser lalu kunjungi situs resmi\nyaitu www.python.org.",
+  "Welcome to Python.org": "Welcome to Python.org",
+  "python": "python",
+  "PSF": "PSF",
+  "Docs": "Docs",
+  "PyPl": "PyPl",
+  "Jobs": "Jobs",
+  "Community": "Community",
+  "python™": "python™",
+  "About": "About",
+  "Downloads": "Downloads",
+  "Documentation": "Documentation",
+  "Community": "Community",
+  "Success Stories": "Success Stories",
+  "News": "News",
+  "Events": "Events",
+  "Donate": "Donate",
+  "Search": "Search",
+  "GO": "GO",
+  "Socialize": "Socialize",
+  "#Python 3: Fibonacci series up to n": "#Python 3: Fibonacci series up to n",
+  ">>> def fib(n):": ">>> def fib(n):",
+  ">>> a, b = 0, 1": ">>> a, b = 0, 1",
+  ">>> while a < n:": ">>> while a < n:",
+  ">>> print(a, end=' ')": ">>> print(a, end=' ')",
+  ">>> a, b = b, a+b": ">>> a, b = b, a+b",
+  "print()": "print()",
+  ">>> fib(1000)": ">>> fib(1000)",
+  "0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987": "0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987",
+  "Functions Defined": "Functions Defined",
+  "The core of extensible programming is defining functions.": "The core of extensible programming is defining functions.",
+  "Python allows mandatory and optional arguments, keyword": "Python allows mandatory and optional arguments, keyword\narguments, and even arbitrary argument lists. More about\ndefining functions in Python 3",
+  "26°C": "26°C",
+  "Berawan": "Berawan",
+  "Python is a programming language that lets you work quickly": "Python is a programming language that lets you work quickly\nand integrate systems more effectively. >>> Learn More",
+  "Q Search": "Q Search",
+  "Gambar 1.1 Situs Resmi Python": "Gambar 1.1 Situs Resmi Python",
+  "2": "2"
+}
+
+
+<!-- Page Break - Batch 11 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "b": "Setelah mengunjungi situs resmi maka akan muncul tampilan penginstalan\nPython yang terdapat banyak versi dan pilih download versi Python 3.8.3.", "Download Python | Python.org x": null, "3.9": "security", "2020-10-05": null, "2025-10": "PEP 596", "3.8": "end of life, last release was 3.8.20", "2019-10-14": null, "2024-10-07": "PEP 569", "Looking for a specific release?": null, "Python releases by version number:": null, "Release version": "Release version", "Release date": "Release date", "Click for more": "Click for more", "Python 3.8.4": "July 13, 2020", "Download": null, "Release Notes": null, "Python 3.7.8": "June 27, 2020", "Download": null, "Release Notes": null, "Python 3.6.11": "June 27, 2020", "Download": null, "Release Notes": null, "Python 3.8.3": "May 13, 2020", "Download": null, "Release Notes": null, "Python 2.7.18": "April 20, 2020", "Download": null, "Release Notes": null, "Python 3.7.7": "March 10, 2020", "Download": null, "Release Notes": null, "Python 3.8.2": "Feb. 24, 2020", "Download": null, "Release Notes": null, "View older releases": null, "26°C": null, "Berawan": null, "Q Search": null, "Gambar 1.2 Menginstal Python 3.8.3": null, "08:39": null, "17/02/2025": null, "c": "Pada package python sesuaikan dengan spesifikasi laptop. Pilih windows\ninstaller (64-bit). Instal file yang sudah terunduh dengan membuka file\nPython. Lalu pastikan untuk checklist pada Add Python 3.8 to PATH,\nkemudian klik opsi Install Now dan tunggu hingga proses penginstalan\nselesai.", "This PC": null, "Firefox": null, "PowerPoint eDrawings\n2021 x6": null, "SOLIDWO\nInspection": null, "Recycle Bin": null, "GOM Player": null, "SOLIDWO...": null, "SOUDWO\n2021": null, "Composer": null, "Python 3.8.3 (64-bit) Setup": null, "SOLIDWO": null, "Acrobat\nReader DC": null, "Google\nChrome": null, "TRI SIH\nUTAMI (p.": null, "Composer": null, "Ps": null, "Adobe\nPhotosh": null, "A": null, "Picasa 3": null, "Visual Studio": null, "OBS Studio\nCode": null, "AIMP": null, "Akun Office\nShortcut": null, "Word": null, "CCleaner": null, "Excel": null, "Zoom\nWorkplace": null, "P": null, "Corel\nPHOTO-PAL": null, "21": null, "Media Player": null, "MiniT": null, "Fre": null, "Stopwatch": null, "CorelDRAW": null, "Microsoft": null, "IDLE (Python": null, "SOLIDWO": null, "2020 (64-Bit)": null, "3.8 64-bit)": null, "Composer": null, "Edge": null, "Install Python 3.8.3 (64-bit)": null, "Select Install Now to install Python with default settings, or choose\nCustomize to enable or disable features.": null, "Install Now": null, "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python38": null, "Includes IDLE, pip and documentation": null, "Creates shortcuts and file associations": null, "Customize installation": null, "Choose location and features": null, "python": null, "windows": null, "for": null, "Install launcher for all users (recommended)": null, "Add Python 3.8 to PATH": null, "Q Search": null, "Cancel": null, "Gambar 1.3 Pop Up Pemasangan Python": null, "Leam about\nthis picture": null, "3": "3"}
+
+
+<!-- Page Break - Batch 12 -->
+
+
+json
+{"d": "Jika proses penginstalan sudah selesai maka akan muncul tampilan seperti\ngambar di bawah ini, kemudian klik close maka Python versi 3.8.3 sudah\nterinstal.",
+"image_1_4_caption": "Gambar 1.4 Pop Up Berhasil Menginstal Python",
+"penginstalan_vscode": "Penginstalan VSCode",
+"a": "Buka browser lalu ketikkan Visual Studio Code. Pilih situs resmi untuk\nmelakukan penginstalan. Lalu klik download for windows.",
+"image_1_5_caption": "Gambar 1.5 Situs Resmi Visual Studio Code"}
+
+
+<!-- Page Break - Batch 13 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "text_1": "Setelah download, maka buka setup Microsoft Visual Studio Code lalu ceklist bagian I accept the agreement kemudian klik tombol next.", "text_2": "License Agreement", "text_3": "Please read the following important information before continuing.", "text_4": "Please read the following License Agreement. You must accept the terms of this agreement before continuing with the installation.", "text_5": "This license applies to the Visual Studio Code product. Source Code for Visual Studio Code is available at https://github.com/Microsoft/vscode under the MIT license agreement at https://github.com/microsoft/vscode/blob/main/LICENSE.txt. Additional license information can be found in our FAQ at https://code.visualstudio.com/docs/supporting/faq.", "text_6": "MICROSOFT SOFTWARE LICENSE TERMS", "text_7": "MICROSOFT VISUAL STUDIO CODE", "text_8": "These licence torms are an agreement between you and Microsoft Corporation for", "text_9": "I accept the agreement", "text_10": "I do not accept the agreement", "text_11": "Gambar 1.6 Pop Up Setup VSCode", "text_12": "Pilih lokasi instalasi untuk Visual Studio Code pada direktori C.", "text_13": "Select Destination Location", "text_14": "Where should Visual Studio Code be installed?", "text_15": "Setup will install Visual Studio Code into the following folder.", "text_16": "To continue, click Next. If you would like to select a different folder, click Browse.", "text_17": "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Microsoft VS Code", "text_18": "At least 406,9 MB of free disk space is required.", "text_19": "Gambar 1.7 Lokasi Instalasi VSCode", "page_number": "5"}
+
+
+<!-- Page Break - Batch 14 -->
+
+
+json
+{"d": "Ceklist pada create a desktop icon, agar saat sudah siap install, icon VSCode muncul pada desktop. Lalu ceklist juga bagian Register Code as an editor for supported file types dan Add to Path kemudian klik next lalu install.", "e": "Buka VSCode, kemudian pilih bagian extensions kemudian cari Python, pilih bagian paling atas yang terdapat tanda bintang kemudian klik install.", "Gambar 1.8 Setup VSCode": "Gambar 1.8 Setup VSCode", "Gambar 1.9 Tampilan VSCode": "Gambar 1.9 Tampilan VSCode", "MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "page_number": "6"}
+
+
+<!-- Page Break - Batch 15 -->
+
+
+json
+{"f": "Untuk membuat file baru, klik file lalu klik pada new file.", "Gambar 1.10 Tampilan New File VSCode": null, "1.3 Cara Penggunaan Python": null, "1.3.1 Membuat Program Python": null, "Visual Studio Code adalah Software yang sangat ringan, namun merupakan": null, "editor kode sumber yang dapat dijalankan langsung dari desktop. Visual Studio": null, "Code digunakan untuk pembuatan kode program yang membutuhkan sebuah": null, "aplikasi yang mumpuni. Visual Studio Code bekerja pada berbagai sistem operasi": null, "seperti Windows, macOS, dan Linux (Syarif, et al., 2023). Visual Studio Code juga": null, "dapat digunakan pada berbagai Bahasa pemrograman, salah satunya yaitu Python.": null, "1.3.2 Menampilkan Data Dengan Perintah Print": null, "Pada Python terdapat fungsi print() yang berfungsi untuk mencetak atau": null, "menampilkan objek ke output layar atau ke file teks. Fungsi print merupakan fungsi": null, "yang paling sederhana untuk menampilkan output Python. Selain untuk": null, "menampilkan output fungsi print juga digunakan untuk menemukan, menghapus,": null, "dan memperbaiki error atau kesalahan pada sintaks karena apabila terdapat error": null, "pada sintaks, fungsi print tidak akan berjalan sehingga output tidak akan muncul.": null, "a.": "Menggunakan tanda kutip ganda (\u201c...\u201d) untuk mencetak sebuah kalimat", ">>> print (\"Selamat Datang pada Praktikum Pemrogaman Komputer 2025\")": null, "Selamat Datang pada Praktikum Pemrogaman Komputer 2025": null, "Gambar 1.11 Implementasi Tanda Kutip Ganda": null, "b.": "Menggunakan koma (\u201c...\u201d,...) tanda koma digunakan untuk pemisah antara dua objek", ">>> print (\"Jumlah dari 2020+5 adalah\", 2025)": null, "Jumlah dari 2020+5 adalah 2025": null, "Gambar 1.12 Implementasi Tanda Koma": null, "7": null}
+
+
+<!-- Page Break - Batch 16 -->
+
+
+json
+{"MODUL 1": "","MODUL 2": "","MODUL 3": "","MODUL 4": "","c": "","Menggunakan string formatter digunakan untuk mencetak data dengan": "","format yang diinginkan, melalui penambahan simbol tertentu pada string.": "","Berikut ini adalah beberapa string formatter yang disediakan oleh Python:": "","Tabel 1. 1 Tabel String Formatter Python": "","Simbol": "","Keterangan": "","%s": "","Mencetak data menjadi string": "","%d": "","Mencetak angka desimal bertanda": "","Contoh:": "","Gambar 1.13 Penggunaan String Formatter": "","1.3.3 Kesalahan Sintaks dan Kesalahan Penamaan": "","Python menyediakan berbagai standar error yang dapat digunakan oleh para": "","programmer untuk menjaga pengembangan aplikasi dari error yang tidak terduga.": "","Terdapat kesalahan yang sering muncul saat menjalankan program Python adalah": "","SyntaxError, NameError, dan Indentation Error.": "","a": "","SyntaxError muncul ketika terjadi kesalahan pada penggunaan sintaks": "","Python.": "","Contoh": "","Gambar 1.14 SyntaxError": "","b": "","Gambar 1.15 Perbaikan SyntaxError": "","NameError ini muncul ketika tidak ditemukannya variabel tidak ditemukan": "","pada lingkup lokal di suatu function serta pada lingkup global.": "","Contoh:": "","Gambar 1.16 NameError": "","Gambar 1.17 Perbaikan NameError": "","8": ""}
+
+
+<!-- Page Break - Batch 17 -->
+
+
+json
+{"c": "IndentationError terjadi ketika ada inkonsistensi dalam penyusunan spasi atau tab yang digunakan untuk menandai blok kode.", "contoh": ">>> x = 12\nif x < 8:\n print(\"x kurang dari 8\")\nelif x == 8:\n print(\"x sama dengan 8\")\nelse:\n print(\"x lebih dari 8\")", "gambar_1_18": "IndentationError", "x_12": ">>> x = 12\n>>> if x < 8:\n print (\"x kurang dari 8\")\nelif x == 8:\n print (\"x sama dengan 8\")\nelse:\n print (\"x lebih dari 8\")", "x_lebih_dari_8": "x lebih dari 8", "gambar_1_19": "Perbaikan IndentationError", "1_3_4_input_data": "Input data pada pemrograman memungkinkan program untuk berinteraksi dengan pengguna. Melalui input, program dapat meminta informasi dari pengguna menggunakan data tersebut untuk menjalankan operasi yang diperlukan. Dalam Python terdapat fungsi input () dan raw_input () untuk mengambil input dari keyboard. Fungsi input () digunakan untuk menerima data dalam bentuk angka. Sedangkan raw_input () untuk menerima input teks. Pada Python 3, kita hanya memerlukan fungsi input () saja, karena fungsi raw_input () sudah digabungkan.", "contoh": null, "a_data_jenis_string": ">>> input (\"Masukkan Jenis Kelamin Anda:\")\nMasukkan Jenis Kelamin Anda: Perempuan\n' Perempuan'", "gambar_1_20_data_string": null, "b_data_jenis_numerik": ">>> input (\"Masukkan Nomor Telepon Anda:\")\nMasukkan Nomor Telepon Anda: 082326105251\n' 082326105251'", "gambar_1_21_data_numerik": null, "page_number": "9"}
+
+
+<!-- Page Break - Batch 18 -->
+
+
+json
+{"1.4 Kelebihan dan Kekurangan Pada Python": "true", "1.4.1 Kelebihan Bahasa Pemrograman Python": "true", "Bahasa pemrograman Python memiliki beberapa kelebihan, di antaranya adalah sebagai berikut": "true", "a. Kode Yang Lebih Ringkas.": "true", "Python memungkinkan penulisan kode yang lebih singkat dibandingkan dengan bahasa pemrograman lainnya.": "true", "b. Komunitas Besar": "true", "Python memiliki banyak pengguna dan pengembang, sehingga memudahkan kita mendapatkan bantuan dan informasi.": "true", "C. Library Standar Yang Lengkap.": "true", "Python sudah dilengkapi dengan berbagai library (pustaka) yang siap digunakan tanpa perlu instalasi tambahan.": "true", "d. Pengetikan Dinamis": "true", "Pada bahasa pemrograman Python, kita tidak perlu mengetikkan tipe data secara langsung saat membuat variabel. Python akan otomatis mengenali tipe datanya berdasarkan nilai yang diberikan.": "true", "1.4.2 Kekurangan Bahasa Pemrograman Python": "true", "Bahasa pemrograman Python memiliki beberapa kekurangan, di antaranya adalah sebagai berikut": "true", "a. Performa Lambat": "true", "Jika dibandingkan dengan bahasa pemrograman lain seperti, bahasa C, C++ dan Java, Python merupakan bahasa yang paling lambat diantara ketiganya.": "true", "b. Kontrol Tipe Data Rendah": "true", "Karena diketik secara dinamis, Python memiliki kemungkinan lebih sedikit kontrol atas tipe data.": "true", "C. Konsumsi Memori Tinggi": "true", "Konsumsi memori yang tinggi membuat Python kurang disukai untuk perangkat seluler.": "true", "d. Akses Database Terbatas": "true", "Lapisan akses data yang kurang berkembang dibandingkan JDBC (Java Database Connectivity) dan ODBC (Open Database Connectivity).": "true", "1.5 Variabel, Tipe Data, dan Operator": "true", "1.5.1 Variabel": "true", "Di dalam Python, variabel adalah nama yang digunakan untuk menetapkan sebuah nilai atau objek. Secara teknis, variabel adalah referensi atau label yang menunjukkan ke suatu nilai di dalam memori komputer. Anda dapat memberikan nama apapun dalam sebuah variabel, asalkan mengikuti aturan penamaan variabel dalam Python (Maesaroh, et al., 2024). Adapun aturan penulisan variabel dalam Python adalah sebagai berikut": "true", "page_number": "10"}
+
+
+<!-- Page Break - Batch 19 -->
+
+
+json
+{"a": "Karakter utama harus berupa huruf dari (A - Z atau a – z) atau garis bawah\n(_) dan tidak dapat didahului oleh angka.", "b": "Tidak dapat menggunakan operasi hitung dan karakter khusus seperti : +, -,\n@, $, &, #.", "c": "Karakter selanjutnya boleh berisi huruf, angka, maupun garis bawah.", "d": "Nama variabel tidak dapat disela dengan spasi, untuk variabel yang terdiri\ndari dua kata atau lebih dapat dipisah dengan simbol underscore (_).", "e": "Penggunaan huruf kapital dan huruf kecil memiliki makna yang berbeda.", "f": "Tidak dapat menggunakan reserved word.", "1.5.2 Tipe Data": "Tipe data suatu memori atau media pada komputer yang digunakan untuk\nmenampung informasi atau data sementara. Python sendiri memiliki tipe data yang\nberagam dan terbilang unik bila dibandingkan dengan tipe data pada bahasa\npemrograman yang lain (Hidayah, Alam, & Prihandoko, 2023). Berikut adalah tipe\ndata dari bahasa pemrograman Python:", "a": "Tipe Data Integer", "Integer": "Integer adalah tipe numerik yang mewakili seluruh bilangan bulat dan tidak\nmemiliki angka desimal. Contoh 1, 2, 3, 4, -5 dan seterusnya (Hidayah, Alam, &\nPrihandoko, 2023). Adapun contoh program dapat dilihat pada Gambar 1.22\nContoh Program Dari Tipe Data Integer.", "1": "#Tipe data integer", "2": "bilangan = 10", "3": "angka = 20", "4": "bilangan_bulat = 30", "6": "print(50*\"=\")", "7": "print(\"Semua nilai dari variabel dibawah adalah integer\")", "8": "print(\"Nilai dari variabel bilangan adalah: \", bilangan)", "9": "print(\"Nilai dari variabel angka adalah: \", angka)", "10": "print(\"Nilai dari variabel bilangan_bulat adalah: \", bilangan_bulat)", "11": "print(\"Nilai darivariabel bilangan ditambah variabel angka adalah:\n\", bilangan + angka)", "12": "print(50*\"=\")", "Gambar 1.22 Contoh Program Dari Tipe Data Integer": "Gambar 1.22 Contoh Program Dari Tipe Data Integer", "Semua nilai dari variabel dibawah adalah integer": "Semua nilai dari variabel dibawah adalah integer", "Nilai dari variabel bilangan adalah": "Nilai dari variabel bilangan adalah: 10", "Nilai dari variabel angka adalah": "Nilai dari variabel angka adalah: 20", "Nilai dari variabel bilangan_bulat adalah": "Nilai dari variabel bilangan_bulat adalah: 30", "Nilai darivariabel bilangan ditambah variabel angka adalah": "Nilai darivariabel bilangan ditambah variabel angka adalah: 30", "Gambar 1.23 Output Dari Program Tipe Data Integer": "Gambar 1.23 Output Dari Program Tipe Data Integer", "b": "Tipe Data Float", "Tipe data float": "Tipe data float hampir sama dengan tipe data integer, yaitu berisi sebuah\nangka/numerik. A dapun perbedaan antara tipe data float dan integer adalah variabel\nyang digunakan, jika tipe data integer menggunakan bilangan bulat, maka pada tipe\ndata float menggunakan bilangan desimal. Pemisah pada bilangan desimal", "11": "11"}
+
+
+<!-- Page Break - Batch 20 -->
+
+
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "Gambar 1.24 Contoh Program Dari Tipe Data Float": "Gambar 1.24 Contoh Program Dari Tipe Data Float", "Gambar 1.25 Output Dari Program Tipe Data Float": "Gambar 1.25 Output Dari Program Tipe Data Float", "c.": "c.", "Tipe Data String": "Tipe Data String", "Gambar 1.26 Contoh Program Dari Tipe Data String": "Gambar 1.26 Contoh Program Dari Tipe Data String", "Gambar 1.27 Output Dari Program Data String": "Gambar 1.27 Output Dari Program Data String", "d.": "d.", "Tipe Data List": "Tipe Data List", "1": "12"}
+
+
+<!-- Page Break - Batch 21 -->
+
+
+json
+{"1": "#Tipe data list", "2": "#Membuat list kosong", "3": "daftar_list = []", "5": "# Menambahkan nilai kedalam list", "6": "daftar_list.append(1)", "7": "daftar_list.append(\"saya\")", "8": "daftar_list.append(7)", "9": "daftar_list.append(True)", "11": "# Menampilkan list", "12": "print(\"Nilai pada daftar list adalah\", daftar_list)", "14": "# Mengakses nilai list", "15": "print(\"Nilai pada index ke-2 adalah\", daftar_list[2])", "17": "# Mengubah nilai list", "18": "daftar_list[2] = \"kamu\"", "19": "print(\"Nilai pada index ke-2 adalah\", daftar_list[2])", "Gambar 1.28 Contoh Program Dari Tipe Data List": null, "Nilai pada daftar list adalah [1, 'saya', 7, True]": null, "Nilai pada index ke-2 adalah 7": null, "Nilai pada index ke-2 adalah kamu": null, "Gambar 1.29 Output Dari Program Tipe Data List": null, "e": null, "Tipe Data Tuple": null, "Tipe data tuple pada Python digunakan untuk menyimpan kumpulan nilai atau\nobjek yang tidak dapat diubah (immutable) setelah tuple dibuat. Tuple\nmenggunakan tanda kurung () untuk pembuatannya dan dapat berisi berbagai tipe\ndata, seperti string, integer, float, dan lainnya (Maesaroh, et al., 2024). Adapun\ncontoh program dapat dilihat seperti pada Gambar 1.30 Contoh Program Tipe Data\nTuple di bawah ini.": null, "1_1": "# Tipe data tuple", "2_1": "# Membuat tuple", "3_1": "daftar_tuple = (1, 2, 3, 4, 5)", "5_1": "# Menampilkan isi tuple", "6_1": "print(daftar_tuple)", "8_1": "# Mengakses nilai dalam tuple", "9_1": "print(\"Nilai pada indeks ke-0 adalah \", daftar_tuple[0])", "10": "print(\"Nilai pada indeks ke-2 adalah \", daftar_tuple[2])", "12_1": "# Menggabungkan tuple", "13": "tuple_gabungan = daftar_tuple + (6, 7, 8)", "14_1": "print(\"Tuple gabungan: \", tuple_gabungan)", "Gambar 1.30 Contoh Program Tipe Data Tuple": null, "(1, 2, 3, 4, 5)": null, "Nilai pada indeks ke-0 adalah 1": null, "Nilai pada indeks ke-2 adalah 3": null, "Tuple gabungan: (1, 2, 3, 4, 5, 6, 7, 8)": null, "Gambar 1.31 Output Dari Program Tipe Data Tuple": null, "13": null
+}
+
+
+<!-- Page Break - Batch 22 -->
+
+
+{"Tipe Data Dictionary": "Tipe data dictionary digunakan untuk menyimpan data dalam bentuk pasangan antara kunci dan nilai (key-values). Dalam pembuatannya, tipe data ini menggunakan tanda kurung kurawal {...} dan setiap pasangan kunci dan nilai dipisahkan menggunakan tanda titik dua (:) (Maesaroh, et al., 2024). A dapun contoh program dapat dilihat seperti pada Gambar 1.32 Contoh Program Tipe Data Dictionary di bawah ini.", "Gambar 1.32 Contoh Program Tipe Data Dictionary": null, "Nama": "Fuad", "Umur": "21", "Asal": "Lampung", "Umur setelah dirubah": "17", "Pekerjaan": "Mahasiswa", "Gambar 1.33 Output Dari Program Tipe Data Dictionary": null, "Tipe Data Boolean": "Tipe data boolean merupakan tipe data yang simpel dan mudah. Tipe data ini hanya menyimpan dua buah nilai, yaitu: True dan False. Nilai True digunakan untuk pernyataan bernilai benar. Sedangkan nilai False digunakan untuk pernyataan yang bernilai salah. Penulisan True dan False harus diawali dengan huruf besar/ kapital. Tipe data ini biasanya digunakan untuk melakukan pengecekan kondisi yang menggunakan fungsi if (Maesaroh, et al., 2024). Adapun contoh program dapat dilihat seperti pada Gambar 1.34 Contoh Program Tipe Data Boolean di bawah ini.", "page_number": "14"}
+
+
+<!-- Page Break - Batch 23 -->
+
+
+json
+{"1": "#Tipe data boolean", "2": "benar = True", "3": "salah = False", "5": "if benar:", "6": "print(\"Variabel benar memiliki nilai True\")", "7": "if not salah:", "8": "print(\"Variabel salah memiliki nilai False\")", "Gambar 1. 34": "Contoh Program Dari Tipe Data Boolean", "Variabel benar memiliki nilai True": "Variabel salah memiliki nilai False", "Gambar 1. 35": "Output Dari Program Tipe Data Boolean", "h": "Operator", "1": "Operator A ritmatika", ">>> a": "30", ">>> b": "4", ">>> c": "a - b", ">>> print (c)": null, "26": null, "2": "Operator Perbandingan", ">>> a = 30": null, ">>> b = 4": null, ">>> c": "a < b", ">>> print (c)": null, "False": null, "3": "Operator Penugasan", "15": null}
+
+
+<!-- Page Break - Batch 24 -->
+
+
+json
+{"a": 30, "a_plus_equals": 3, "print_a": 13, "operator_logika_title": "4. Operator Logika", "operator_logika_description": "Operator Logika digunakan untuk membuat aplikasi logika. Sebagaimana bilangan atau string, suatu kondisi juga memiliki operator-operator yang disebut operator logika yaitu not, and, dan or.", "x": 15, "y": 10, "z": "x and y", "print_z": 10, "kontrol_program_title": "1.6 Kontrol Program Pada Python", "pengandaian_title": "1.6.1 Pengandaian", "pengandaian_description": "Pengandaian merupakan salah satu mekanisme kontrol program yang digunakan untuk mengatur alur eksekusi berdasarkan kondisi tertentu. Dalam Python, pengandaian dilakukan menggunakan tiga pernyataan utama, yaitu if, elif, dan else, yang memungkinkan program mengeksekusi perintah sesuai dengan kondisi yang diberikan.", "pernyataan_if_title": "a. Pernyataan If", "pernyataan_if_description": "Pernyataan if merupakan conditional statement pada program berfungsi untuk menjalankan kode tertentu hanya jika kondisi yang ditentukan bernilai “True”.", "nilai": 85, "if_nilai_condition": "if nilai >= 75:", "print_lulus": "print(\"Anda lulus mata kuliah Teknik Industri!\")", "pernyataan_if_elif_title": "b. Pernyataan If..elif.", "pernyataan_if_elif_description": "Pada dasarnya, pernyataan elif digunakan untuk menambahkan kondisi tambahan setelah pernyataan if, sehingga memungkinkan pengecekan kondisi secara berurutan. Penggunaan kondisi if...elif merupakan bagian dari proses pengandaian atau conditional statement yang melibatkan pernyataan if. Dengan menggunakan elif, kita dapat mengatur kode program untuk mengevaluasi beberapa kemungkinan. Meskipun memiliki kesamaan dengan kondisi if, perbedaannya terletak pada kemampuan elif untuk menangani lebih dari satu kondisi, (Sembiring, 2021)", "page_number": 16}
+
+
+<!-- Page Break - Batch 25 -->
+
+
+json
+{"nilai": "75", "if_nilai_condition": "nilai >= 90", "print_nilai_a": "print(\"Nilai A\")", "elif_nilai_condition": "nilai >= 75", "print_nilai_b": "print(\"Nilai B\")", "else_print_nilai_c": "print(\"Nilai C\")", "pernyataan_if_else_description": "Pernyataan else adalah bagian dari struktur kontrol yang digunakan bersama dengan pernyataan if (dan juga elif) untuk menangani skenario ketika tidak ada kondisi yang bernilai True. Dalam konteks ini, else menyediakan jalur alternatif eksekusi ketika tidak ada kondisi yang memenuhi kondisi if atau elif.", "angka": "10", "if_angka_condition": "angka % 2 == 0", "print_angka_genap": "print(\"Angka genap\")", "else_print_angka_ganjil": "print(\"Angka ganjil\")", "pengulangan_section": "1.6.2 Pengulangan", "pengulangan_definition": "Pengulangan (looping) adalah salah satu mekanisme kontrol program yang digunakan untuk menjalankan sekumpulan perintah secara berulang hingga kondisi tertentu terpenuhi. Dalam Python, pengulangan dapat dilakukan menggunakan dua pernyataan utama, yaitu for dan while.", "pengulangan_for_section": "a. Pengulangan for", "pengulangan_for_description": "Pengulangan menggunakan for digunakan untuk mengulang suatu proses dengan jumlah perulangan yang sudah ditentukan. Ciri khasnya adalah adanya nilai awal dan nilai akhir yang menjadi syarat perulangan. Perulangan ini digunakan untuk mengakses setiap elemen dalam sebuah list, yang bisa berisi berbagai jenis data seperti angka, string, atau karakter. Setiap elemen diakses satu per satu, memungkinkan kita untuk melakukan operasi pada masing-masing elemen tersebut (Rahmat, D & dkk. 2022).", "bilangan_list": "[\"1\", \"2\", \"3\", \"4\", \"5\"]", "for_angka_in_bilangan": "for angka in bilangan:", "print_angka": "print(angka)", "pengulangan_while_section": "b. Pengulangan While", "pengulangan_while_description": "Perulangan while digunakan untuk mengulang suatu proses dengan jumlah perulangan yang belum diketahui sebelumnya. Ciri utama dari perulangan while adalah pengujian kondisi terlebih dahulu sebelum melakukan iterasi. Perulangan ini akan terus mengulang serangkaian instruksi selama kondisi yang ditentukan masih terpenuhi. Pengulangan akan berhenti ketika kondisi yang diuji tidak lagi benar. Dengan kata lain, perulangan akan terus berlangsung hingga syarat yang ditentukan tidak terpenuhi (Rahmat dkk., 2022).", "page_number": "17"}
+
+
+<!-- Page Break - Batch 26 -->
+
+
+json
+{"total": "0", "while_loop": "True", "bilangan_input": "int(input(\"Masukan bilangan bulat (atau masukan 0 untuk berhenti):\"))", "if_bilangan_0": "break", "total_bilangan": "total += bilangan", "print_total": "print(\"Total semua bilangan yang dimasukan: \", total)", "section": "1.6.3 Penanganan Kesalahan", "python_error_handling": "Penganganan kesalahan pada Python dapat dikontrol agar program tidak terhenti karena error dengan try-except. Istilah Try dan Except dalam Python merupakan pernyataan yang berhubungan dengan penanganan kesalahan (error handling). Pada Python, blok Try digunakan untuk menjalankan kode yang mungkin menimbulkan error, sedangkan blok except digunakan untuk menangani error tersebut. Dengan menggunakan metode ini, program akan tetap bisa berjalan meskipun terjadi kesalahan saat dieksekusi (Khan et al., 2022). Untuk lebih jelasnya dapat dilihat pada Gambar 1.36 Contoh Program Try and Except di bawah ini.", "try_block": "data = input(\"Masukkan input: \")\nangka = int(data)\nprint(f\"Berhasil! Input anda adalah = {angka}\")", "except_block": "print(\"Input bukan integer!\")", "figure_1_36_caption": "Gambar 1.36 Contoh Program Try and Except", "try_except_explanation": "Dari Gambar 1.36 Contoh Program Try and Except di atas, Ketika kita memasukkan input selain integer, program akan tetap bisa berjalan dan dieksekusi. Hal ini terjadi dikarenakan bagian Try menangani proses yang menyebabkan error, yaitu saat mengubah input ke integer dengan int(data), dan jika terjadi error, Python akan langsung lompat ke blok Except untuk menampilkan pesan \"Input bukan integer!\"). Untuk lebih jelasnya dapat dilihat pada Gambar 1.37 Output Program Dari Penggunaan Try and Except di bawah ini.", "input_example": "Masukkan input: p", "output_example": "Input bukan integer!", "figure_1_37_caption": "Gambar 1.37 Output Program Dari Penggunaan Try and Except", "no_try_except_explanation": "Berbeda halnya jika kita tidak menggunakan Try and Except, maka program tersebut akan error. Hal ini dikarenakan adanya ketidaksesuaian antara input yang dimasukkan dengan tipe data yang diminta. Sehingga program yang dieksekusi akan berhenti dan menampilkan pesan error. Untuk lebih jelasnya dapat dilihat pada berikut ini.", "page_number": "18"}
+
+
+<!-- Page Break - Batch 27 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "data": "data = input(\"Masukkan input: \")", "angka": "angka = int(data)", "print": "print(\"input yang anda masukkan adalah: {data}\")", "Gambar 1.38": "Gambar 1.38 Contoh Program Tanpa Menggunakan Try and Except.", "Masukkan input": "Masukkan input: P", "Traceback": "Traceback (most recent call last):", "File": "File \"c:\\Users\\azizh\\OneDrive\\Dokumen\\Fuad Nitip\\Modul 1 Python\\Program\\testing.py\", line 9, in <module>", "angka_int": "angka = int(data)", "ValueError": "ValueError: invalid literal for int() with base 10: 'P'", "Gambar 1.39": "Gambar 1.39 Output yang ditampilkan tanpa menggunakan Try and Except", "1.7": "1.7", "Fungsi dan Parameter": "Fungsi dan Parameter", "Fungsi adalah blok kode": "Fungsi adalah blok kode terorganisir yang dapat digunakan kembali untuk\nmelakukan tindakan tertentu dalam program. Dengan menggunakan fungsi, kita\ndapat menghindari penulisan kode yang berulang, sehingga program menjadi lebih\nefisien dan mudah dikelola. Fungsi membantu memecah program besar menjadi\nbagian-bagian kecil yang lebih mudah dipahami dan diorganisir. Pada Python,\nfungsi dibuat dengan menggunakan kata kunci def, diikuti dengan nama fungsi yang\ndiinginkan dan diakhiri dengan tanda titik dua (:).\nParameter adalah nilai yang diberikan ke dalam fungsi saat fungsi tersebut\ndipanggil. Parameter memungkinkan fungsi untuk menerima input yang dapat\ndigunakan dalam eksekusi kode di dalamnya. Ketika mendefinisikan fungsi,\nparameter diletakkan di dalam tanda kurung (). Parameter dapat berupa nilai tetap,\nvariabel, atau ekspresi, dan memungkinkan fungsi untuk beroperasi dengan\nberbagai input yang berbeda. Dengan menggunakan parameter, fungsi menjadi\nlebih fleksibel dan dapat digunakan untuk berbagai tujuan dalam program.", "def hello world": "def hello_world():", "print_hello_world": "print(\"Hello World!\") hello_world()", "a.": "a.", "Fungsi Dengan Parameter": "Fungsi Dengan Parameter", "Fungsi dapat membaca parameter": "Fungsi dapat membaca parameter, parameter adalah nilai yang\ndisediakankepada fungsi, dimana nilai ini akan menentu.", "def welcome_user_username": "def welcome_user(username):", "print_Welcome_username": "print(\"Welcome!\", username)", "welcome_user_Prokom": "welcome_user(\"Prokom\")", "b.": "b.", "Fungsi Tanpa Parameter": "Fungsi Tanpa Parameter", "Fungsi ini tidak memiliki parameter": "Fungsi ini tidak memiliki parameter input namun pada fungsi ini tetap\nmelaksanakan tugas yang telah di masukan.", "def ucapan": "def ucapan():", "print_Selamat Praktikum": "print(\"Selamat Praktikum!!\")", "ucapan": "ucapan()", "19": "19"}
+
+
+<!-- Page Break - Batch 28 -->
+
+
+json
+{"MODUL 1": "","MODUL 2": "","MODUL 3": "","MODUL 4": "","c.": "Fungsi Dengan Variabel Lokal dan Global","Variabel global dapat diakses dari semua fungsi, sementara variabel lokal\nhanya dapat diakses di dalam fungsi tempat mereka didefinisikan. Saat Python\nmencari variabel, ia pertama-tama mencari di dalam fungsi lokal. Jika variabel\ntersebut tidak ditemukan, Python akan mencari di ruang lingkup global. Jika\nvariabel tidak ditemukan di ruang lingkup global, Python akan menggunakan\nvariabel bawaan atau variabel yang sudah ada di Python": "","nama_kota": "\"Jakarta\" #Variabel global","print(\"Kota: %s\" % nama_kota)": "","def wilayah()": "","nama_provinsi": "\"DKI Jakarta\" #Variabel lokal","print(\"Provinsi: %s\" % nama_provinsi)": "","wilayah()": "","d.": "Fungsi Rekrusif","Fungsi rekursif adalah fungsi yang memanggil dirinya sendiri secara berulang\nulang karena prosesnya dilakukan secara berulang ulang maka harus ada kondisi\nyang harus mengakhiri prosesnya. Fungsi rekursif dapat menyelesaikan beberapa\npersoalan seperti perhitungan bilangan fibonacci dan faktorial.": "","def pangkat(x,y)": "","if y == 0: return 1": "","else": "","return x * pangkat(x,y-1)": "","x": "int(input(\"Masukan Nilai X: \"))","y": "int(input(\"Masukan Nilai Y: \"))","print(\"%d dipangkatkan %d = %d\" % (x,y,pangkat(x,y)))": "","20": ""}
+
+
+<!-- Page Break - Batch 29 -->
+
+
+{"Modul": "II",
+"Python GUI": "Python GUI",
+"Silvy": "Silvy",
+"Matien": "Matien",
+"Bagus": "Bagus"}
+
+
+<!-- Page Break - Batch 30 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "MODUL II": "MODUL II", "GUI (Graphical User Interface)": "GUI (Graphical User Interface)", "A. Tujuan Praktikum": "Tujuan Praktikum", "Praktikum Modul 2 GUI (Graphical User Interface) memiliki tujuan sebagai": "Praktikum Modul 2 GUI (Graphical User Interface) memiliki tujuan sebagai", "berikut:": "berikut:", "1. Praktikan mampu membuat aplikasi sederhana menggunakan PySide2.": "Praktikan mampu membuat aplikasi sederhana menggunakan PySide2.", "2. Praktikan mampu menerjemahkan aplikasi dari Python dasar ke bentuk": "Praktikan mampu menerjemahkan aplikasi dari Python dasar ke bentuk", "GUI (Graphical User Interface).": "GUI (Graphical User Interface).", "3. Praktikan mampu menerjemahkan algoritma dan flowchart menjadi": "Praktikan mampu menerjemahkan algoritma dan flowchart menjadi", "aplikasi menggunakan Python GUI dengan PySide2.": "aplikasi menggunakan Python GUI dengan PySide2.", "B. Landasan Teori": "Landasan Teori", "2.1 Pengenalan GUI (Graphical User Interface) dan PySide2": "Pengenalan GUI (Graphical User Interface) dan PySide2", "GUI (Graphical User Interface) adalah antarmuka yang mempermudah": "GUI (Graphical User Interface) adalah antarmuka yang mempermudah", "pengguna dalam berinteraksi dengan komputer atau sistem operasi melalui tampilan": "pengguna dalam berinteraksi dengan komputer atau sistem operasi melalui tampilan", "grafis. Penggunaan GUI melibatkan pointer, perangkat lunak, serta berbagai elemen": "grafis. Penggunaan GUI melibatkan pointer, perangkat lunak, serta berbagai elemen", "antarmuka. Elemen-elemen dalam GUI mencakup kontrol, menu, tata letak, wadah,": "antarmuka. Elemen-elemen dalam GUI mencakup kontrol, menu, tata letak, wadah,", "dan interaksi.": "dan interaksi.", "Terdapat berbagai bahasa pemrograman modern yang telah didukung oleh": "Terdapat berbagai bahasa pemrograman modern yang telah didukung oleh", "seperangkat library (yang biasa disebut dengan toolkit) untuk membuat aplikasi": "seperangkat library (yang biasa disebut dengan toolkit) untuk membuat aplikasi", "GUI. PySide2 merupakan salah satu library yang digunakan untuk membuat": "GUI. PySide2 merupakan salah satu library yang digunakan untuk membuat", "aplikasi GUI dengan pengikat Python 3 dan Qt5 dari cross-platform GUI toolkit Qt,": "aplikasi GUI dengan pengikat Python 3 dan Qt5 dari cross-platform GUI toolkit Qt,", "dan berjalan pada semua platform yang didukung oleh Qt termasuk Window, Mac": "dan berjalan pada semua platform yang didukung oleh Qt termasuk Window, Mac", "OS X, dan Linux. Qt adalah salah satu library pendukung yang berguna untuk": "OS X, dan Linux. Qt adalah salah satu library pendukung yang berguna untuk", "pengembangan aplikasi grafis bersifat lintas platform. Banyak modul-modul dalam": "pengembangan aplikasi grafis bersifat lintas platform. Banyak modul-modul dalam", "Qt yang bisa digunakan untuk pengembangan aplikasi, seperti QtCore, QtGui,": "Qt yang bisa digunakan untuk pengembangan aplikasi, seperti QtCore, QtGui,", "QtWidgets, QtSql, QtNetwork, QtScript, QtTest, QtSvg, dan QtWebkit.": "QtWidgets, QtSql, QtNetwork, QtScript, QtTest, QtSvg, dan QtWebkit.", "2.2 Widget dan Dialog": "Widget dan Dialog", "Widget merupakan sebuah dasar dari pengembangan aplikasi Graphical User": "Widget merupakan sebuah dasar dari pengembangan aplikasi Graphical User", "Interface yang akan digunakan untuk menampilkan sekumpulan item, sehingga": "Interface yang akan digunakan untuk menampilkan sekumpulan item, sehingga", "user akan dapat dengan mudah memilih item yang sekiranya akan digunakan. Qt": "user akan dapat dengan mudah memilih item yang sekiranya akan digunakan. Qt", "akan menyediakan berbagai macam widget dasar dan lanjutan yang dapat": "akan menyediakan berbagai macam widget dasar dan lanjutan yang dapat", "disesuaikan dengan kebutuhan user ketika akan melakukan pengembangan aplikasi.": "disesuaikan dengan kebutuhan user ketika akan melakukan pengembangan aplikasi.", "Widget-Widget ini tersedia di dalam modul QtCore serta QtGui.": "Widget-Widget ini tersedia di dalam modul QtCore serta QtGui.", "2.2.1 Widget Dasar": "Widget Dasar", "Berikut ini adalah beberapa Widget dasar yang digunakan Untuk": "Berikut ini adalah beberapa Widget dasar yang digunakan Untuk", "pengembangan aplikasi Graphical User Interface.": "pengembangan aplikasi Graphical User Interface.", "21": "21"}
+
+
+<!-- Page Break - Batch 31 -->
+
+
+json
+{"Tabel 2.1 Widget Dasar": "","Widget": "","Deskripsi": "","QCheckBox": "Tombol yang dapat diaktifkan ataupun\ndi non-aktifkan dan dapat memilih\nlebih dari satu pilihan.","QComboBox": "Daftar pilihan yang diberikan kepada\npengguna dalam bentuk tombol\nataupun drop down.","QDateTimeEdit": "Widget yang digunakan untuk\nmengedit tanggal, bulan, tahun, serta\nwaktu dengan menggunakan keyboard\nataupun tombol panah atas atau bawah.","QDial": "Kontrol yang berbentuk bulat\nmenyerupai dengan yang digunakan\npada potensiometer atau speedometer.","QDoubleSpinBox": "Widget yang berbentuk spin kontak\ndigunakan untuk mengambil nilai\ntertentu, dengan menekan tombol\npanah ke atas atau ke bawah yang\nberguna untuk meningkatkan atau\nmengurangi nilai yang ditampilkan.","QLabel": "Menampilkan gambar maupun\nteks, mendukung teks biasa, rich-text,\npixmap, film, atau angka.","QLineEdit": "Widget editor teks yang digunakan\nuntuk mengedit satu baris teks.","QMenu": "Menu widget (menu pilihan)\nuntukdigunakan dalam menu bar, menu\nkonteks, serta menu pop-up lainnya.","QProgressBar": "Tampilan widget progress bar yang\nmembantu menunjukkan sebuah\npresentase kepada pengguna pada saat\npenyelesaian suatu kegiatan.","QPushButton": "Widget tombol digunakan untuk\nmengeksekusi perintah klik atau push.","QRadioButton": "Menyediakan pilihan tombol radio\nyang dapat diaktifkan atau di non\naktifkan. User hanya dapat memilih\nsatu pilihan saja.","QScrollBar": "Menyediakan scroll bar berbentuk\nvertical ataupun horizontal yang\nmemungkinkan user untuk melakukan","MODUL 1": "","MODUL 2": "","MODUL 3": "","MODUL 4": "","22": ""}
+
+
+<!-- Page Break - Batch 32 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "Widget": "Widget", "QtabBar": "QtabBar", "QTabWidget": "QTabWidget", "QTableWidget": "QTableWidget", "Deskripsi": "Deskripsi", "akses pada bagian dokumen yang lebih\nbesar dari widget yang digunakan.": "akses pada bagian dokumen yang lebih\nbesar dari widget yang digunakan.", "Menyediakan bar tab yang akan\ndigunakan dalam dialog tab.": "Menyediakan bar tab yang akan\ndigunakan dalam dialog tab.", "Widget yang menyediakan bar tabdan\narea halaman yang digunakan untuk\nmenampilkan halaman yang terkait\ndengan masing-masing tab dalam\ntumpukan widget tab": "Widget yang menyediakan bar tabdan\narea halaman yang digunakan untuk\nmenampilkan halaman yang terkait\ndengan masing-masing tab dalam\ntumpukan widget tab", "Widget yang digunakan untuk\nmembuat tabel yang berisi header serta\nitem pada tampilannya.": "Widget yang digunakan untuk\nmembuat tabel yang berisi header serta\nitem pada tampilannya.", "Berikut merupakan contoh penggunaan Widget-widget dasar pada GUI yang\ndapat dilihat pada Gambar 2.1": "Berikut merupakan contoh penggunaan Widget-widget dasar pada GUI yang\ndapat dilihat pada Gambar 2.1", "Basic Layout QWidget": "Basic Layout QWidget", "File (QMenu)": "File (QMenu)", "QTextEdit": "QTextEdit", "Tombol (QPushButton)": "Tombol (QPushButton)", "QRadioButton": "QRadioButton", "QCheckBox": "QCheckBox", "Label 1: (QLabel)": "Label 1: (QLabel)", "QLineEdit": "QLineEdit", "Label 2: (QLabel)": "Label 2: (QLabel)", "1/1/2000 12:00 AM": "1/1/2000 12:00 AM", "QDateTimeEdit": "QDateTimeEdit", "QDial": "QDial", "90% QProgressBar": "90% QProgressBar", "Label 3: (QLabel)": "Label 3: (QLabel)", "QComboBox": "QComboBox", "Label 4: (QLabel)": "Label 4: (QLabel)", "0.00": "0.00", "Gambar 2.1 Tampilan Beberapa Jenis Widget": "Gambar 2.1 Tampilan Beberapa Jenis Widget", "Dibawah ini merupakan Script untuk menghasilkan tampilan beberapa\nWidget dasar seperti pada Gambar 2.1": "Dibawah ini merupakan Script untuk menghasilkan tampilan beberapa\nWidget dasar seperti pada Gambar 2.1", "import sys": "import sys", "from PySide2.QtCore import*": "from PySide2.QtCore import*", "from PySide2.QtGui import*": "from PySide2.QtGui import*", "from PySide2.QtWidgets import*": "from PySide2.QtWidgets import*", "#Membuat tampilan jendela": "#Membuat tampilan jendela", "class Dasar(QWidget):": "class Dasar(QWidget):", "def init (self):": "def init (self):", "23": "23"}
+
+
+<!-- Page Break - Batch 33 -->
+
+
+json
+{"QWidget.__init__(self)": "null", "self.setWindowTitle": "\"Basic Layout QWidget\"", "self.resize(550, 450)": "null", "self.center()": "null", "self.konten()": "null", "self.konten2()": "null", "self.timer()": "null", "self.command()": "null", "def center(self):": "null", "screen": "QGuiApplication.primaryScreen().geometry()", "frame": "self.frameGeometry()", "frame.moveCenter(screen.center())": "null", "self.move(frame.topLeft())": "null", "#contoh penggunaan QLabel": "null", "def konten(self):": "null", "self.text1": "QLabel('File (QMenu)', self)", "self.text1.move(15, 15)": "null", "self.text2": "QLabel('Label 1: (QLabel)', self)", "self.text2.move(20, 210)": "null", "self.text3": "QLabel('Label 2: (QLabel)', self)", "self.text3.move(20, 240)": "null", "self.text4": "QLabel('QDateTimeEdit', self)", "self.text4.move(340, 245)": "null", "self.text5": "QLabel('QDial', self)", "self.text5.move(100, 290)": "null", "self.text6": "QLabel('QProgressBar', self)", "self.text6.move(375, 285)": "null", "self.text7": "QLabel('Label 3: (QLabel)', self)", "self.text7.move(20, 350)": "null", "self.text8": "QLabel('Label 4: (QLabel)', self)", "self.text8.move(20, 390)": "null", "#script untuk widget dasar": "null", "def konten2(self):": "null", "self.TextEdit": "QTextEdit('QTextEdit', self)", "self.TextEdit.setGeometry (15, 40, 500, 100)": "null", "self.PushButton": "QPushButton('Tombol (QPushButton)', self)", "self.PushButton.setGeometry (15, 150, 200, 40)": "null", "self.RadioButton": "QRadioButton('QRadioButton', self)", "self.RadioButton.move (235, 155)": "null", "self.CheckBox": "QCheckBox('QCheckBox', self)", "self.CheckBox.move (390, 155)": "null", "self.LineEdit": "QLineEdit('QLineEdit', self)", "self.LineEdit.setGeometry (165, 205, 160, 25)": "null", "self.DateTimeEdit": "QDateTimeEdit(self)", "self.DateTimeEdit.move (165, 240)": "null", "self.Dial": "QDial(self)", "self.Dial.setGeometry (20, 265, 70, 70)": "null", "self.ComboBox": "QComboBox(self)", "page_number": "24"}
+
+
+<!-- Page Break - Batch 34 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "self.ComboBox.addItems": "self.ComboBox.addItems(['QComboBox', 'QComboBox'])", "self.ComboBox.setGeometry": "self.ComboBox.setGeometry (165, 348, 290, 25)", "self.DoubleSpinBox": "self.DoubleSpinBox = QDoubleSpinBox(self)", "self.DoubleSpinBox.setGeometry": "self.DoubleSpinBox.setGeometry (165, 390, 290, 25)", "self.ProgressBar": "self.ProgressBar = QProgressBar(self)", "self.ProgressBar.setGeometry": "self.ProgressBar.setGeometry (170, 285, 200, 20)", "self.ProgressBar.setValue": "self.ProgressBar.setValue(90)", "#contoh penggunaan progress bar": "#contoh penggunaan progress bar", "def timer(self)": "def timer(self):", "self.hitung": "self.hitung = QBasicTimer()", "self.posisi": "self.posisi = 0", "def command(self)": "def command(self):", "if self.hitung.isActive()": "if self.hitung.isActive():", "self.hitung.stop()": "self.hitung.stop()", "else": "else:", "self.hitung.start(100, self)": "self.hitung.start(100, self)", "#Agar aplikasi dapat berjalan": "#Agar aplikasi dapat berjalan", "if _name_ == main": "if _name_ == '__main__':", "app": "app = QA pplication(sys.argv)", "ex": "ex = Dasar()", "ex.show()": "ex.show()", "sys.exit(app.exec_())": "sys.exit(app.exec_())", "Berikut merupakan contoh penggunaan widget dasar (QTable Widget) di": "Berikut merupakan contoh penggunaan widget dasar (QTable Widget) di", "Graphical User Interface yang dapat dilihat pada gambar 2.2": "Graphical User Interface yang dapat dilihat pada gambar 2.2", "DAFTAR PRODUK TOKO LABTI": "DAFTAR PRODUK TOKO LABTI", "Daftar Produk Toko LABTI": "Daftar Produk Toko LABTI", "Nama Produk": "Nama Produk", "Harga": "Harga", "1 Televisi": "1 Televisi", "Rp.8.000.00": "Rp.8.000.00", "2 Kulkas": "2 Kulkas", "Rp.7.000.00": "Rp.7.000.00", "3 Kipas Angin": "3 Kipas Angin", "Rp.1.000.00": "Rp.1.000.00", "4 Mesin Cuci": "4 Mesin Cuci", "Rp.6.000.00": "Rp.6.000.00", "5 Setrika": "5 Setrika", "Rp.2.000.00": "Rp.2.000.00", "Gambar 2.2 Tampilan QTableWidget": "Gambar 2.2 Tampilan QTableWidget", "Dibawah ini merupakan script untuk menghasilkan tampilan seperti pada": "Dibawah ini merupakan script untuk menghasilkan tampilan seperti pada", "gambar 2.2": "gambar 2.2", "25": "25"}
+
+
+<!-- Page Break - Batch 35 -->
+
+
+json
+{"error": "No extractable content found in document"}
+
+
+<!-- Page Break - Batch 36 -->
+
+
+json
+{"MODUL 1": "MODUL 1",
+"MODUL 2": "MODUL 2",
+"MODUL 3": "MODUL 3",
+"MODUL 4": "MODUL 4",
+"PT ELEKTRONIK TBK": "PT ELEKTRONIK TBK",
+"ELEKTRONIK LABTI": "ELEKTRONIK LABTI",
+"Gambar 2.3 Tampilan Gambar GUI": "Gambar 2.3 Tampilan Gambar GUI",
+"2.3.": "2.3.",
+"class gambar(QWidget):": "class gambar(QWidget):",
+"def init (self):": "def init (self):",
+"QWidget. __init__(self)": "QWidget. __init__(self)",
+"self.setWindowTitle(\"PT ELEKTRONIK TBK\")": "self.setWindowTitle(\"PT ELEKTRONIK TBK\")",
+"self.resize(520, 400)": "self.resize(520, 400)",
+"layout = QV BoxLayout()": "layout = QV BoxLayout()",
+"self.gambar(layout)": "self.gambar(layout)",
+"self.menu2(layout)": "self.menu2(layout)",
+"self.setLayout(layout)": "self.setLayout(layout)",
+"def gambar(self, layout):": "def gambar(self, layout):",
+"boxlayout = QHBoxLayout()": "boxlayout = QHBoxLayout()",
+"gambar = QPixmap('Gambar.png').scaled (350, 320)": "gambar = QPixmap('Gambar.png').scaled (350, 320)",
+"label = QLabel(self)": "label = QLabel(self)",
+"label.setPixmap(gambar)": "label.setPixmap(gambar)",
+"label.setAlignment(Qt.AlignCenter)": "label.setAlignment(Qt.AlignCenter)",
+"boxlayout.addWidget(label)": "boxlayout.addWidget(label)",
+"boxlayout.setAlignment(Qt.AlignCenter)": "boxlayout.setAlignment(Qt.AlignCenter)",
+"layout.addLayout(boxlayout)": "layout.addLayout(boxlayout)",
+"def menu2(self, layout):": "def menu2(self, layout):",
+"judul = QLabel('<h1><font color=\"navy\">ELEKTRONIK LABTI</font></h1>', self)": "judul = QLabel('<h1><font color=\"navy\">ELEKTRONIK LABTI</font></h1>', self)",
+"judul.setFont(QFont(Times New Roman', 12))": "judul.setFont(QFont(Times New Roman', 12))",
+"judul.setAlignment(Qt.AlignCenter)": "judul.setAlignment(Qt.AlignCenter)",
+"layout.addWidget(judul)": "layout.addWidget(judul)",
+"2.2.2 Built-in Dialogs": "2.2.2 Built-in Dialogs",
+"27": "27"}
+
+
+<!-- Page Break - Batch 37 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "Dialogs yang telah tersedia dan dapat langsung digunakan. Dialogs-dialogs tersebut yakni sebagai berikut:": "Dialogs yang telah tersedia dan dapat langsung digunakan. Dialogs-dialogs tersebut yakni sebagai berikut:", "Tabel 2.2 Dialog": "Tabel 2.2 Dialog", "Dialog": "Dialog", "Deskripsi": "Deskripsi", "QcolorDialog": "QcolorDialog", "Menyediakan dialog bagi user untuk menentukan warna.": "Menyediakan dialog bagi user untuk menentukan warna.", "QErrorMessage": "QErrorMessage", "Menyediakan dialog bagi yang menampilkan kesalahan pesan kepada user.": "Menyediakan dialog bagi yang menampilkan kesalahan pesan kepada user.", "QFileDialog": "QFileDialog", "Menyediakan dialog bagi user untuk memilih file atau direktori.": "Menyediakan dialog bagi user untuk memilih file atau direktori.", "QFontDialog": "QFontDialog", "Menyediakan dialog bagi user untuk memilih font.": "Menyediakan dialog bagi user untuk memilih font.", "QInputDialog": "QInputDialog", "Berfungsi untuk menyimpan atau menampung input bagi user.": "Berfungsi untuk menyimpan atau menampung input bagi user.", "QPageSetupDialog": "QPageSetupDialog", "Berfungsi untuk mengelola konfigurasi pilihan yang terkait halaman pada printer.": "Berfungsi untuk mengelola konfigurasi pilihan yang terkait halaman pada printer.", "QPrintPreviewDialog": "QPrintPreviewDialog", "Berfungsi untuk melihat pratinjau dan mengatur": "Berfungsi untuk melihat pratinjau dan mengatur", "QPrintDialog": "QPrintDialog", "Qwizard": "Qwizard", "QProgressDialog": "QProgressDialog", "konfigurasi layout halaman output printer.": "konfigurasi layout halaman output printer.", "Berfungsi untuk membantu dalam printer dan konfigurasi percetakan.": "Berfungsi untuk membantu dalam printer dan konfigurasi percetakan.", "Menyediakan kerangka kerja dialog untuk wizard.": "Menyediakan kerangka kerja dialog untuk wizard.", "Berfungsi untuk memberikan informasi kepada user terkait berapa lama proses akan berlangsung.": "Berfungsi untuk memberikan informasi kepada user terkait berapa lama proses akan berlangsung.", "Dari beberapa dialog yang dimiliki oleh PySide2 yang sering diimplementasikan dalam Graphical User Interface yakni QMessageBox. Berikut contoh QMessageBox dapat dilihat pada gambar 2.4": "Dari beberapa dialog yang dimiliki oleh PySide2 yang sering diimplementasikan dalam Graphical User Interface yakni QMessageBox. Berikut contoh QMessageBox dapat dilihat pada gambar 2.4", "WARNING": "WARNING", "X": "X", "?": "?", "Apakah yakin data akan dihapus?": "Apakah yakin data akan dihapus?", "Yes": "Yes", "No": "No", "Gambar 2.4 QMessageBox": "Gambar 2.4 QMessageBox", "Berikut merupakan script yang digunakan untuk menghasilkan tampilan seperti pada gambar 2.4": "Berikut merupakan script yang digunakan untuk menghasilkan tampilan seperti pada gambar 2.4", "28": "28"}
+
+
+<!-- Page Break - Batch 38 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "def delete(self):": "def delete(self):", "messAge = QMessageBox.question(": "messAge = QMessageBox.question(", "self,": "self,", "\"WARNING\",": "\"WARNING\",", "\"Apakah yakin data akan dihapus?\",": "\"Apakah yakin data akan dihapus?\",", "QMessageBox.Yes | QMessageBox.No": "QMessageBox.Yes | QMessageBox.No", ")": ")", "if messA ge == QMessageBox.Yes:": "if messA ge == QMessageBox.Yes:", "from perakitan import permesinan": "from perakitan import permesinan", "self.pemas = permesinan()": "self.pemas = permesinan()", "self.pemas.show()": "self.pemas.show()", "self.hide()": "self.hide()", "if messA ge==QMessageBox.No:": "if messA ge==QMessageBox.No:", "pass": "pass", "2.3 Manajemen Tata Letak (Layout)": "2.3 Manajemen Tata Letak (Layout)", "Tata letak merupakan representasi dari ukuran, jarak, serta posisi berbagai": "Tata letak merupakan representasi dari ukuran, jarak, serta posisi berbagai", "elemen dalam jendela GUI. Penggunaan tata letak yang efektif dapat meningkatkan": "elemen dalam jendela GUI. Penggunaan tata letak yang efektif dapat meningkatkan", "kenyamanan dan kemudahan pengguna dalam berinteraksi dengan aplikasi. Tata": "kenyamanan dan kemudahan pengguna dalam berinteraksi dengan aplikasi. Tata", "letak yang baik ditandai oleh beberapa aspek penting, seperti alur yang lancar,": "letak yang baik ditandai oleh beberapa aspek penting, seperti alur yang lancar,", "pengelompokan elemen secara logis, penekanan pada elemen yang relevan, serta": "pengelompokan elemen secara logis, penekanan pada elemen yang relevan, serta", "keselarasan yang terstruktur. Di dalam PySide2, terdapat dua pendekatan": "keselarasan yang terstruktur. Di dalam PySide2, terdapat dua pendekatan", "manajemen tata letak, yaitu:": "manajemen tata letak, yaitu:", "a.": "a.", "Posisi Absolute (Absolute Positioning): merupakan sebuah metode manual": "Posisi Absolute (Absolute Positioning): merupakan sebuah metode manual", "untuk mengatur posisi dan ukuran suatu widget. Posisi absolut pada PySide2": "untuk mengatur posisi dan ukuran suatu widget. Posisi absolut pada PySide2", "dapat dilakukan dengan fungsi move (x,y) dimana x mengatur posisi secara": "dapat dilakukan dengan fungsi move (x,y) dimana x mengatur posisi secara", "horizontal dan y mengatur posisi secara vertikal, sehingga posisi widget tidak": "horizontal dan y mengatur posisi secara vertikal, sehingga posisi widget tidak", "akan berubah ketika mengubah ukuran window yang telah ditampilkan.": "akan berubah ketika mengubah ukuran window yang telah ditampilkan.", "b.": "b.", "Kontainer Tata Letak (Layout Containers): merupakan sebuah cara untuk": "Kontainer Tata Letak (Layout Containers): merupakan sebuah cara untuk", "menangani posisi otomatis dan mengubah ukuran widget dengan class": "menangani posisi otomatis dan mengubah ukuran widget dengan class", "manajemen Layout yang digunakan dalam PyQt.": "manajemen Layout yang digunakan dalam PyQt.", "Secara umum, kontainer dalam tata letak dapat dikategorikan menjadi :": "Secara umum, kontainer dalam tata letak dapat dikategorikan menjadi :", "QBoxLayout: untuk mengatur widget secara vertikal atau horizontal.": "QBoxLayout: untuk mengatur widget secara vertikal atau horizontal.", "QGridLayout: mengatur widget ke dalam bentuk grid, di mana jendela dibagi": "QGridLayout: mengatur widget ke dalam bentuk grid, di mana jendela dibagi", "menjadi grid sebanyak yang dibutuhkan.": "menjadi grid sebanyak yang dibutuhkan.", "C.": "C.", "QFormLayout: mengatur widget berdasarkan urutan input ke dalam jendela.": "QFormLayout: mengatur widget berdasarkan urutan input ke dalam jendela.", "d.": "d.", "QStackedLayout: mengatur widget berada pada dua halaman yang berbeda.": "QStackedLayout: mengatur widget berada pada dua halaman yang berbeda.", "e. QTabLayout: mengatur widget sehingga berada pada Tab yang diinginkan.": "e. QTabLayout: mengatur widget sehingga berada pada Tab yang diinginkan.", "29": "29"}
+
+
+<!-- Page Break - Batch 39 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "QHBoxLayout_title": "QHBoxLayout", "QHBoxLayout_button1": "Button 1", "QHBoxLayout_button2": "Button 2", "QHBoxLayout_button3": "Button 3", "QHBoxLayout_gambar": "Gambar 2.5 QHBoxLayout", "QVBoxLayout_title": "QVBoxLayout", "QVBoxLayout_button1": "Button 1", "QVBoxLayout_button2": "Button 2", "QVBoxLayout_button3": "Button 3", "QVBoxLayout_gambar": "Gambar 2.6 QHBoxLayout", "QGridLayout_title": "QGridLayout", "QGridLayout_button1": "Button 1", "QGridLayout_button2": "Button 2", "QGridLayout_button3": "Button 3", "QGridLayout_button4": "Button 4", "QGridLayout_button5": "Button 5", "QGridLayout_button6": "Button 6", "QGridLayout_gambar": "Gambar 2.7 QGridLayout", "QFormLayout_title": "QFormLayout", "QFormLayout_nama": "Nama:", "QFormLayout_email": "Email:", "QFormLayout_nomor_handphone": "Nomor Handphone:", "QFormLayout_kirim": "Kirim", "QFormLayout_gambar": "Gambar 2.8 QFormLayout", "QStackedLayout1_title": "QStackedLayout1", "QStackedLayout1_page": "Page 1", "QStackedLayout1_nama": "Nama:", "QStackedLayout1_email": "Email:", "QStackedLayout1_nomor_handphone": "Nomor Handphone:", "QStackedLayout1_pesanan": "Pesanan:", "QStackedLayout1_nomor_resi": "Nomor Resi:", "QStackedLayout1_kirim": "Kirim", "QStackedLayout1_gambar": "Gambar 2.9 QStackedLayout1", "QStackedLayout2_title": "QStackedLayout2", "QStackedLayout2_page": "Page 2", "QStackedLayout2_pilihan_tv1": "Pilihan TV 1", "QStackedLayout2_pilihan_tv2": "Pilihan TV 2", "QStackedLayout2_kirim": "Kirim", "QStackedLayout2_gambar": "Gambar 2.10 QStackedLayout2", "page_number": "30"}
+
+
+<!-- Page Break - Batch 40 -->
+
+
+json
+{"MODUL 1": "","MODUL 2": "","MODUL 3": "","MODUL 4": "","QTab Layou...": "","Home": "","Pesanan": "","Nama:": "","Email:": "","Nomor Handphone:": "","Kirim": "","Gambar 2.11 QTabLayout1": "","Gambar 2.12 QTabLayout2": "","2.4 Visualisasi Data Python": "","QtCharts adalah widget tambahan dalam framework Qt yang digunakan untuk": "","membangun visualisasi data dalam bentuk grafik pada aplikasi berbasis antarmuka": "","grafis (GUI). Widget ini menyediakan berbagai jenis grafik, diantaranya seperti": "","grafik garis (line chart), grafik batang (bar chart), grafik lingkaran (pie chart),": "","grafik sebar (scatter chart), dan grafik kurva halus (spline chart). QtCharts": "","berfungsi untuk mempermudah representasi data agar lebih mudah dipahami,": "","meningkatkan efisiensi dalam analisis data, serta mendukung pemantauan data": "","secara waktu nyata (real-time).": "","Tabel 2.3 Jenis Grafik QtChart": "","Widget Grafik": "","Deskripsi": "","QLineSeries": "Menampilkan data dalam bentuk garis\nlurus yang menghubungkan titik-titik\ndata.","QBarSeries": "Menampilkan data dalam bentuk\nbatang (bar chart) secara\nberdampingan.","QPieSeries": "Menampilkan data dalam bentuk\ndiagram lingkaran (pie chart),\nmembagi keseluruhan menjadi bagian-\nbagian proporsional terhadap nilai data.","QStackedBarSeries": "Variasi dari QBarSeries, namun setiap\nbatang dibagi menjadi beberapa\nsegmen (stacked). Digunakan untuk\nmemperlihatkan kontribusi bagian dari\ntotal keseluruhan","31": "","Televisi": "","HP": "","TV": "","Kamera": "","Kulkas": "","AC": ""}
+
+
+<!-- Page Break - Batch 41 -->
+
+
+json
+{"Widget Grafik": "QSplineSeries", "Deskripsi": "Menampilkan data dalam bentuk garis\nlengkung (spline) untuk\nmenghubungkan titik data.", "Gambar 2.13 QLineSeries": null, "Gambar 2.15 QPieSeries": null, "Gambar 2.16 QSplineSeries": null, "Gambar 2.14 QBarSeries": null, "Gambar 2.16 Q StackedBarSeries": null, "MODUL 1": null, "MODUL 2": null, "MODUL 3": null, "MODUL 4": null, "32": null}
+
+
+<!-- Page Break - Batch 42 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "Berikut merupakan script yang digunakan untuk menghasilkan beberapa grafik seperti yang ada pada gambar diatas": "Berikut merupakan script yang digunakan untuk menghasilkan beberapa grafik seperti yang ada pada gambar diatas", "def line chart(self):": "def line chart(self):", "series = QtCharts. QLineSeries()": "series = QtCharts. QLineSeries()", "series.append(0, 6)": "series.append(0, 6)", "series.append(2, 4)": "series.append(2, 4)", "series.append(3, 8)": "series.append(3, 8)", "series.append(7, 4)": "series.append(7, 4)", "series.append(10, 5)": "series.append(10, 5)", "chart = QtCharts.QChart()": "chart = QtCharts.QChart()", "chart.addSeries(series)": "chart.addSeries(series)", "chart.createDefaultAxes()": "chart.createDefaultAxes()", "chart.setTitle(\"QLineSeries Example\")": "chart.setTitle(\"QLineSeries Example\")", "def bar chart(self):": "def bar chart(self):", "set0 = QtCharts.QBarSet(\"A\")": "set0 = QtCharts.QBarSet(\"A\")", "set0.append([1, 2, 3, 4, 5])": "set0.append([1, 2, 3, 4, 5])", "series = QtCharts.QBarSeries()": "series = QtCharts.QBarSeries()", "series.append(set0)": "series.append(set0)", "chart = QtCharts.QChart()": "chart = QtCharts.QChart()", "chart.addSeries(series)": "chart.addSeries(series)", "chart.setTitle(\"QBarSeries Example\")": "chart.setTitle(\"QBarSeries Example\")", "def stacked bar chart(self):": "def stacked bar chart(self):", "set0 = QtCharts.QBarSet(\"A\")": "set0 = QtCharts.QBarSet(\"A\")", "set1 = QtCharts.QBarSet(\"B\")": "set1 = QtCharts.QBarSet(\"B\")", "set0.append([1, 2, 3])": "set0.append([1, 2, 3])", "set1.append([5, 0, 8])": "set1.append([5, 0, 8])", "series = QtCharts. QStackedBarSeries()": "series = QtCharts. QStackedBarSeries()", "series.append(set0)": "series.append(set0)", "series.append(set1)": "series.append(set1)", "chart.addSeries(series)": "chart.addSeries(series)", "chart.setTitle(\"QStackedBarSeries Example\")": "chart.setTitle(\"QStackedBarSeries Example\")", "33": "33"}
+
+
+<!-- Page Break - Batch 43 -->
+
+
+json
+{"MODUL 1": "","MODUL 2": "","MODUL 3": "","MODUL 4": "","def pie_chart(self):": "","series": "QtCharts.QPieSeries()","series.append(\"Samsung\", 40)": "","series.append(\"Sharp\", 30)": "","series.append(\"LG\", 30)": "","chart": "QtCharts.QChart()","chart.addSeries (series)": "","chart.setTitle(\"QPieSeries Example\")": "","return chart": "","def spline_chart(self):": "","series 1": "QtCharts. QSplineSeries()","series.append(0, 3)": "","series.append(1, 3)": "","series.append(3, 4)": "","series.append(7, 2)": "","chart 2": "QtCharts.QChart()","chart.addSeries(series)": "","chart.setTitle(\"QSplineSeries Example\")": "","chart.createDefaultAxes()": "","page_number": "34"}
+
+
+<!-- Page Break - Batch 44 -->
+
+
+{"Modul": "III", "Website Statis": "Django", "Faisal": null, "Shira": null, "Putri": null, "Dendra": null}
+
+
+<!-- Page Break - Batch 45 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "MODUL III WEBSITE STATIS": "MODUL III WEBSITE STATIS", "A. Tujuan Praktikum": "A. Tujuan Praktikum", "Praktikum Modul 3 website Statis memiliki tujuan sebagai berikut:": "Praktikum Modul 3 website Statis memiliki tujuan sebagai berikut:", "1. Mampu memahami sintaks-sintaks yang digunakan pada HTML dan CSS.": "1. Mampu memahami sintaks-sintaks yang digunakan pada HTML dan CSS.", "2. Mampu memahami penggunaan Django.": "2. Mampu memahami penggunaan Django.", "3. Mampu membuat tampilan website statis sederhana menggunakanHTML dan CSS melalui Django.": "3. Mampu membuat tampilan website statis sederhana menggunakanHTML dan CSS melalui Django.", "B. Landasan Teori": "B. Landasan Teori", "3.1 HTML": "3.1 HTML", "3.1.1 Pengertian HTML": "3.1.1 Pengertian HTML", "HTML adalah bahasa yang digunakan untuk menulis halaman web. HTML banyak yang disebut sebagai suatu bahasa pemrograman, HTML sebenarnya sama sekali bukan bahasa pemrograman, HTML merupakan pengembangan dari standar pemformatan dokumen teks, yaitu Standard Generalized Markup Language (SGML). HTML sering juga disebut sebagai bahasa penandaan (markup) terhadap sebuah dokumen teks. Tanda tersebut digunakan untuk menentukan format atau style dari teks yang ditandai. Simbol markup yang digunakan oleh HTML ditandai dengan lebih kecil (<) dan tanda lebih besar (>) dan disebut tag. Sebuah file HTML merupakan file teks biasa yang mengandung tag-tag HTML. Karena merupakan file teks, maka HTML dapat dibuat dengan menggunakan teks editor yang sederhana, misalnya NotePad. Tanda bahwa sebuah file teks merupakan HTML terdapat pada eksistensi filenya, yaitu .htm atau .html. (Rachmawati, 2022)": "HTML adalah bahasa yang digunakan untuk menulis halaman web. HTML banyak yang disebut sebagai suatu bahasa pemrograman, HTML sebenarnya sama sekali bukan bahasa pemrograman, HTML merupakan pengembangan dari standar pemformatan dokumen teks, yaitu Standard Generalized Markup Language (SGML). HTML sering juga disebut sebagai bahasa penandaan (markup) terhadap sebuah dokumen teks. Tanda tersebut digunakan untuk menentukan format atau style dari teks yang ditandai. Simbol markup yang digunakan oleh HTML ditandai dengan lebih kecil (<) dan tanda lebih besar (>) dan disebut tag. Sebuah file HTML merupakan file teks biasa yang mengandung tag-tag HTML. Karena merupakan file teks, maka HTML dapat dibuat dengan menggunakan teks editor yang sederhana, misalnya NotePad. Tanda bahwa sebuah file teks merupakan HTML terdapat pada eksistensi filenya, yaitu .htm atau .html. (Rachmawati, 2022)", "3.1.2 Kelebihan dan Kekurangan HTML": "3.1.2 Kelebihan dan Kekurangan HTML", "a. Kelebihan HTML": "a. Kelebihan HTML", "1. Dapat dikombinasikan dengan bahasa pemrograman lain. Contoh: Personal Home Page (PHP) dan JavaScript.": "1. Dapat dikombinasikan dengan bahasa pemrograman lain. Contoh: Personal Home Page (PHP) dan JavaScript.", "2. Dapat dibuat menggunakan berbagai platform pada beberapa jenis komputer dengan sistem operasi yang berbeda.": "2. Dapat dibuat menggunakan berbagai platform pada beberapa jenis komputer dengan sistem operasi yang berbeda.", "3. Memiliki struktur yang rapi dan konsisten.": "3. Memiliki struktur yang rapi dan konsisten.", "4. Dapat dimasukkan gambar statis maupun dinamis dan video pada tampilan website.": "4. Dapat dimasukkan gambar statis maupun dinamis dan video pada tampilan website.", "5. Bersifat open source.": "5. Bersifat open source.", "b. Kekurangan HTML": "b. Kekurangan HTML", "1. Halaman bersifat statis.": "1. Halaman bersifat statis.", "2. Memiliki terlalu banyak tag.": "2. Memiliki terlalu banyak tag.", "3. Tidak semua browser bisa menjalankan HTML versi terbaru.": "3. Tidak semua browser bisa menjalankan HTML versi terbaru.", "4. HTML tidak memungkinkan user untuk menjalankan logic.": "4. HTML tidak memungkinkan user untuk menjalankan logic.", "35": "35"}
+
+
+<!-- Page Break - Batch 46 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "3.1.3 Syntax Dasar HTML": "3.1.3 Syntax Dasar HTML", "Syntax dasar adalah suatu aturan yang digunakan dalam penulisan kalimat ketika akan membuat sebuah website, sehingga website, tersebut dapat dijalankan. Berikut adalah contoh penulisan syntax dasar HTML seperti gambar 3.1": "Syntax dasar adalah suatu aturan yang digunakan dalam penulisan kalimat ketika akan membuat sebuah website, sehingga website, tersebut dapat dijalankan. Berikut adalah contoh penulisan syntax dasar HTML seperti gambar 3.1", "<!DOCTYPE html>": "<!DOCTYPE html>", "<html>": "<html>", "<head>": "<head>", "<title>Prokom 2025</title>": "<title>Prokom 2025</title>", "</head>": "</head>", "<body>": "<body>", "Selamat datang dan selamat mengikuti Praktikum Pemrograman Komputer 2025": "Selamat datang dan selamat mengikuti Praktikum Pemrograman Komputer 2025", "</body>": "</body>", "</html>": "</html>", "Prokom 2025": "Prokom 2025", "127.0.0.1:8000": "127.0.0.1:8000", "Selamat datang dan selamat mengikuti Praktikum Pemrograman Komputer 2025": "Selamat datang dan selamat mengikuti Praktikum Pemrograman Komputer 2025", "Gambar 3.1 Hasil Running Syntax Dasar HTML": "Gambar 3.1 Hasil Running Syntax Dasar HTML", "Dalam menampilkan suatu teks atau objek pada WEBSITE, HTML merupakan tag yang terdiri dari <tag_pembuka> dan </tag_penutup> yang diantaranya terdapat objek yang diberikan perintah seperti pada Gambar 3.1, dengan penjelasan sebagai berikut:": "Dalam menampilkan suatu teks atau objek pada WEBSITE, HTML merupakan tag yang terdiri dari <tag_pembuka> dan </tag_penutup> yang diantaranya terdapat objek yang diberikan perintah seperti pada Gambar 3.1, dengan penjelasan sebagai berikut:", "a. Deklarasi <!DOCTYPE html> mendefinisikan tipe dokumen, yakni HTML": "a. Deklarasi <!DOCTYPE html> mendefinisikan tipe dokumen, yakni HTML", "5.": "5.", "b.": "b.", "Teks di antara <html> dan </html>menjelaskan dokumen website.": "Teks di antara <html> dan </html>menjelaskan dokumen website.", "c.": "c.", "Teks di antara <head> dan </head> menjelaskan penempatan judul dokumen html pada jendela browser.": "Teks di antara <head> dan </head> menjelaskan penempatan judul dokumen html pada jendela browser.", "d. Teks di antara <title> dan </title>menggambarkan judul website.": "d. Teks di antara <title> dan </title>menggambarkan judul website.", "e.": "e.", "Teks diantara <body> dan </body> menggambarkan isi halaman yang terlihat.": "Teks diantara <body> dan </body> menggambarkan isi halaman yang terlihat.", "3.1.4 Tag dan A tribut HTML": "3.1.4 Tag dan A tribut HTML", "a. Headings": "a. Headings", "Headings pada HTML terdiri dari <h1> yang merupakan ukuran terbesar sampai <h6> yang merupakan ukuran terkecil. Atribut yang dapat ditambahkan pada headings yaitu salah satunya adalah align, yang memiliki fungsi mengatur penempatan teks Align merupakan nama pada atribut, sedangkan sebagai nilai kita dapat menambahkan left, right, center, dan justify.": "Headings pada HTML terdiri dari <h1> yang merupakan ukuran terbesar sampai <h6> yang merupakan ukuran terkecil. Atribut yang dapat ditambahkan pada headings yaitu salah satunya adalah align, yang memiliki fungsi mengatur penempatan teks Align merupakan nama pada atribut, sedangkan sebagai nilai kita dapat menambahkan left, right, center, dan justify.", "b. Format HTML": "b. Format HTML", "Penggunaan format terhadap karakter yang ditampilkan dapat membuat sebuah dokumen HTML yang menarik.": "Penggunaan format terhadap karakter yang ditampilkan dapat membuat sebuah dokumen HTML yang menarik.", "36": "36"}
+
+
+<!-- Page Break - Batch 47 -->
+
+
+json
+{
+  "MODUL 1": "MODUL 1",
+  "MODUL 2": "MODUL 2",
+  "MODUL 3": "MODUL 3",
+  "MODUL 4": "MODUL 4",
+  "1. Physical Format": "Physical Format",
+  "Physical Format adalah format terhadap fisik suatu font. Tag yang termasuk": "Physical Format adalah format terhadap fisik suatu font. Tag yang termasuk",
+  "physical format adalah dapat dilihat pada Tabel 3.1.": "physical format adalah dapat dilihat pada Tabel 3.1.",
+  "Tabel 3.1 Tag Physical Format": "Tabel 3.1 Tag Physical Format",
+  "Elemen": "Elemen",
+  "<b>..........</b>": "<b>..........</b>",
+  "<i>..........</i>": "<i>..........</i>",
+  "<u>..........</u>": "<u>..........</u>",
+  "<S>..........</S>": "<S>..........</S>",
+  "<br>..........</br>": "<br>..........</br>",
+  "<tt>..........</tt>": "<tt>..........</tt>",
+  "<big>..........</big>": "<big>..........</big>",
+  "<small>...</small>": "<small>...</small>",
+  "<sub>..........</sub>": "<sub>..........</sub>",
+  "<sup>..........</sup>": "<sup>..........</sup>",
+  "<mark>...</mark>": "<mark>...</mark>",
+  "Keterangan": "Keterangan",
+  "Membuat tulisan teks tebal": "Membuat tulisan teks tebal",
+  "Untuk membuat teks terlihat miring": "Untuk membuat teks terlihat miring",
+  "Untuk menggaris bawahi teks": "Untuk menggaris bawahi teks",
+  "Untuk memberikan coretan pada teks": "Untuk memberikan coretan pada teks",
+  "Membuat line break atau garis baru": "Membuat line break atau garis baru",
+  "Menampilkan teks dalam format": "Menampilkan teks dalam format",
+  "typewriter": "typewriter",
+  "Untuk membesarkan teks": "Untuk membesarkan teks",
+  "Untuk mengecilkan teks": "Untuk mengecilkan teks",
+  "Membuat teks subscript": "Membuat teks subscript",
+  "Membuat teks superscript": "Membuat teks superscript",
+  "Membuat teks yang di highlight": "Membuat teks yang di highlight",
+  "2. Tag <blockquote>": "2. Tag <blockquote>",
+  "Digunakan untuk menuliskan kutipan pada bagian yang dikhususkan pada": "Digunakan untuk menuliskan kutipan pada bagian yang dikhususkan pada",
+  "sebuah dokumen, misalkan kutipan kitab suci, kata mutiara, dan lain-lain. Teks": "sebuah dokumen, misalkan kutipan kitab suci, kata mutiara, dan lain-lain. Teks",
+  "yang diberikan tag ini akan menjorok ke dalam. Contoh implementasi dari tag": "yang diberikan tag ini akan menjorok ke dalam. Contoh implementasi dari tag",
+  "<blockquote> dapat dilihat pada script dibawah ini.": "<blockquote> dapat dilihat pada script dibawah ini.",
+  "<p>E-commerce adalah kegiatan transaksi jual beli barang atau jasa yang": "<p>E-commerce adalah kegiatan transaksi jual beli barang atau jasa yang",
+  "dilakukan melalui media elektronik, terutama internet. Dalam e-commerce,": "dilakukan melalui media elektronik, terutama internet. Dalam e-commerce,",
+  "seluruh proses mulai dari promosi, pemesanan, pembayaran, hingga pengiriman": "seluruh proses mulai dari promosi, pemesanan, pembayaran, hingga pengiriman",
+  "dilakukan secara online </p>": "dilakukan secara online </p>",
+  "<blockquote>Keunggulan e-commerce meliputi jangkauan pasar yang luas,": "<blockquote>Keunggulan e-commerce meliputi jangkauan pasar yang luas,",
+  "kemudahan akses kapan saja dan di mana saja, serta efisiensi dalam proses": "kemudahan akses kapan saja dan di mana saja, serta efisiensi dalam proses",
+  "transaksi </blockquote>": "transaksi </blockquote>",
+  "<p>E-commerce juga berperan penting dalam dunia industri karena mendukung": "<p>E-commerce juga berperan penting dalam dunia industri karena mendukung",
+  "transformasi digital dan memperluas peluang bisnis. Dengan inovasi yang terus": "transformasi digital dan memperluas peluang bisnis. Dengan inovasi yang terus",
+  "berkembang, seperti analisis data, e-commerce menjadi semakin strategis dalam": "berkembang, seperti analisis data, e-commerce menjadi semakin strategis dalam",
+  "meningkatkan kepuasan pelanggan dan efisiensi operasional.</p>": "meningkatkan kepuasan pelanggan dan efisiensi operasional.</p>",
+  "E-commerce adalah kegiatan transaksi jual beli barang atau jasa yang dilakukan melalui media": "E-commerce adalah kegiatan transaksi jual beli barang atau jasa yang dilakukan melalui media",
+  "elektronik, terutama internet. Dalam e-commerce, seluruh proses mulai dari promosi, pemesanan,": "elektronik, terutama internet. Dalam e-commerce, seluruh proses mulai dari promosi, pemesanan,",
+  "pembayaran, hingga pengiriman dilakukan secara online": "pembayaran, hingga pengiriman dilakukan secara online",
+  "Keunggulan e-commerce meliputi jangkauan pasar yang luas, kemudahan akses kapan saja": "Keunggulan e-commerce meliputi jangkauan pasar yang luas, kemudahan akses kapan saja",
+  "dan di mana saja, serta efisiensi dalam proses transaksi": "dan di mana saja, serta efisiensi dalam proses transaksi",
+  "E-commerce juga berperan penting dalam dunia industri karena mendukung transformasi digital dan": "E-commerce juga berperan penting dalam dunia industri karena mendukung transformasi digital dan",
+  "memperluas peluang bisnis. Dengan inovasi yang terus berkembang, seperti analisis data, e-commerce": "memperluas peluang bisnis. Dengan inovasi yang terus berkembang, seperti analisis data, e-commerce",
+  "menjadi semakin strategis dalam meningkatkan kepuasan pelanggan dan efisiensi operasional.": "menjadi semakin strategis dalam meningkatkan kepuasan pelanggan dan efisiensi operasional.",
+  "Gambar 3.2 Hasil Running tag<blockquote>": "Gambar 3.2 Hasil Running tag<blockquote>",
+  "37": "37"
+}
+
+
+<!-- Page Break - Batch 48 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "3.": "3.", "Font": "Font", "Tag": "Tag <font> digunakan untuk mengatur jenis, ukuran, dan warna huruf\ndokumen HTML.", "a.": "a.", "Size:": "Size: Digunakan untuk mengatur ukuran font. Ukuran font yang digunakan\nberkisar antara 1-7 dengan 1 merupakan ukuran terkecil dan 7 merupakan\nukuran terbesar.", "b.": "b.", "Face:": "Face: Digunakan untuk mengatur jenis atau nama font.", "C.": "C.", "Color:": "Color: Digunakan untuk mengatur warna font HTML.", "c.": "c.", "List HTML": "List HTML", "List": "List dapat digunakan untuk menampilkan data yang disusun seperti suatu\ndaftar sehingga item-item yang ada memiliki nomor urut atau bisa juga berupa\ntanda-tanda khusus/symbol. Ada dua macam list, yaitu ordered list (ol) dan\nunordered list (ul).", "1.": "1.", "Ordered List": "Ordered List", "Ordered List berfungsi": "Ordered List berfungsi untuk membuat daftar list dimana tiap bagian akan\ndiberi penomoran menggunakan nomor atau abjad, tag dibuka dengan <ol> dan\nditutup dengan </ol>. Untuk tiap bagian diawali dengan <li> dan diakhiri dengan\n</li>. Macam macam atribut untuk penomoran pada Ordered List antara lain:", "Type = \"A\" digunakan": "Type = \"A\" digunakan untuk Format penomoran dengan huruf A, B, C.", "Type = \"a\" digunakan": "Type = \"a\" digunakan untuk Format penomoran dengan huruf a, b, c.", "Type = \"I\" digunakan": "Type = \"I\" digunakan untuk Format penomoran dengan huruf I, II, III.", "d.": "d.", "Type = \"i\" digunakan": "Type = \"i\" digunakan untuk Format penomoran dengan huruf i, ii, iii.", "2.": "2.", "Unordered List": "Unordered List", "Unordered List memiliki fungsi": "Unordered List memiliki fungsi untuk membuat daftar dimana tiap bagian\ntidak akan diberi penomoran, tag dibuka dengan <ul> dan ditutup dengan </ul>.\nUntuk tiap bagian diawali dengan <li> dan diakhiri dengan </li>. Tag list tersebut\ndapat ditambahkan atribut TY PE dengan nilai:", "Disc:": "Disc: Bulatan hitam (•)", "Square:": "Square: Kotak (■)", "Circle:": "Circle: Bulatan kosong (0)", "Contoh penggunaan ordered list": "Contoh penggunaan ordered list dan unordered list dapat dilihat pada script\ndibawah ini:", "38": "38"}
+
+
+<!-- Page Break - Batch 49 -->
+
+
+json
+{"title": "Prokom 2025", "heading": "PRAKTIKUM PEMROGRAMAN KOMPUTER 2025", "ordered_list_title": "*Contoh Ordered List*", "ordered_list_type": "A", "ordered_list_item_1": "Python Dasar", "ordered_list_item_2": "Pyside2", "ordered_list_item_3": "Web Statis dengan Django", "ordered_list_item_4": "Web Dinamis dengan Django", "unordered_list_title": "*Contoh Unordered List*", "unordered_list_type_1": "circle", "unordered_list_item_1": "PROKOM", "unordered_list_type_2": "disc", "unordered_list_item_2": "2025", "unordered_list_type_3": "square", "unordered_list_item_3": "Semangat", "image_description": "Dokumen HTML dapat ditambahkan gambar dengan berbagai macam format, misal .gif, .jpeg, .pcx, .png, .wmf, dll. Untuk menambah gambar digunakan tag:", "figure_caption": "Gambar 3.3 Hasil Running Tag List", "page_number": "39"}
+
+
+<!-- Page Break - Batch 50 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "img_src": "nama file gambar", "text_1": "Berikut merupakan contoh penulisan tag dan atribut image HTML:", "img_src_2": "C\\modul\\gambar.jpg", "alt": "Logo Perusahaan", "align": "top", "width": "150px", "height": "150px", "title": "Logo Perusahaan", "text_2": "Jika dokumen html dalam satu folder dengan gambar, tidak perlu\nmenambahkan direktori file gambar. Dari penulisan script di atas dapat dijelaskan\nsebagai berikut:", "Tabel 3.2 Penjelasan Script": "Tabel 3.2 Penjelasan Script", "A tribut": "A tribut", "Src": "Merujuk URL atau direktori file gambar", "Alt_2": "Menampilkan teks pengganti gambar jika gambar tidak dapat\nditampilkan", "Align_2": "Posisi teks di sekitar gambar, nilainya adalah top, middle,\nbottom, left, right", "Width_2": "Lebar gambar dalam satuan pixel", "Height_2": "Tinggi gambar dalam satuan pixel", "Title_2": "Menampilkan teks pada saat kursor diarahkan ke gambar", "e.": "e.", "Tabel HTML": "Tabel HTML", "text_3": "Tabel merupakan cara untuk menampilkan informasi dengan bentuk kolom\ndan baris dalam halaman WEBSITE. Tag <table> digunakan untuk memulai tabel\ndan mengakhiri tabel. Tabel terdiri dari tabel baris dengan tag <tr> dan tabel kolom\ndengan tag <td>. Tabel baris dapat ditambahkan baris judul dengan tag <th>.\nKomponen pada tabel dapat dijelaskan sebagai berikut.", "1.": "1.", "Height dan Width Tabel HTML": "Height dan Width Tabel HTML", "text_4": "Lebar tabel diatur dengan menggunakan atribut width dan untuk mengatur\ntinggi tabel dengan atribut height. Nilai atribut mengunakan ukuran % (max 100%)\ndan ukuran pixel.", "2.": "2.", "Judul Tabel HTML": "Judul Tabel HTML", "text_5": "Judul dalam tabel dibedakan menjadi tiga macam, yaitu judul tabel, judul\nkolom tabel dan judul baris tabel. Judul kolom atau judul baris dibuat dengan\nelemen yang sama yaitu elemen tabel header <th>.", "3.": "3.", "Warna dan Border pada Tabel HTML": "Warna dan Border pada Tabel HTML", "text_6": "Pada pewarnaan tabel dapat diatur warna latar belakang menggunakan atribut\nBGCOLOR dan warna font dengan atribut FONT COLOR. Sedangkan ketebalan\ntabel dapat diatur dengan atribut BORDER.", "page_number": "40"}
+
+
+<!-- Page Break - Batch 51 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "title": "Praktikum Prokom 2025", "caption_align": "middle", "caption_text": "<Mata Kuliah Teknik Industri>", "h4_text": "*Mata Kuliah Teknik Industri*", "table_border": "4", "table_width": "20%", "Kode": "Kode", "Mata Kuliah": "Mata Kuliah", "Semester": "Semester", "TIN20932": "TIN20932", "Ergonomi": "Ergonomi", "Semester_value_1": "2", "TIN20332_2": "TIN20332", "Kalkulus II": "Kalkulus II", "Semester_value_2": "2", "Praktikum Prokom 2025": "Praktikum Prokom 2025", "IP_Address": "127.0.0.1:8000", "Gambar 3.4": "Gambar 3.4 Hasil Tampilan Tabel", "f. Link": "f. Link", "page_number": "41"}
+
+
+<!-- Page Break - Batch 52 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "1": "1.", "Link ke dokumen lain": "Link ke dokumen lain", "2": "2.", "Link ke alamat URL atau website": "Link ke alamat URL atau website", "3": "3.", "Link ke alamat email": "Link ke alamat email", "4": "4.", "Link File yang akan didownload": "Link File yang akan didownload", "Gambar 3.5 Hasil Running Syntax Link ke Dokumen Lain": "Gambar 3.5 Hasil Running Syntax Link ke Dokumen Lain", "page_number": "42"}
+
+
+<!-- Page Break - Batch 53 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "g. Form HTML": "Form HTML", "Form adalah sebuah daftar isian untuk memasukkan data atau suatu informasi tertentu. Form dibuat menggunakan tag <Form> dan atribut seperti action dan method.": "Form adalah sebuah daftar isian untuk memasukkan data atau suatu informasi tertentu. Form dibuat menggunakan tag <Form> dan atribut seperti action dan method.", "1. Action": "Action", "Atribut action digunakan untuk mengarahkan masukan Form pada URL tertentu. Jika atribut ini tidak dipakai maka informasi yang masuk akan dikirim ke halaman website itu sendiri.": "Atribut action digunakan untuk mengarahkan masukan Form pada URL tertentu. Jika atribut ini tidak dipakai maka informasi yang masuk akan dikirim ke halaman website itu sendiri.", "2. Method": "Method", "A tribut method adalah cara mengirimkan informasi ke URL yang ditentukan. Value yang dipakai pada atribut ini yaitu get dan post. Metode get akan membuat informasi akan dikirimkan bersama url. Sedangkan metode post, informasi dikirimkan secara terpisah.": "A tribut method adalah cara mengirimkan informasi ke URL yang ditentukan. Value yang dipakai pada atribut ini yaitu get dan post. Metode get akan membuat informasi akan dikirimkan bersama url. Sedangkan metode post, informasi dikirimkan secara terpisah.", "Dalam memasukkan data dalam Form digunakan tag <input> yang berada dalam tag <Form>. A tribut yang bisa digunakan dalam tag <input> adalah type dan name. Type berguna untuk menentukan tipe kotak masukan, dimana value yang dimasukkan bisa berupa text, submit, reset, dll. Sedangkan name merupakan atribut untuk menentukan nama data. Dibawah ini merupakan macam-macam atribut.": "Dalam memasukkan data dalam Form digunakan tag <input> yang berada dalam tag <Form>. A tribut yang bisa digunakan dalam tag <input> adalah type dan name. Type berguna untuk menentukan tipe kotak masukan, dimana value yang dimasukkan bisa berupa text, submit, reset, dll. Sedangkan name merupakan atribut untuk menentukan nama data. Dibawah ini merupakan macam-macam atribut.", "Text Field": "Text Field", "a. Dalam atribut type dengan value text untuk memasukkan teks dalam satu baris dengan maksimum karakter sebanyak 20 karakter.": "Dalam atribut type dengan value text untuk memasukkan teks dalam satu baris dengan maksimum karakter sebanyak 20 karakter.", "<Form>\nNama: <br>\n<input type=\"text\" name=\"firstname\" type=\"text\"> <br>\n</Form>\n<Form>\nNIM: <br>\n<input type=\"text\" nim=\"nim\" type=\"text\">\n</Form>": "<Form>\nNama: <br>\n<input type=\"text\" name=\"firstname\" type=\"text\"> <br>\n</Form>\n<Form>\nNIM: <br>\n<input type=\"text\" nim=\"nim\" type=\"text\">\n</Form>", "Nama:": "Nama:", "NIM:": "NIM:", "Gambar 3.6 Contoh Running Syntax Input Text Field": "Gambar 3.6 Contoh Running Syntax Input Text Field", "b. Password Field": "Password Field", "Pada password file digunakan untuk memasukkan satu baris teks yang bersifat tersembunyi dengan dimasukkan karakter yang disamarkan dengan bulatan atau tanda bintang (*).": "Pada password file digunakan untuk memasukkan satu baris teks yang bersifat tersembunyi dengan dimasukkan karakter yang disamarkan dengan bulatan atau tanda bintang (*).", "43": "43"}
+
+
+<!-- Page Break - Batch 54 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "Password": "Password:", "Gambar 3.7 Contoh Running Syntax Input Password Field": "Gambar 3.7 Contoh Running Syntax Input Password Field", "Radio Button": "Radio Button", "Radio Button merupakan salah satu value dari atribut type dimana berupa": "Radio Button merupakan salah satu value dari atribut type dimana berupa", "beberapa tombol yang hanya dapat dipilih salah satunya.": "beberapa tombol yang hanya dapat dipilih salah satunya.", "PRAKTIKAN": "PRAKTIKAN", "2024": "2024", "2023": "2023", "2022": "2022", "2021": "2021", "Gambar 3.8 Contoh Running Syntax Input Radio Button": "Gambar 3.8 Contoh Running Syntax Input Radio Button", "Check Box": "Check Box", "Perbedaan dengan option/radio button adalah dapat mencentang atau memilih": "Perbedaan dengan option/radio button adalah dapat mencentang atau memilih", "lebih dari satu pilihan.": "lebih dari satu pilihan.", "44": "44"}
+
+
+<!-- Page Break - Batch 55 -->
+
+
+json
+{"MODUL 1": "","MODUL 2": "","MODUL 3": "","MODUL 4": "","Pemrograman Komputer": true,"Perancangan Teknik Industri": true,"Gambar 3.9 Contoh Running Syntax Input Check Box": "","e. Combo Box": "","Combo Box merupakan salah satu value dimana untuk mengetahui pilihan dapat dilihat dari tanda panah ke bawah.": "","Form action": "","select name=\"PROKOM2025\"": "","option value=\"daftar ulang praktikan\"": "","Daftar Ulang praktikan": "","option value=\"praktikan 2025\"": "","Praktikan 2025": "","Gambar 3.10 Contoh Running Syntax Input Combo Box": "","f. Submit Button": "","Submit Button digunakan untuk membuat tombol submit atau reset.": "","input type=\"submit\" value=\"Kirim\"": "","input type=\"submit\" value=\"Hapus\"": "","Kirim Hapus": "","Gambar 3.11 Contoh Running Syntax Button": "","g. Text Area": "","Text Area seperti text field akan tetapi text area cenderung dapat menampung lebih dari 20 karakter.": "","textarea cols=\"30\" rows=\"4\"": "","Silahkan isi keterangan di bawah ini": "","45": 45}
+
+
+<!-- Page Break - Batch 56 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "Silahkan isi keterangan di\nbawah ini": "Silahkan isi keterangan di\nbawah ini", "Gambar 3.12 Contoh Running Syntax Input Text Area": "Gambar 3.12 Contoh Running Syntax Input Text Area", "3.2 CSS": "3.2 CSS", "3.2.1. Pengertian CSS": "3.2.1. Pengertian CSS", "Cascading Style Sheet (CSS) merupakan salah satu bahasa pemrograman\nwebsite yang mengatur komponen dalam sebuah website sehingga akan\nmemberikan tampilan yang lebih terstruktur dan seragam. CSS telah mendukung\nbanyak bahasa penanda (markup language) seperti HTML, XHTML, XML, XVG,\ndan Mozilla XUL. Fungsi CSS yaitu memberikan pengaturan lebih lengkap agar\nstruktur website yang dibuat terlihat lebih rapi dan indah. Warna, font, gambar, text\nsize, dan semua aspek yang mendukung halaman website dapat diatur menggunakan\nCSS. Perancangan CSS dilakukan dengan mendefinisikan font (huruf), color\n(warna), margin (ukuran), background (latar belakang), font size (ukuran huruf),\ndan lain-lain. Elemen-elemen tersebut disebut juga dengan \"styles”.": "Cascading Style Sheet (CSS) merupakan salah satu bahasa pemrograman\nwebsite yang mengatur komponen dalam sebuah website sehingga akan\nmemberikan tampilan yang lebih terstruktur dan seragam. CSS telah mendukung\nbanyak bahasa penanda (markup language) seperti HTML, XHTML, XML, XVG,\ndan Mozilla XUL. Fungsi CSS yaitu memberikan pengaturan lebih lengkap agar\nstruktur website yang dibuat terlihat lebih rapi dan indah. Warna, font, gambar, text\nsize, dan semua aspek yang mendukung halaman website dapat diatur menggunakan\nCSS. Perancangan CSS dilakukan dengan mendefinisikan font (huruf), color\n(warna), margin (ukuran), background (latar belakang), font size (ukuran huruf),\ndan lain-lain. Elemen-elemen tersebut disebut juga dengan \"styles”.", "3.2.2. A turan Penulisan": "3.2.2. A turan Penulisan", "Fungsi Selector digunakan untuk mencari bagian mana dari HTML yang\ningin disisipi kode CSS. CSS menyediakan beragam jenis Selector, mulai dari yang\nsederhana seperti element Selector, hingga yang cukup rumit seperti pseudo\nSelector. Declaration adalah bagian yang berada di antara tanda kurung kurawal.\nuntuk lebih jelasnya dapat dilihat pada gambar dibawah ini :": "Fungsi Selector digunakan untuk mencari bagian mana dari HTML yang\ningin disisipi kode CSS. CSS menyediakan beragam jenis Selector, mulai dari yang\nsederhana seperti element Selector, hingga yang cukup rumit seperti pseudo\nSelector. Declaration adalah bagian yang berada di antara tanda kurung kurawal.\nuntuk lebih jelasnya dapat dilihat pada gambar dibawah ini :", "Selector": "Selector", "Declaration": "Declaration", "h1 { font-size: 18px;\ncolor: green; }": "h1 { font-size: 18px;\ncolor: green; }", "Gambar 3.13 Selector-Declaration": "Gambar 3.13 Selector-Declaration", "Property adalah atribut yang dibutuhkan untuk mengatur jenis style CSS atau\nbagian apa yang akan diubah dari sebuah tag HTML. Misalnya jenis font, ukuran": "Property adalah atribut yang dibutuhkan untuk mengatur jenis style CSS atau\nbagian apa yang akan diubah dari sebuah tag HTML. Misalnya jenis font, ukuran", "46": "46"}
+
+
+<!-- Page Break - Batch 57 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "a": "Selector", "Gambar 3.14 Selector-Property-Value": "Gambar 3.14 Selector-Property-Value", "1. Tag HTML ditulis langsung tanpa menggunakan tanda.": "1. Tag HTML ditulis langsung tanpa menggunakan tanda.", "body": null, "background": "white;", "background-size": "cover;", "background-position": null, "center": "center;", "height": "70px;", "2. Id ditulis dengan menggunakan tanda #di depan Selector.": "2. Id ditulis dengan menggunakan tanda #di depan Selector.", "3. Class ditulis dengan menggunakan tanda titik (.) di depan selector.": "3. Class ditulis dengan menggunakan tanda titik (.) di depan selector.", "position": "fixed;", "top": "0;", "left": "0;", "width": "100%;", "padding": "20px 100px;", "display": "flex;", "justify-content": "space-between;", "align-items": "center", "page_number": "47"}
+
+
+<!-- Page Break - Batch 58 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "b": "b.", "Property": "Property", "Property adalah atribut yang akan diubah. Property CSS jumlahnya sangat": "Property adalah atribut yang akan diubah. Property CSS jumlahnya sangat", "banyak. Berikut merupakan komponen Property yang digunakan pada CSS.": "banyak. Berikut merupakan komponen Property yang digunakan pada CSS.", "1": "1.", "Property Text Style": "Property Text Style", "Property ini digunakan untuk membuat gaya tulisan pada website. Contoh": "Property ini digunakan untuk membuat gaya tulisan pada website. Contoh", "dari Property ini yaitu color, font-weight, font-color, dan font-family.": "dari Property ini yaitu color, font-weight, font-color, dan font-family.", "2": "2.", "Property Text Layout": "Property Text Layout", "Property ini digunakan untuk mengatur efek dari layout suatu tulisan pada": "Property ini digunakan untuk mengatur efek dari layout suatu tulisan pada", "halaman website yang berfokus pada penempatan dan tampilan yang": "halaman website yang berfokus pada penempatan dan tampilan yang", "ditempatkan pada halaman website. Contoh dari Property ini yaitu letter-": "ditempatkan pada halaman website. Contoh dari Property ini yaitu letter-", "spacing, text-align, dan text-decoration.": "spacing, text-align, dan text-decoration.", "3": "3.", "Property Border": "Property Border", "Property ini digunakan untuk mengatur elemen yang mempunyai garis": "Property ini digunakan untuk mengatur elemen yang mempunyai garis", "dengan berbagai variasi lebar, warna serta gaya suatu tampilan. User bisa": "dengan berbagai variasi lebar, warna serta gaya suatu tampilan. User bisa", "membuat suatu garis dari beberapa arah yang berbeda. Contoh dari Property": "membuat suatu garis dari beberapa arah yang berbeda. Contoh dari Property", "ini yaitu border, border-width, dan border-top-width.": "ini yaitu border, border-width, dan border-top-width.", "4": "4.", "Property Margin": "Property Margin", "Property ini digunakan untuk mengatur ruang atau jarak batasan antar": "Property ini digunakan untuk mengatur ruang atau jarak batasan antar", "elemen, misalnya antara elemen atas dan bawah, atau antara kiri dan bawah": "elemen, misalnya antara elemen atas dan bawah, atau antara kiri dan bawah", "dll. Contoh dari Property ini yaitu margin, margin-bottom, dan margin-left.": "dll. Contoh dari Property ini yaitu margin, margin-bottom, dan margin-left.", "5": "5.", "Property Padding": "Property Padding", "Property ini digunakan untuk mengatur ruang antara elemen dan konten.": "Property ini digunakan untuk mengatur ruang antara elemen dan konten.", "Contoh dari Property ini yaitu padding, padding-top, dan padding-left.": "Contoh dari Property ini yaitu padding, padding-top, dan padding-left.", "6": "6.", "Property Page Layout": "Property Page Layout", "Property ini digunakan untuk mendesain layout pada halaman website,": "Property ini digunakan untuk mendesain layout pada halaman website,", "dengan menguassai Property ini maka user bisa merubah themes atau": "dengan menguassai Property ini maka user bisa merubah themes atau", "template dari website tersebut. Contoh dari Property ini yaitu position, top,": "template dari website tersebut. Contoh dari Property ini yaitu position, top,", "dan left.": "dan left.", "7": "7.", "Property Background": "Property Background", "Property ini digunakan untuk mengatur tampilan background (latar belakang)": "Property ini digunakan untuk mengatur tampilan background (latar belakang)", "suatu website serta pengaturan suatu background yang lainnya, misalnya": "suatu website serta pengaturan suatu background yang lainnya, misalnya", "background dari font. Contoh dari Property ini yaitu background,": "background dari font. Contoh dari Property ini yaitu background,", "background-color, dan background-image.": "background-color, dan background-image.", "8": "8.", "Property Type Element": "Property Type Element", "Property ini digunakan untuk mengatur suatu elemen dalam website. Contoh": "Property ini digunakan untuk mengatur suatu elemen dalam website. Contoh", "dari Property ini yaitu display, white-space, dan list-style-type.": "dari Property ini yaitu display, white-space, dan list-style-type.", "9": "9.", "Property Interface": "Property Interface", "Property ini digunakan untuk mengatur tampilan pada website untuk": "Property ini digunakan untuk mengatur tampilan pada website untuk", "membuat tamppilan yang ditujukan untuk pengguna. Contoh Property ini": "membuat tamppilan yang ditujukan untuk pengguna. Contoh Property ini", "yaitu curso, outline, dan outline-color.": "yaitu curso, outline, dan outline-color.", "48": "48"}
+
+
+<!-- Page Break - Batch 59 -->
+
+
+json
+{"10. Value": "Value adalah nilai dari Property yang diberikan. Dalam memberi nilai/value pada Property, digunakan tanda titik dua (:) dan setiap Property diakhiri dengan tanda titik koma (;).", "3.2.3. Satuan dalam CSS": "In: satuan inchi", "cm": "satuan centimeter", "mm": "satuan millimeter", "pt": "satuan point (1 point = 1/72 inchi)", "pc": "satuan pica (1 pica = 12 point)", "px": "satuan pixel (satu titik gambar kecil dalam layar monitor)", "vw": "viewport width (1% dari lebar viewport)", "vh": "viewport height (1% dari tinggi viewport)", "%": "satuan ukuran elemen relative berupa persen", "3.2.4. Macam-macam CSS": "CSS memiliki beberapa cara penulisan berbeda-beda yang dibagi menjadi tiga macam, antara lain: Inline Style Sheet, Embedded Style Sheet, dan External Style Sheet.", "a. Inline Style Sheet": "CSS dideklarasikan sebagai atribut pada elemen karena properti dan nilainya melekat langsung pada elemen, tidak dibangun sebagai aturan, dan tidak ada Selector. Penulisan dengan metode Inline Style Sheet dituliskan langsung pada program HTML dibagian tag yang bersangkutan dan tidak mempengaruhi bagian tag yang lain. Cara penulisannya cukup dengan menambahkan atribut style=\"...\".", "DOCTYPE html": "<html>", "html": "<html>", "head": "<head>", "title": "<title>Inline Style Sheet</title>", "/head": "</head>", "body": "<body>", "h1 style": "<h1 style=\"text-decoration: underline rgb(45, 4, 250);\"> Praktikum Pemrograman Komputer 2025</h1>", "p style": "<p style=\"color: rgb(255, 137, 26); font-size: 18px;\">Berikut contoh penggunaan inline style sheet</p>", "h4 style": "<h4 style=\"font: serif;\">BERHASIL</h4>", "/body": "</body>", "/html": "</html>", "page_number": "49"}
+
+
+<!-- Page Break - Batch 60 -->
+
+
+json
+{"Inline Style Sheet": "true", "127.0.0.1:8000": "true", "Praktikum Pemrograman Komputer 2025": "true", "Berikut contoh penggunaan inline style sheet": "true", "BERHASIL": "true", "Gambar 3.15 Hasil Running Inline Style Sheet": "true", "b": "Embedded Style Sheet", "CSS didefinisikan terlebih dahulu dalam tag <style>": "true", "diletakkan di atas tag <body>": "true", "Contoh": "<!DOCTYPE html>\n<html>\n<head>\n<title>Embedded Style Sheet</title>\n</head>\n<style type=\"text/css\"> hl\n{\n text-decoration: underline;\n font-family: 'Times New Roman';\n font-size: 18px;\n}\np {color: blue;}\n.example {background: red;color: black; }\n</style>\n<body>\n<h1 style=\"text-decoration: underline red;\"> Praktikum Pemrograman\nKomputer 2025</h1>\n<p style=\"color: blue;\">Berikut contoh penggunaan embedded style\nsheet</p>\n<h4><span class=\"example\">BERHASIL</span></h4>\n</body>\n</html>", "Embedded Style Sheet": "true", "Berikut contoh penggunaan embedded style sheet": "true", "Gambar 3.16 Hasil Running Embedded Style Sheet": "true", "MODUL 1": "true", "MODUL 2": "true", "MODUL 3": "true", "MODUL 4": "true", "50": "50"}
+
+
+<!-- Page Break - Batch 61 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "c.": "c.", "External style sheet": "External style sheet", "Cara ini hampir mirip dengan embedded style sheet, hanya saja aturan CSS": "Cara ini hampir mirip dengan embedded style sheet, hanya saja aturan CSS", "ditempatkan secara terpisah. External style sheet terhubung dengan dokumen": "ditempatkan secara terpisah. External style sheet terhubung dengan dokumen", "melalui elemen head. File style sheet text disimpan menggunakan ekstensi .css.": "melalui elemen head. File style sheet text disimpan menggunakan ekstensi .css.", "Contoh:": "Contoh:", "File 'modul3.css'": "File 'modul3.css'", "h2(": "h2(", "text-decoration: underline;": "text-decoration: underline;", "}": "}", ".konteni, konten2 { color: white; background:": ".konteni, konten2 { color: white; background:", "red;": "red;", "#info_modul3 (color: blue; background: cyan;": "#info_modul3 (color: blue; background: cyan;", "File 'home.html'": "File 'home.html'", "{load static%}": "{load static%}", "<!DOCTYPE html>": "<!DOCTYPE html>", "<html>": "<html>", "<head>": "<head>", "<title>Eksternal Style Sheet</title>": "<title>Eksternal Style Sheet</title>", "<link rel=\"stylesheet\" type=\"text/css\"": "<link rel=\"stylesheet\" type=\"text/css\"", "href=\"(static \"oy.css)>": "href=\"(static \"oy.css)>", "</head>": "</head>", "<body>": "<body>", "<h2>Modul 3 Website Statis Dengan": "<h2>Modul 3 Website Statis Dengan", "Django</h2>": "Django</h2>", "<p>Modul 3 mempelajari tentang <span": "<p>Modul 3 mempelajari tentang <span", "class=\"konteni\">HTML, CSS, </span> dan <span": "class=\"konteni\">HTML, CSS, </span> dan <span", "class=\"konten2\"> Django</span></p>": "class=\"konten2\"> Django</span></p>", "<p id=\"info modul3\">Tetep Semangat!>": "<p id=\"info modul3\">Tetep Semangat!>", "bersedih-sedih dahulu bersenang senang kemudian!": "bersedih-sedih dahulu bersenang senang kemudian!", "</p>": "</p>", "</body>": "</body>", "</html>": "</html>", "Modul 3 Web Statis Dengan Django": "Modul 3 Web Statis Dengan Django", "Modul 3 mempelajari tentang HTML, CSS, dan Django": "Modul 3 mempelajari tentang HTML, CSS, dan Django", "Tetep Semangat!> bersedih-sedih dahulu bersenang senang kemudian!": "Tetep Semangat!> bersedih-sedih dahulu bersenang senang kemudian!", "Gambar 3.17 Hasil Running External Style Sheet": "Gambar 3.17 Hasil Running External Style Sheet", "3.3 Django": "3.3 Django", "3.3.1 Pengertian Django": "3.3.1 Pengertian Django", "Django adalah website framework yang menggunakan bahasa pemrograman": "Django adalah website framework yang menggunakan bahasa pemrograman", "Python. Framework ini dirancang untuk membangun aplikasi website yang": "Python. Framework ini dirancang untuk membangun aplikasi website yang", "51": "51"}
+
+
+<!-- Page Break - Batch 62 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "dinamis": "dinamis, penuh fitur, dan memiliki sistem keamanan yang baik. Django mulai", "dikembangkan": "dikembangkan pada tahun 2003 oleh Adrian Holovaty dan Simon Willison.", "Framework ini": "Framework ini secara resmi diperkenalkan ke publik pada tahun 2005 dengan", "tujuan": "tujuan mempermudah pembuatan website yang kompleks. Django dilengkapi", "dengan": "dengan berbagai fitur bawaan, seperti sistem administrasi, ORM (Object-Relational", "Mapping": "Mapping), dan manajemen URL yang fleksibel. Berkat kelengkapan fitur dan", "kemudahannya": "kemudahannya, Django berhasil menjadi salah satu framework web yang paling", "populer": "populer dan banyak digunakan di seluruh dunia. (Fitria Risyda, 2023)", "3.3.2 Kelebihan Django": "3.3.2 Kelebihan Django", "Framework Django": "Framework Django memiliki kelebihan diantaranya sebagai berikut:", "a": "a. Django memiliki banyak fitur bawaan dan alat yang memudahkan pengguna", "dalam mengembangkan website.": "dalam mengembangkan website.", "b": "b.\nDjango memiliki sitem keamanan yang kuat dan terintegrasi.", "c": "c.\nDjango ORM memungkinkan para pengembang untuk berinteraksi dengan", "database": "database melalui kode Python, tanpa perlu menulis kueri SQL secara manual", "Jadid Alif Ramadhan": "(Jadid Alif Ramadhan, 2023).", "3.3.3 Kekurangan Django": "3.3.3 Kekurangan Django", "Framework Django memiliki": "Framework Django memiliki kelebihan diantaranya sebagai berikut:", "Django menggunakan pola MTV": "Django menggunakan pola MTV (Model-Template-View) yang terkadang", "terasa kurang fleksibel untuk proyek tertentu.": "terasa kurang fleksibel untuk proyek tertentu.", "Django cukup kompleks": "Django cukup kompleks, sehingga pemula mungkin memerlukan waktu", "untuk memahami.": "untuk memahami.", "3.3.4 Langkah Menjalankan Django": "3.3.4 Langkah Menjalankan Django", "Pastikan modul Django": "Pastikan modul Django telah terpasang pada PC dengan memeriksa", "menggunakan Command Prompt.": "menggunakan Command Prompt. Terdapat beberapa Langkah dalam menjalankan", "Django": "Django.", "Jalankan Command Prompt": "Jalankan Command Prompt dengan cara run as administrator.", "Q Command Prompt": "Q Command Prompt", "All Apps Documents Web Settings Folders Phot": "All Apps Documents Web Settings Folders Phot", "Best match": "Best match", "Command Prompt": "Command Prompt", "System": "System", "Settings": "Settings", "Manage app execution aliases": "Manage app execution aliases", "Search the web": "Search the web", "Command Prompt - See more search": "Command Prompt - See more search", "results": "results", "command prompt admin": "command prompt admin", "command prompt commands for": "command prompt commands for", "system backup": "system backup", "command prompt commands list": "command prompt commands list", "command prompt commands for": "command prompt commands for", "Open": "Open", "Run as administrator": "Run as administrator", "Open file location": "Open file location", "Pin to Start": "Pin to Start", "Pin to taskbar": "Pin to taskbar", "Gambar 3.18 Menjalankan Command Prompt": "Gambar 3.18 Menjalankan Command Prompt", "52": "52"}
+
+
+<!-- Page Break - Batch 63 -->
+
+
+json
+{"MODUL 1": "","MODUL 2": "","MODUL 3": "","MODUL 4": "","b": "Pastikan modul Django sudah terpasang dengan menuliskan pip list pada Command Prompt.","Package": "Version","asgiref": "3.8.1","backports.zoneinfo": "0.2.1","contourpy": "1.1.1","cycler": "0.12.1","Django": "4.2.11","fonttools": "4.53.0","importlib_resources": "6.4.0","kiwisolver": "1.4.5","matplotlib": "3.7.5","mysql-connector-python": "8.0.28","mysqlclient": "2.2.4","numpy": "1.24.4","packaging": "24.1","pillow": "10.3.0","pip": "24.1","pyparsing": "3.1.2","PySide2": "5.15.2.1","python-dateutil": "2.9.0.poste","setuptools": "41.2.0","shiboken2": "5.15.2.1","six": "1.16.0","sqlparse": "0.5.0","typing_extensions": "4.12.1","tzdata": "2024.1","Gambar 3.19 Memastikan Terdapat Modul Django": "","c": "Buatlah sebuah project dengan nama dan lokasi direktori yang diinginkan.","C:\\Users\\VICTUS>cd..": "","C:\\Users>cd..": "","C:\\>django-admin startproject Django_Tutorial": "","Gambar 3.20 Membuat Project pada Django": "","d": "Apabila berhasil, maka akan terdapat folder bernama Django_Tutorial di lokasi direktori yang sesuai dengan perintah yang ada di Command Prompt.","page_number": "53"}
+
+
+<!-- Page Break - Batch 64 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "Windows (C:)": "Windows (C:)", "New": "New", "Name": "Name", "Date modified": "Date modified", "Type": "Type", "Size": "Size", "Home": "Home", "modul3_1": "modul3_1", "24/05/2024 12:17": "24/05/2024 12:17", "WinRAR archive": "WinRAR archive", "10.282 KB": "10.282 KB", "Gallery": "Gallery", "DumpStack": "DumpStack", "22/11/2023 21:15": "22/11/2023 21:15", "Text Document": "Text Document", "12 KB": "12 KB", "OneDrive": "OneDrive", "vaksin": "vaksin", "21/07/2024 11:28": "21/07/2024 11:28", "WinRAR archive_1": "WinRAR archive", "4 KB": "4 KB", "Autodesk": "Autodesk", "29/10/2024 22:51": "29/10/2024 22:51", "File folder": "File folder", "Desktop": "Desktop", "Django Tutorial": "Django Tutorial", "22/02/2025 03:07": "22/02/2025 03:07", "Downloads": "Downloads", "hp": "hp", "05/06/2023 02:52": "05/06/2023 02:52", "Documents": "Documents", "Kelompok68": "Kelompok68", "23/06/2024 18:44": "23/06/2024 18:44", "ddddd": "ddddd", "modul3_1_1": "modul3_1", "27/05/2024 09:28": "27/05/2024 09:28", "Pictures": "Pictures", "module4": "module4", "10/06/2024 11:43": "10/06/2024 11:43", "Music": "Music", "PerfLogs": "PerfLogs", "07/05/2022 12:24": "07/05/2022 12:24", "Videos": "Videos", "Program Files": "Program Files", "28/02/2025 15:00": "28/02/2025 15:00", "VICTUS": "VICTUS", "Program Files (x86)": "Program Files (x86)", "03/12/2024 14:50": "03/12/2024 14:50", "D600230127 De": "D600230127 De", "pyside2dandatabase": "pyside2dandatabase", "24/06/2024 08:55": "24/06/2024 08:55", "Screenshots": "Screenshots", "SolidWorks Flexnet Server": "SolidWorks Flexnet Server", "26/02/2025 23:58": "26/02/2025 23:58", "New Volume (D:": "New Volume (D:", "SWSetup": "SWSetup", "18/10/2024 23:49": "18/10/2024 23:49", "Users": "Users", "03/10/2023 20:28": "03/10/2023 20:28", "Windows": "Windows", "18/02/2025 04:55": "18/02/2025 04:55", "This PC": "This PC", "XboxGames": "XboxGames", "13/10/2024 17:33": "13/10/2024 17:33", "> Windows (C)": "> Windows (C)", "New Volume (1": "New Volume (1", "18 items 1 item selected": "18 items 1 item selected", "Gambar 3.21 Hasil Pembuatan Project pada Django": "Gambar 3.21 Hasil Pembuatan Project pada Django", "e.": "e.", "Masuk ke dalam direktori Django_Tutorial pada Command Prompt kemudian tuliskan Python manage.py runserver untuk menjalankan server.": "Masuk ke dalam direktori Django_Tutorial pada Command Prompt kemudian tuliskan Python manage.py runserver untuk menjalankan server.", "Microsoft Windows [Version 10.0.22631.4890]": "Microsoft Windows [Version 10.0.22631.4890]", "(c) Microsoft Corporation. All rights reserved.": "(c) Microsoft Corporation. All rights reserved.", "C:\\Users\\VICTUS>cd..": "C:\\Users\\VICTUS>cd..", "C:\\Users>cd..": "C:\\Users>cd..", "C:\\>django-admin startproject Django_Tutorial": "C:\\>django-admin startproject Django_Tutorial", "C:\\>cd Django_Tutorial": "C:\\>cd Django_Tutorial", "C:\\Django_Tutorial>python manage.py runserver": "C:\\Django_Tutorial>python manage.py runserver", "Watching for file changes with Statke Loader": "Watching for file changes with Statke Loader", "Performing system checks...": "Performing system checks...", "System check identified no issues (0 silenced).": "System check identified no issues (0 silenced).", "You have 18 unapplied migration(s). Your project may not work properly until you apply": "You have 18 unapplied migration(s). Your project may not work properly until you apply", "auth, contenttypes, sessions.": "auth, contenttypes, sessions.", "Run 'python manage.py migrate' to apply them.": "Run 'python manage.py migrate' to apply them.", "February 28, 2025 17:02:27": "February 28, 2025 17:02:27", "Django version 4.2.11, using settings 'Django_Tutorial.settings'": "Django version 4.2.11, using settings 'Django_Tutorial.settings'", "Starting development server at http://127.0.0.1:8000/": "Starting development server at http://127.0.0.1:8000/", "Quit the server with CTRL-BREAK.": "Quit the server with CTRL-BREAK.", "Gambar 3.22 Cara Menjalankan Server pada Django": "Gambar 3.22 Cara Menjalankan Server pada Django", "54": "54"}
+
+
+<!-- Page Break - Batch 65 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "f": "f.", "text1": "Copy alamat server yang terdapat pada Command Promt dan paste di browser", "text2": "untuk mengetahui bahwa Django sudah berhasil dijalankan.", "image1": "image1", "text3": "Gambar 3.23 Tampilan Django Berhasil Dijalankan", "3.3.5 MVC Arsitektur": "3.3.5 MVC Arsitektur", "image2": "image2", "text4": "Gambar 3.24 MVC Arsitektur", "text5": "MVC adalah pola desain atau arsitektur yang digunakan dalam rekayasa", "text6": "perangkat lunak, dimana terdapat pemisahan yang jelas antara data (model) user", "text7": "interface (view)", "a. Model": "a. Model", "text8": "Model merupakan representasi dari logika bisnis dan data bisnis. Model", "text9": "bertanggungjawab sebagai penghubung antara controller dengan database untuk", "text10": "mengambil data pada database. Model dapat direalisasi dengan memakai", "text11": "komponen website yang bersifat bebas.", "b. View": "b. View", "text12": "View merupakan implementasi dari presentasi, yaitu halaman yang akan", "text13": "dipakai sebagai respon untuk dikirimkan kepada user. View akan", "text14": "mempresentasikan data bisnis yang telah diolah.", "C. Controller": "C. Controller", "text15": "Controller merupakan pengontrol aliran request (data). Controller", "text16": "bertanggungjawab menerima request yang dikirimkan user. Data request akan", "text17": "diolah atau diteruskan kepada komponen yang mengolah data. Pada akhirnya", "page_number": "55"}
+
+
+<!-- Page Break - Batch 66 -->
+
+
+json
+{"request_details": "request yang diolah akan diserahkan kepada komponen view (Pramudya Tamir Indra Permana, 2024).", "templates_section_title": "3.3.6 Templates pada Django", "templates_description": "Pembuatan templates pada Django menggunakan Django Templates dengan mengubah pada setting.py yang terdapat dalam direktori project. Terdapat beberapa Langkah dalam pembuatan templates.", "templates_setting_instruction": "Menambahkan 'templates' pada setting.py di bagian TEMPLATES agar direktori templates dapat diketahui.", "TEMPLATES_variable": "TEMPLATES = [\n{\n'BACKEND':\n'django.template.backends.django.DjangoTemplates',\n'DIRS': ['templates'],\n'APP_DIRS': True,\n'OPTIONS': {", "create_templates_folder_title": "Membuat folder templates di dalam project.", "folder_name": "pemrograman komputer", "folder_date_modified": "22/02/2025 02:10", "folder_type": "File folder", "templates_folder_name": "templates", "templates_folder_date_modified": "22/02/2025 02:15", "templates_folder_type": "File folder", "db_sqlite3_name": "db.sqlite3", "db_sqlite3_date_modified": "22/02/2025 02:00", "db_sqlite3_type": "SQLITE3 File", "db_sqlite3_size": "0 KB", "manage_name": "manage", "manage_date_modified": "22/02/2025 01:27", "manage_type": "Python Source File", "manage_size": "1 KB", "templates_folder_image_caption": "Gambar 3.25 Membuat Folder Templates", "create_html_file_title": "Membuat file HTML di dalam folder templates", "html_file_name": "homebase.html", "html_file_date_modified": "22/02/2025 02:33", "html_file_type": "Chrome HTML Do...", "html_file_size": "1 KB", "html_file_image_caption": "Gambar 3.26 Membuat Folder HTML", "create_views_file_instruction": "Buat file views.py di dalam project dan tambahkan script pada views.py.", "views_code": "from django.shortcuts import render\n\ndef home (request):\n return render(request, \"homebase.html\")", "page_number": "56"}
+
+
+<!-- Page Break - Batch 67 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "e": "e.", "text_1": "Pada urls.py tambahkan script yang berwarna kuning", "text_2": "from django.contrib import admin", "text_3": "from django.urls import path, include", "text_4": "from.import views", "text_5": "urlpatterns = [", "text_6": "path('admin/', admin.site.urls),", "text_7": "path('', views.home),", "text_8": "]", "f": "f.", "text_9": "Buat tampilan di file HTML", "text_10": "<!DOCTYPE html>", "text_11": "<html>", "text_12": "<head>", "text_13": "<title>Prokom 2025</title>", "text_14": "</head>", "text_15": "<body>", "text_16": "<h1>Selamat datang dan selamat mengikuti Praktikum", "text_17": "Pemrograman Komputer 2025</h1>", "text_18": "<hr>", "text_19": "<ol type=\"1\">", "text_20": "<li>HTML</li>", "text_21": "<li>CSS</li>", "text_22": "<li>Django</li>", "text_23": "<li>Text Editor</li>", "text_24": "</ol>", "text_25": "<h2>Semangat!!!</h2>", "text_26": "</body>", "text_27": "</html>", "g": "g.", "text_28": "Jalankan Program dengan python manage.py runserver", "text_29": "Selamat datang dan selamat mengikuti Praktikum Pemrograman Komputer 2025", "text_30": "1. HTML", "text_31": "2. CSS", "text_32": "3. Django", "text_33": "4. Text Editor", "text_34": "Semangat!!!", "text_35": "Gambar 3.27 Hasil Running File HTML pada Django", "text_36": "3.3.7 App pada Django", "text_37": "App pada Django adalah proyek yang berfungsi mengelola fitur tertentu.", "text_38": "Setiap app punya struktur file sendiri seperti views.py untuk logika tampilan,", "text_39": "models.py untuk database, dan urls.py untuk routing. A pp bersifat mandiri dan bisa", "text_40": "digunakan ulang di proyek lain. Untuk membuat app, cukup jalankan perintah", "text_41": "python manage.py startapp nama_app. (Yusri Ikhwani, 2023)", "page_number": "57"}
+
+
+<!-- Page Break - Batch 68 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "PS C:\\prokom2025> python manage.py startapp isi": "PS C:\\prokom2025> python manage.py startapp isi", "PS C:\\prokom2025>": "PS C:\\prokom2025>", "Gambar 3.28 Membuat App pada Django": "Gambar 3.28 Membuat App pada Django", "PROKOM2025": "PROKOM2025", "> isi": "> isi", "> prokom2025": "> prokom2025", "> templates": "> templates", "db.sqlite3": "db.sqlite3", "manage.py": "manage.py", "Gambar 3.29 Tampilan Hasil Running App": "Gambar 3.29 Tampilan Hasil Running App", "a. Penggunaan URL pada App": "a. Penggunaan URL pada App", "Dalam Django, URL pada app digunakan untuk mengatur jalur yang": "Dalam Django, URL pada app digunakan untuk mengatur jalur yang", "menghubungkan permintaan pengguna ke fungsi atau tampilan tertentu di views.": "menghubungkan permintaan pengguna ke fungsi atau tampilan tertentu di views.", "Ini memungkinkan halaman web menampilkan konten yang sesuai berdasarkan": "Ini memungkinkan halaman web menampilkan konten yang sesuai berdasarkan", "URL yang diakses.": "URL yang diakses.", "1. Membuat urls.py pada direktori app yang baru": "1. Membuat urls.py pada direktori app yang baru", "from django.urls import path": "from django.urls import path", "from.import views": "from.import views", "urlpatterns = [": "urlpatterns = [", "path('', views.menu),": "path('', views.menu),", "]": "]", "2. Tambahkan script warna kuning di bagian urls.py pada direktori project": "2. Tambahkan script warna kuning di bagian urls.py pada direktori project", "from django.contrib import admin": "from django.contrib import admin", "from django.urls import path, include": "from django.urls import path, include", "from.import views": "from.import views", "urlpatterns = [": "urlpatterns = [", "path('admin/', admin.site.urls),": "path('admin/', admin.site.urls),", "path('courses/',include('courses.urls')),": "path('courses/',include('courses.urls')),", "path('', views.home),": "path('', views.home),", "]": "]", "58": "58"}
+
+
+<!-- Page Break - Batch 69 -->
+
+
+json
+{"3": "Jalankan app pada browser", "Prokom 2025": "x +", "ip_address": "127.0.0.1:8000", "greeting": "Selamat datang dan selamat mengikuti Praktikum Pemrograman Komputer 2025", "list_item_1": "1. HTML", "list_item_2": "2. CSS", "list_item_3": "3. Django", "list_item_4": "4. Text Editor", "encouragement": "Semangat!!!", "figure_3_30_caption": "Gambar 3.30 Tampilan Hasil Running pada Django", "b": "Penggunaan Template pada App", "template_description": "Template dalam Django adalah file HTML yang digunakan untuk menampilkan halaman website. Di dalam app, kita buat folder templates dan file HTML dan menambahkan fungsi yang memanggil template itu. Tambahkan URL di urls.py supaya halaman bisa diakses. Dengan template, kita bisa menampilkan data dari backend ke halaman website dengan cara yang rapi dan mudah.", "1": "Menambahkan nama app yang dibuat pada setting py", "INSTALLED_APPS": "['django.contrib.admin',\n 'django.contrib.auth',\n 'django.contrib.contenttypes',\n 'django.contrib.sessions',\n 'django.contrib.messages',\n 'django.contrib.staticfiles',\n 'courses',]", "2": "Membuat folder templates pada app", "sort": "N Sort", "view": "View", "name_header": "Name", "date_modified_header": "Date modified", "type_header": "Type", "size_header": "Size", "migrations_name": "migrations", "migrations_date": "08/03/2025 17:57", "migrations_type": "File folder", "templates_name": "templates", "templates_date": "08/03/2025 19:33", "templates_type": "File folder", "_init__name": "_init_", "_init__date": "08/03/2025 17:57", "_init__type": "Python Source File", "_init__size": "0 KB", "admin_name": "admin", "admin_date": "08/03/2025 17:57", "admin_type": "Python Source File", "admin_size": "1 KB", "apps_name": "apps", "apps_date": "08/03/2025 17:57", "apps_type": "Python Source File", "apps_size": "1 KB", "models_name": "models", "models_date": "08/03/2025 17:57", "models_type": "Python Source File", "models_size": "1 KB", "tests_name": "tests", "tests_date": "08/03/2025 17:57", "tests_type": "Python Source File", "tests_size": "1 KB", "urls_name": "urls", "urls_date": "08/03/2025 18:30", "urls_type": "Python Source File", "urls_size": "1 KB", "views_name": "views", "views_date": "08/03/2025 17:57", "views_type": "Python Source File", "views_size": "1 KB", "figure_3_31_caption": "Gambar 3.31 Membuat Folder Templates pada App", "page_number": "59"}
+
+
+<!-- Page Break - Batch 70 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "3.": "3.", "text1": "Perbarui views.py pada folder app", "code1": "from django.shortcuts import render\n# Create your views here.\ndef home (request):", "4.": "4.", "text2": "Jalankan program pada browser.", "title": "Prokom 2025", "url": "C127.0.0.1:8000", "text3": "Selamat datang dan selamat mengikuti Praktikum Pemrograman Komputer 2025", "list1": "1. HTML\n2. CSS\n3. Django\n4. Text Editor", "text4": "Semangat!!!", "caption": "Gambar 3.32 Hasil Running Templates pada App", "3.3.8 Templates Tags": "3.3.8 Templates Tags", "text5": "Template tags pada Django adalah perintah khusus yang digunakan di dalam\nfile template (HTML) untuk mengontrol logika tampilan, seperti membuat\nperulangan, percabangan, atau menyisipkan bagian halaman tertentu.", "a.": "a.", "text6": "Perbarui views.py pada direktori app.", "code2": "def home (request):\n data = {\n 'top': 'prokom2025',\n 'header': 'Selamat datang di Praktikum Pemrograman\nKomputer 2025',\n 'isi1': 'HTML',\n 'isi2': 'CSS Django',\n 'isi3': 'Django',\n 'isi4': 'Text Editor',\n }\n return render (request, 'homebase.html', data)", "page_number": "60"}
+
+
+<!-- Page Break - Batch 71 -->
+
+
+json
+{
+  "title": "{{top}}",
+  "h1": "{{header}}",
+  "li1": "{{isi1}}",
+  "li2": "{{isi2}}",
+  "li3": "{{isi3}}",
+  "li4": "{{isi4}}",
+  "h2": "Semangat!!!",
+  "caption": "Gambar 3.33 Hasil Running Templates Tags",
+  "section": "3.3.9 Templates Variabel",
+  "description": "Templates variable bermanfaat untuk meminimalisasi penulisan script yang sama pada halaman yang berbeda. Berikut langkah menggunakan templates variable.",
+  "instruction": "Perbarui views.py pada direktori project dengan membuat dictionary.",
+  "import": "from django.shortcuts import render",
+  "comment": "# Create your views here.",
+  "function_name": "home",
+  "function_definition": "def home (request):",
+  "return_statement": "return render (request, \"homebase.html\")",
+  "page_number": "61"
+}
+
+
+<!-- Page Break - Batch 72 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "b": "b.", "text1": "Ubah script HTML dengan menuliskan key pada dictionary context.", "doctype": "<!DOCTYPE html>", "html_tag": "<html>", "head_tag": "<head>", "title_tag": "<title>Prokom 2025</title>", "/head_tag": "</head>", "body_tag": "<body>", "ul_tag": "<ul>", "h1_tag": "<h1>Selamat Datang di Modul 3 Web Statis</h1>", "li_html": "<li>HTML</li>", "li_css": "<li>CSS</li>", "li_django": "<li>Django</li>", "li_text_editor": "<li>Text Editor</li>", "/ul_tag": "</ul>", "h2_tag": "<h2>Semangat!!!</h2>", "/body_tag": "</body>", "/html_tag": "</html>", "c": "c.", "text2": "Jalankan program pada browser.", "prokom_2025": "Prokom 2025", "ip_address": "127.0.0.1:8000", "text3": "Selamat Datang di Modul 3 Web Statis", "bullet_html": "• HTML", "bullet_css": "• CSS", "bullet_django": "• Django", "bullet_text_editor": "• Text Editor", "text4": "Semangat!!!", "gambar_3_34": "Gambar 3.34 Hasil Running Templates Variable", "3_4": "3.4", "text_editor": "Text Editor", "3_4_1": "3.4.1.", "pengertian_text_editor": "Pengertian Text Editor", "text5": "Text editor adalah perangkat lunak yang digunakan untuk membuat,\nmengedit, dan memanipulasi teks dalam berbagai format, baik untuk keperluan\npenulisan sederhana maupun pengkodean dalam bahasa pemrograman. Text editor\nbiasanya lebih ringan dan fokus pada pengolahan teks mentah tanpa banyak elemen\nvisual, sehingga sering digunakan oleh programmer, penulis skrip, atau siapa saja\nyang membutuhkan alat untuk menulis kode atau catatan sederhana. Selain itu, text\neditor juga bisa dimanfaatkan untuk membuat halaman website atau template\nwebsite design dan juga membuat aplikasi tertentu. Software ini memang secara\numum ditujukan untuk mempermudah aktivitas pemrograman. Salah satu contoh\nsoftware text editor yang digunakan pada praktikum ini adalah Visual Studio Code.", "page_number": "62"}
+
+
+<!-- Page Break - Batch 73 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "3.4.2 Visual Studio Code": "3.4.2 Visual Studio Code", "Visual Studio Code adalah sebuah text editor yang dikembangkan oleh": "Visual Studio Code adalah sebuah text editor yang dikembangkan oleh", "Microsoft dan dirancang khusus untuk pengembangan perangkat lunak dengan fitur": "Microsoft dan dirancang khusus untuk pengembangan perangkat lunak dengan fitur", "yang kaya serta performa yang ringan. Visual Studio Code mendukung berbagai": "yang kaya serta performa yang ringan. Visual Studio Code mendukung berbagai", "bahasa pemrograman seperti JavaScript, Python, C++, Java, dan masih banyak lagi,": "bahasa pemrograman seperti JavaScript, Python, C++, Java, dan masih banyak lagi,", "dengan fitur unggulan seperti syntax highlighting, IntelliSense (kode pelengkapan": "dengan fitur unggulan seperti syntax highlighting, IntelliSense (kode pelengkapan", "otomatis yang cerdas), debugging bawaan, serta integrasi dengan Git untuk": "otomatis yang cerdas), debugging bawaan, serta integrasi dengan Git untuk", "manajemen versi. Visual Studio Code juga mendukung multi-platform, sehingga": "manajemen versi. Visual Studio Code juga mendukung multi-platform, sehingga", "dapat dijalankan di Windows, macOS, dan Linux, menjadikannya pilihan bagi": "dapat dijalankan di Windows, macOS, dan Linux, menjadikannya pilihan bagi", "banyak pengembang perangkat lunak, baik pemula maupun profesional.": "banyak pengembang perangkat lunak, baik pemula maupun profesional.", "3.4.3 Extensions Django": "3.4.3 Extensions Django", "Extensions Django pada Visual Studio Code adalah ekstensi tambahan yang": "Extensions Django pada Visual Studio Code adalah ekstensi tambahan yang", "dirancang untuk meningkatkan pengalaman pengembangan proyek Django di": "dirancang untuk meningkatkan pengalaman pengembangan proyek Django di", "Visual Studio Code. Django sendiri adalah framework berbasis Python yang": "Visual Studio Code. Django sendiri adalah framework berbasis Python yang", "digunakan untuk membangun aplikasi web dengan cepat dan efisien. Dengan": "digunakan untuk membangun aplikasi web dengan cepat dan efisien. Dengan", "menggunakan ekstensi Django di Visual Studio Code, pengembang dapat": "menggunakan ekstensi Django di Visual Studio Code, pengembang dapat", "memanfaatkan fitur-fitur seperti syntax highlighting khusus untuk Django": "memanfaatkan fitur-fitur seperti syntax highlighting khusus untuk Django", "templates, auto-completion untuk kode Django, snippet bawaan untuk": "templates, auto-completion untuk kode Django, snippet bawaan untuk", "mempercepat penulisan kode, serta dukungan untuk debugging dan manajemen": "mempercepat penulisan kode, serta dukungan untuk debugging dan manajemen", "model database. Dengan adanya ekstensi ini, pengembangan aplikasi Django": "model database. Dengan adanya ekstensi ini, pengembangan aplikasi Django", "menjadi lebih mudah, lebih cepat, dan lebih terorganisir, terutama dalam hal": "menjadi lebih mudah, lebih cepat, dan lebih terorganisir, terutama dalam hal", "navigasi antar file proyek, pembuatan template, serta debugging aplikasi.": "navigasi antar file proyek, pembuatan template, serta debugging aplikasi.", "File Edit Selection View Go Run": "File Edit Selection View Go Run", "Search": "Search", "EXTENSIONS: MARKETPLACE": "EXTENSIONS: MARKETPLACE", "Extension: Django X": "Extension: Django X", "django": "django", "Y": "Y", "Django": "Django", "Baptiste Darthenay 14,128,046 ★★★★☆(139)": "Baptiste Darthenay 14,128,046 ★★★★☆(139)", "Beautiful syntax and scoped snippets for perfectionists with deadlines": "Beautiful syntax and scoped snippets for perfectionists with deadlines", "Disable Uninstall Auto Update": "Disable Uninstall Auto Update", "go Beautiful syntax and scoped...": "go Beautiful syntax and scoped...", "Baptiste Darthenay": "Baptiste Darthenay", "Django": "Django", "django Django Templates and Back...": "django Django Templates and Back...", "Roberth Solis": "Roberth Solis", "Install": "Install", "Djaneiro - Dja... 906K5": "Djaneiro - Dja... 906K5", "A collection of snippets for...": "A collection of snippets for...", "Scott Barkman": "Scott Barkman", "Django Templ... 81K4": "Django Templ... 81K4", "django Django template language s....": "django Django template language s....", "bibhasdn": "bibhasdn", "django": "django", "nah": "nah", "Moe L": "Moe L", "Django Snippets 468K4": "Django Snippets 468K4", "django Common Django snippets f...": "django Common Django snippets f...", "django-intell... 258K 45": "django-intell... 258K 45", "Full autocomplete support f...": "Full autocomplete support f...", "shamanu4": "shamanu4", "Django Templ... 109K5": "Django Templ... 109K5", "di formatter, django templat..": "di formatter, django templat..", "DETAILS FEATURES CHANGELOG": "DETAILS FEATURES CHANGELOG", "Django extension for Visual Studio Code": "Django extension for Visual Studio Code", "Beautiful syntax and scoped snippets for perfectionists with deadlines": "Beautiful syntax and scoped snippets for perfectionists with deadlines", "Marketplace": "Marketplace", "Identifier": "Identifier", "batistes.vscode-django": "batistes.vscode-django", "Version": "Version", "1.15.0": "1.15.0", "Published": "Published", "2018-06-10,": "2018-06-10,", "19:46:47": "19:46:47", "Last": "Last", "2023-12-27,": "2023-12-27,", "Released": "Released", "23:25:34": "23:25:34", "Categories": "Categories", "Programming Languages": "Programming Languages", "Snippets": "Snippets", "Resources": "Resources", "Gambar 3.35 Django Extentions": "Gambar 3.35 Django Extentions", "63": "63"}
+
+
+<!-- Page Break - Batch 74 -->
+
+
+{"Modul": "IV",
+"Website": "Dinamis Django",
+"Person1": "Adjie",
+"Person2": "Qulub",
+"Person3": "Febiant",
+"Person4": "Ilham"}
+
+
+<!-- Page Break - Batch 75 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "MODUL IV": "MODUL IV", "WEBSITE DINAMIS": "WEBSITE DINAMIS", "A. Tujuan Praktikum": "Tujuan Praktikum", "Praktikum Modul 4 Website Dinamis memiliki tujuan sebagai berikut:": "Praktikum Modul 4 Website Dinamis memiliki tujuan sebagai berikut:", "1. Mengenal dan mengetahui cara kerja website dinamis.": "Mengenal dan mengetahui cara kerja website dinamis.", "2. Mampu membuat database dan tabel pada MySQL.": "Mampu membuat database dan tabel pada MySQL.", "3. Mampu memanipulasi data di dalam tabel.": "Mampu memanipulasi data di dalam tabel.", "B. Landasan teori": "Landasan teori", "4.1 Database": "Database", "4.1.1 Pengertian Website Dinamis": "Pengertian Website Dinamis", "Website dinamis adalah jenis situs web berupa halaman website dimana isi": "Website dinamis adalah jenis situs web berupa halaman website dimana isi", "konten dapat diubah melalui halaman admin tanpa harus membuka source code.": "konten dapat diubah melalui halaman admin tanpa harus membuka source code.", "Hal ini disebabkan oleh konten website yang sudah tersimpan di dalam database,": "Hal ini disebabkan oleh konten website yang sudah tersimpan di dalam database,", "selain itu website dinamis dapat diperbaharui secara berkala tanpa harus membuka": "selain itu website dinamis dapat diperbaharui secara berkala tanpa harus membuka", "source code sehingga orang awam dapat mengubah tanpa perlu menguasai bahasa": "source code sehingga orang awam dapat mengubah tanpa perlu menguasai bahasa", "pemrograman tertentu. Halaman website dinamis biasanya ditulis dalam bahasa": "pemrograman tertentu. Halaman website dinamis biasanya ditulis dalam bahasa", "pemrograman server side seperti PHP, ASP, JSP dan lainnya yang mendukung": "pemrograman server side seperti PHP, ASP, JSP dan lainnya yang mendukung", "konektivitas dengan database. Pembuatan database dapat dilakukan dengan SQL": "konektivitas dengan database. Pembuatan database dapat dilakukan dengan SQL", "server, MySQL ataupun Microsoft Access. Keinginan pengguna terakhir (end user)": "server, MySQL ataupun Microsoft Access. Keinginan pengguna terakhir (end user)", "yang diakomodasi adalah mengambil informasi atau menambahkan informasi yang": "yang diakomodasi adalah mengambil informasi atau menambahkan informasi yang", "berguna dan terkini dari atau ke dalam database. Kapasitas database yang besar": "berguna dan terkini dari atau ke dalam database. Kapasitas database yang besar", "akan mendukung penyediaan informasi yang optimal sehingga dapat berjalan": "akan mendukung penyediaan informasi yang optimal sehingga dapat berjalan", "dengan baik walaupun diakses oleh ribuan orang dalam waktu yang bersamaan.": "dengan baik walaupun diakses oleh ribuan orang dalam waktu yang bersamaan.", "Pada website dinamis juga memerlukan kapasitas yang besar karena akan": "Pada website dinamis juga memerlukan kapasitas yang besar karena akan", "digunakan untuk menampung informasi yang dikirim oleh end user. Di samping": "digunakan untuk menampung informasi yang dikirim oleh end user. Di samping", "itu, tipe ini bersifat interaktif karena terjadi dialog antara end user dengan": "itu, tipe ini bersifat interaktif karena terjadi dialog antara end user dengan", "webmaster maupun antar end user melalui forum yang disediakan. Informasi pada": "webmaster maupun antar end user melalui forum yang disediakan. Informasi pada", "website dinamis berkembang sesuai dengan waktu sebenarnya (real time). Oleh": "website dinamis berkembang sesuai dengan waktu sebenarnya (real time). Oleh", "karena itu website ini selalu mendapatkan informasi terbaru sesuai apa yang terjadi": "karena itu website ini selalu mendapatkan informasi terbaru sesuai apa yang terjadi", "pada waktunya. Selain itu, website dinamis memberikan hal yang baru baik dari sisi": "pada waktunya. Selain itu, website dinamis memberikan hal yang baru baik dari sisi", "tampilan maupun kemudahan dalam perawatan (maintenance), sehingga website": "tampilan maupun kemudahan dalam perawatan (maintenance), sehingga website", "dengan model tersebut sangat diminati di semua kalangan baik di dunia pendidikan": "dengan model tersebut sangat diminati di semua kalangan baik di dunia pendidikan", "maupun perusahaan karena dapat memenuhi kebutuhan end user. Beberapa contoh": "maupun perusahaan karena dapat memenuhi kebutuhan end user. Beberapa contoh", "website dinamis yaitu Youtube, Shopee, Instagram, Traveloka, SPADA, dan lain": "website dinamis yaitu Youtube, Shopee, Instagram, Traveloka, SPADA, dan lain", "sebagainya (Widia & Asriningtias, 2021).": "sebagainya (Widia & Asriningtias, 2021).", "64": "64"}
+
+
+<!-- Page Break - Batch 76 -->
+
+
+json
+{
+  "MODUL 1": null,
+  "MODUL 2": null,
+  "MODUL 3": null,
+  "MODUL 4": null,
+  "Gambar 4. 1 User Interface Website Dinamis": null,
+  "Website dinamis memiliki kelebihan dan kekurangan dibandingkan dengan website statis diantaranya sebagai berikut:": null,
+  "a. Kelebihan:": null,
+  "1. Menggunakan bahasa yang fleksibel sehingga dapat dikombinasikan dengan fungsi yang ada dengan bahasa pemrograman lainnya.": null,
+  "2. Konten dan layout dapat dilakukann perubahan sesuai dengan keinginan pembuat, selain itu konten dan layout halaman dibuat terpisah, sehingga loading pada halaman lebih cepat.": null,
+  "3. Menggunakan database untuk menyimpan konten atau isi.": null,
+  "4. Memfasilitasi komunikasi 2 arah antara admin dan juga visitor (pengunjung web) yang memungkinkan untuk dilakukan interaksi.": null,
+  "5. Memiliki banyak fitur tambahan yang memudahkan pengelola dan pengguna untuk bekerjasama.": null,
+  "6. Dalam pembuatan web lebih mudah dengan menggunakan Content Management System (CMS) karena tools yang tersedia.": null,
+  "7. Penggunaan bahasa pemrograman website dinamis lebih banyak seperti PHP, ASP, JSP, Python dan lainnya.": null,
+  "b. Kekurangan:": null,
+  "1. Dalam pembuatan file website dibutuhkan hosting yang cukup besar.": null,
+  "2. Membutuhkan dana lebih banyak untuk pengembangan dan biaya hosting yang lebih mahal.": null,
+  "3. Website dinamis lebih kompleks sehingga sering terjadi error jika dalam pengerjaannya tidak dilakukan dengan teliti.": null,
+  "4. Rentan terhadap serangan keamanan seperti SQL injection atau cross-site scripting.": null,
+  "(Laugi, 2018)": null,
+  "4.1.2 Cara Kerja.": null,
+  "User atau client melakukan request kepada URL yang akan direspon oleh URL Conf dan memilih view sesuai request. Selanjutnya view akan menampilkan template sesuai dengan request yang diminta oleh client. Jika membutuhkan data": null,
+  "65": null
+}
+
+
+<!-- Page Break - Batch 77 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "4.1.3 Pengenalan Database": "4.1.3 Pengenalan Database", "a.": "a.", "1.": "1.", "2.": "2.", "3.": "3.", "4.": "4.", "b.": "b.", "1.": "1.", "2.": "2.", "3.": "3.", "4.": "4.", "5.": "5.", "6.": "6.", "python": "python", "django": "django", "Gambar 4. 2 Arsitektur Django dengan Database": "Gambar 4. 2 Arsitektur Django dengan Database", "Tujuan": "Tujuan", "Fungsi": "Fungsi", "urls.py": "urls.py", "Client": "Client", "Web Page Internet Responses": "Web Page Internet Responses", "views.py": "views.py", "models.py": "models.py", "database": "database", "Input User": "Input User", "main.html": "main.html", "yang diminta, maka pada model akan membuat struktur data sesuai request melalui": "yang diminta, maka pada model akan membuat struktur data sesuai request melalui", "query yang sesuai. Berikutnya data akan diminta ke database yang sudah sesuai,": "query yang sesuai. Berikutnya data akan diminta ke database yang sudah sesuai,", "kemudian akan dikirimkan ke model dan akan merespon data ke view. Pada view": "kemudian akan dikirimkan ke model dan akan merespon data ke view. Pada view", "akan dipilihkan HTML yang sesuai untuk ditampilkan ke client.": "akan dipilihkan HTML yang sesuai untuk ditampilkan ke client.", "Basis data merupakan kumpulan data yang terstruktur secara sistematis untuk": "Basis data merupakan kumpulan data yang terstruktur secara sistematis untuk", "mempermudah pengelolaan dan akses. Sistem basis data mencakup model data,": "mempermudah pengelolaan dan akses. Sistem basis data mencakup model data,", "skema, serta bahasa kueri yang mendukung interaksi dengan data (Fahzirah, 2024).": "skema, serta bahasa kueri yang mendukung interaksi dengan data (Fahzirah, 2024).", "Data sendiri adalah representasi dari fakta yang dapat dicatat dan memiliki fungsi.": "Data sendiri adalah representasi dari fakta yang dapat dicatat dan memiliki fungsi.", "Database sendiri akan tersimpan pada hardware komputer secara online maupun": "Database sendiri akan tersimpan pada hardware komputer secara online maupun", "offline serta dapat digunakan untuk diolah maupun dimanipulasi menjadi suatu": "offline serta dapat digunakan untuk diolah maupun dimanipulasi menjadi suatu", "informasi. Berikut merupakan tujuan, fungsi, kelebihan dan kekurangan dari": "informasi. Berikut merupakan tujuan, fungsi, kelebihan dan kekurangan dari", "database.": "database.", "A gar data dapat diatur dengan mudah, tepat, dan cepat dalam penggunaannya.": "A gar data dapat diatur dengan mudah, tepat, dan cepat dalam penggunaannya.", "Agar tidak terjadi duplikasi data sehingga konsistensi data dapat terjaga.": "Agar tidak terjadi duplikasi data sehingga konsistensi data dapat terjaga.", "Supaya data tidak bergantung pada program aplikasi yang digunakan.": "Supaya data tidak bergantung pada program aplikasi yang digunakan.", "Memastikan integritas dan validitas data tetap terjaga.": "Memastikan integritas dan validitas data tetap terjaga.", "Mempermudah proses penyimpanan, akses, dan pembaruan data.": "Mempermudah proses penyimpanan, akses, dan pembaruan data.", "Membantu penyimpanan data dalam jumlah besar.": "Membantu penyimpanan data dalam jumlah besar.", "Mengelompokkan data dan informasi agar dapat lebih mudah digunakan.": "Mengelompokkan data dan informasi agar dapat lebih mudah digunakan.", "Memungkinkan pengguna untuk melakukan pencarian data secara cepat dan": "Memungkinkan pengguna untuk melakukan pencarian data secara cepat dan", "akurat.": "akurat.", "Mendukung transaksi data yang aman dan terstruktur": "Mendukung transaksi data yang aman dan terstruktur", "Menghubungkan berbagai jenis data untuk mendapatkan informasi yang lebih": "Menghubungkan berbagai jenis data untuk mendapatkan informasi yang lebih", "kompleks.": "kompleks.", "66": "66"}
+
+
+<!-- Page Break - Batch 78 -->
+
+
+json
+{
+  "MODUL 1": null,
+  "MODUL 2": null,
+  "MODUL 3": null,
+  "MODUL 4": null,
+  "c": "Kelebihan",
+  "1": "Kemudahan dalam mengubah dan memperbarui data.",
+  "2": "Memiliki standar keamana data yang tinggi.",
+  "3": "Mempercepat dan mempermudah pengambilan informasi.",
+  "4": "Dapat digunakan oleh banyak pengguna secara bersamaan tanpa konflik.",
+  "5": "Mencegah terjadinya inkonsistensi data.",
+  "6": "Mendukung pencadangan dan pemulihan data untuk menghindari kehilangan data.",
+  "d": "Kekurangan",
+  "1.1": "Proses backup membutuhkan waktu cukup lama.",
+  "2.1": "Membutuhkan spesifikasi perangkat yang tinggi agar dapat berjalan lancar.",
+  "3.1": "Sistem cukup rumit, sehingga membutuhkan perhatian dan pemeliharaan yang lebih.",
+  "4.1": "Memerlukan sumber daya yang besar untuk pengelolaan database berskala besar.",
+  "Informasi yang terdapat pada database dapat diakses dengan database Management System (DBMS). Database Management System didefinisikan sebagai sistem perangkat lunak yang memungkinkan pengguna untuk dapat membuat, memelihara, dan mengontrol mengakses ke database. DBMS mengizinkan pengguna untuk menyimpan, mengambil, dan memanipulasi data dengan cara yang terstruktur dan terpusat. Arsitektur DBMS mencakup komponen-komponen utama seperti model data, mesin penyimpanan, bahasa query, dan pengelola transaksi. (Manroe, 2018) DBMS (Database Management System) memiliki peran yang sangat penting dalam perkembangan aplikasi dan sistem di dunia. Saat ini, berbagai perusahaan besar, baik di tingkat nasional maupun internasional, memanfaatkan database untuk mendukung sistem aplikasinya. Terdapat banyak DBMS populer yang digunakan, seperti Oracle, Microsoft SQL Server, MySQL, PostgreSQL, Microsoft Access, IBM DB2, dan lainnya. Database memiliki struktur yang menyusun penataan data didalamnya. Berikut merupakan struktur yang terdapat pada database.": null,
+  "a": "Field",
+  "Field merupakan suatu elemen dari tabel yang berisi fakta tertentu yang terdiri dari sub judul pada tabel dan item data seperti nama, nim, dan lain-lain.": null,
+  "b": "Table",
+  "Tabel merupakan sekumpulan field dari data-data yang telah terekam pada sebuah sistem, kumpulan table adalah database.": null,
+  "c.1": "Data",
+  "Data merupakan kumpulan fakta mengenai suatu objek tertentu yang dapat dinyatakan dalam angka, huruf, gambar, video, suara, dan lain-lain.": null,
+  "d.1": "Informasi",
+  "Informasi adalah hasil dari pengolahan suatu data yang memiliki suatu fungsi dalam penggunaannya.": null,
+  "67": null
+}
+
+
+<!-- Page Break - Batch 79 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "Berikut merupakan tampilan struktur database pada phpMyAdmin.": null, "Table structure": null, "Relation view": null, "#": "1", "Name": "id", "Type": "int(11)", "Collation": null, "Attributes": "AUTO_INCREMENT", "Null": "No", "Default": "None", "Comments": null, "Extra": null, "Action": "Change\nDrop More", "#_2": "2", "Name_2": "Nama", "Type_2": "varchar(100)", "Collation_2": "utf8mb4_general_ci", "Attributes_2": null, "Null_2": "Yes", "Default_2": "NULL", "Comments_2": null, "Extra_2": null, "Action_2": "Change\nDrop More", "#_3": "3", "Name_3": "NIM", "Type_3": "varchar(50)", "Collation_3": "utf8mb4_general_ci", "Attributes_3": null, "Null_3": "Yes", "Default_3": "NULL", "Comments_3": null, "Extra_3": null, "Action_3": "Change\nDrop More", "#_4": "4", "Name_4": "Alamat", "Type_4": "varchar(100)", "Collation_4": "utf8mb4_general_ci", "Attributes_4": null, "Null_4": "Yes", "Default_4": "NULL", "Comments_4": null, "Extra_4": null, "Action_4": "Change\nDrop More", "Check all": null, "With selected:": null, "Browse": null, "Change": null, "Drop": null, "Primary": null, "Unique": null, "Index": null, "Sp": null, "Gambar 4. 3 Struktur Tabel PhPMyAdmin": null, "4.2 XAMPP dan Pembuatan Database": null, "4.2.1 Pengenalan XAMPP": null, "XAMPP adalah perangkat lunak bersifat open source yang dikembangkan": null, "oleh Apache dan dapat digunakan pada berbagai jenis sistem operasi seperti": null, "Windows, Linux, dan Mac Os. XAMPP sendiri merupakan singkatan dari (X: Cross": null, "platform, A: Apache, M: MySQL, P: PHP, P: Perl). XAMPP pada dasarnya": null, "berfungsi sebagai server lokal. Server lokal ini berfungsi hanya pada device anda": null, "sendiri dan biasanya digunakan untuk menguji website sebelum diunggah ke server": null, "website jarak jauh. Untuk menguji website kita dapat menggunakan 2 modul yaitu": null, "Apache dan MySQL.": null, "A pache adalah perangkat lunak server website yang dapat berjalan di berbagai": null, "sistem operasi dan bersifat open source yang dikembangkan oleh open source.": null, "Apache Software Foundation. Apache memiliki layanan protokol keamanan yang": null, "disebut sebagai HTTP (Hypertext Transfer Protocol). Cara HTTP pekerja dengan": null, "didasarkan pada model arsitektur client-server tanpa status yang beroperasi dengan": null, "bertukar pesan melalui koneksi TCP/IP yang andal dan cara Apache bekerja yaitu": null, "dengan cara memproses file yang di request oleh client melalui website, serta": null, "menghasilkan output yang dibutuhkan client.": null, "MySQL adalah sistem manajemen basis data relasional (RDBMS) yang": null, "beroperasi sebagai server, memungkinkan akses multi-pengguna ke berbagai": null, "database. Perangkat lunak ini bersifat open source dan berada di bawah lisensi GNU": null, "General Public License (GPL). SQL (Structured Query Language) merupakan": null, "bahasa yang digunakan dalam MySQL untuk mengelola data, yang tersimpan": null, "dalam objek database yang disebut tabel. Tabel sendiri terdiri dari baris dan kolom": null, "yang menyimpan kumpulan data yang saling terkait. MySQL memiliki beberapa": null, "keunggulan, seperti keandalan, kemudahan penggunaan, serta kemampuannya": null, "untuk mendukung satu atau lebih tabel dalam suatu database.": null, "Cara Menjalankan XAMPP:": null, "a.": null, "Buka aplikasi XAMPP yang sudah ter-install di device anda dengan cara run": null, "as administrator pada XAMPP. Pada bagian service modul Apache dan": null, "MySQL diklik untuk instalasi hingga berubah menjadi tanda centang,": null, "kemudian klik start pada kolom actions bagian Apache dan MySQL hingga": null, "68": "68"}
+
+
+<!-- Page Break - Batch 80 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "XAMPP Control Panel v3.3.0": "XAMPP Control Panel v3.3.0 [Compiled: Apr 6th 2021 ]", "Modules Service": "Modules Service", "Module": "Module", "PID(s)": "PID(s)", "Port(s)": "Port(s)", "Actions": "Actions", "Apache Module": "Apache", "PID(s) Value": "22632 1920", "Port(s) Value": "80, 443", "Apache Actions": "Stop Admin Config Logs", "MySQL Module": "MySQL", "PID(s) Value 2": "15684", "Port(s) Value 2": "3306", "MySQL Actions": "Stop Admin Config Logs", "FileZilla Module": "FileZilla", "FileZilla Actions": "Start Admin Config Logs", "Mercury Module": "Mercury", "Mercury Actions": "Start Admin Config Logs", "Tomcat Module": "Tomcat", "Tomcat Actions": "Start Admin Config Logs", "Gambar 4. 4 Tampilan Utama XAMPP": "Gambar 4. 4 Tampilan Utama XAMPP", "Gambar 4. 5 Tampilan Dashboard PhpMyAdmin": "Gambar 4. 5 Tampilan Dashboard PhpMyAdmin", "4.2.2 Membuat Database dan Tabel": "4.2.2 Membuat Database dan Tabel", "page_number": "69"}
+
+
+<!-- Page Break - Batch 81 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "Buka XAMPP": "Buka XAMPP", "Hidupkan MySQL": "Hidupkan MySQL", "Pergi ke Browser phpMyAdmin": "Pergi ke Browser phpMyAdmin", "Buat Database": "Buat Database", "A tur database di VsCode": "A tur database di VsCode", "a. Penggunaan Script pembuatan database pada VsCode": "a. Penggunaan Script pembuatan database pada VsCode", "DATABASES": "{", "default": "{", "ENGINE": "django.db.backends.mysql", "Name": "prokom2025", "PASSWORD": "\",", "HOST": "localhost", "PORT": "3306", "}}": "}}", "Gambar 4. 6 Pembuatan Database pada phpMyAdmin": "Gambar 4. 6 Pembuatan Database pada phpMyAdmin", "b. Penggunaan Script pembuatan table pada VsCode": "b. Penggunaan Script pembuatan table pada VsCode", "from django.db import models": "from django.db import models", "class Basis(models. Model)": "class Basis(models. Model)", "Tipe_Barang = models. CharField(max_length=200)": "Tipe_Barang = models. CharField(max_length=200)", "Jenis_Barang = models. CharField(max_length=200)": "Jenis_Barang = models. CharField(max_length=200)", "Tanggal_Pembuatan = models.DateField(max_length=200)": "Tanggal_Pembuatan = models.DateField(max_length=200)", "Harga = models.IntegerField(null=True)": "Harga = models.IntegerField(null=True)", "Stock = models.IntegerField(null=True)": "Stock = models.IntegerField(null=True)", "def str (self)": "def str (self)", "return \"{}\".format(self.id)": "return \"{}\".format(self.id)", "4.2.3 Membuat Koneksi Database": "4.2.3 Membuat Koneksi Database", "Pada Python Django, koneksi digunakan untuk menghubungkan dengan MySQL melalui connector atau jenis SQL lainnya. Connector ini berperan dalam menghubungkan Python dengan database di MySQL. Beberapa langkah untuk membuat koneksi database antara lain sebagai berikut (Setiyadi, et al., 2022).": "Pada Python Django, koneksi digunakan untuk menghubungkan dengan MySQL melalui connector atau jenis SQL lainnya. Connector ini berperan dalam menghubungkan Python dengan database di MySQL. Beberapa langkah untuk membuat koneksi database antara lain sebagai berikut (Setiyadi, et al., 2022).", "a. Install MySQL Connector": "a. Install MySQL Connector", "Proses install dilakukan pada command prompt (CMD) dimana modul MySQL connector akan diunduh secara online.": "Proses install dilakukan pada command prompt (CMD) dimana modul MySQL connector akan diunduh secara online.", "pip3 install mysql-connector": "pip3 install mysql-connector", "70": "70"}
+
+
+<!-- Page Break - Batch 82 -->
+
+
+json
+{
+"MODUL 1": null,
+"MODUL 2": null,
+"MODUL 3": null,
+"MODUL 4": null,
+"b. Koneksi MySQL": null,
+"DATABASES": "{ 'default': { 'ENGINE': 'django.db.backends.mysql', 'NAME': 'prokom2025', 'USER': \", 'PASSWORD': \", 'HOST': 'localhost', 'PORT': '3306', } }": null,
+"4.2.4 Pengiriman Data Formulir": null,
+"a. Metode GET": null,
+"#Script URLS": null,
+"from django.contrib import admin": null,
+"from django.urls import path, include": null,
+"from. import views": null,
+"urlpatterns": "[ path('admin/', admin.site.urls), path(\", views.index), ]": null,
+"#Script Views": null,
+"from django.shortcuts import render": null,
+"def index(request):": null,
+"return render(request, 'index.html',context)": null,
+"#Script Index": null,
+"<!DOCTY PE html>": null,
+"<html>": null,
+"<head>": null,
+"71": null
+}
+
+
+<!-- Page Break - Batch 83 -->
+
+
+json
+{"title": "METODE GET", "h1": "METODE GET", "form_method": "GET", "label_nama": "Nama:", "input_type_nama": "text", "input_name_nama": "Nama", "input_id_nama": "Nama", "label_nim": "NIM:", "input_type_nim": "text", "input_name_nim": "NIM", "input_id_nim": "NIM", "label_prodi": "PRODI:", "input_type_prodi": "text", "input_name_prodi": "PRODI", "input_id_prodi": "PRODI", "button_type": "Submit", "button_text": "Kirim", "nama_value": "Ilham Nasukha", "nim_value": "D600230104", "prodi_value": "Teknik Industri", "gambar_4_7": "Gambar 4. 7 Hasil Running Formulir Metode GET", "url_with_params": "127.0.0.1:8000/?Nama=Ilham+Nasukha&NIM=D600230104&PRODI=Teknik+Industri", "gambar_4_8": "Gambar 4. 8 Hasil Running Formulir Metode GET (1)", "metode_post_title": "Metode POST", "metode_post_description": "Metode POST mengirimkan data langsung kepada action tanpa melalui URL sehingga bersifat uncacheable (tidak dapat disimpan pada cache). Proses pengiriman data dalam form secara langsung dikirimkan ke halaman yang dituju. Jadi data akan langsung diterima oleh user.", "page_number": "72"}
+
+
+<!-- Page Break - Batch 84 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "Script Urls": "#Script Urls", "from django.contrib import admin": "from django.contrib import admin", "from django.urls import path, include": "from django.urls import path, include", "from. import views": "from. import views", "urlpatterns": "urlpatterns = [", "path('admin/', admin.site.urls),": "path('admin/', admin.site.urls),", "path(\", views.index),": "path(\", views.index),", "]": "]", "Script Views": "#Script Views", "from django.shortcuts import render": "from django.shortcuts import render", "def index(request):": "def index(request):", "context = {}": "context = {}", "if request.method == 'POST':": "if request.method == 'POST':", "print(\"Berhasil\")": "print(\"Berhasil\")", "context['Nama'] = request. POST['Nama']": "context['Nama'] = request. POST['Nama']", "context['NIM'] = request.POST['NIM']": "context['NIM'] = request.POST['NIM']", "context['PRODI'] = request.POST['PRODI']": "context['PRODI'] = request.POST['PRODI']", "else:": "else:", "print(\"Gagal\")": "print(\"Gagal\")", "return render(request, 'index.html', context)": "return render(request, 'index.html', context)", "Script Index": "#Script Index", "<!DOCTY PE html>": "<!DOCTY PE html>", "<html>": "<html>", "<head>": "<head>", "<title>METODE POST </title>": "<title>METODE POST </title>", "</head>": "</head>", "<body>": "<body>", "<h1>METODE POST</h1>": "<h1>METODE POST</h1>", "<Form method='POST'>": "<Form method='POST'>", "{%csrf token%}": "{%csrf token%}", "<label for=\"Nama\">Nama: </label>": "<label for=\"Nama\">Nama: </label>", "<input type=\"text\" name=\"Nama\" id=\"Nama\">": "<input type=\"text\" name=\"Nama\" id=\"Nama\">", "<br><br>": "<br><br>", "<label for=\"NIM\">NIM: </label>": "<label for=\"NIM\">NIM: </label>", "<input type=\"text\" name=\"NIM\" id=\"NIM\">": "<input type=\"text\" name=\"NIM\" id=\"NIM\">", "<br><br>": "<br><br>", "<label for=\"PRODI\">PRODI: </label>": "<label for=\"PRODI\">PRODI: </label>", "<input type=\"text\" name=\"PRODI\" id=\"PRODI\">": "<input type=\"text\" name=\"PRODI\" id=\"PRODI\">", "<br><br>": "<br><br>", "<button type=\"Submit\">Kirim</button>": "<button type=\"Submit\">Kirim</button>", "</Form>": "</Form>", "<h2>{{Nama}}</h2>": "<h2>{{Nama}}</h2>", "<h2>{{NIM}}</h2>": "<h2>{{NIM}}</h2>", "<h2>{{PRODI}}</h2>": "<h2>{{PRODI}}</h2>", "</body>": "</body>", "73": "73"}
+
+
+<!-- Page Break - Batch 85 -->
+
+
+json
+{"html": true, "ip_address": "127.0.0.1:8000", "metode_post": true, "nama": "Ilham Nasukha", "nim": "D600230104", "prodi": "Teknik Industri", "kirim": true, "gambar_4_9": "Hasil Running Formulir Metode POST", "ddl_dml": "4.2.5 DDL (Database Definition Language) & DML (Data Manipulation Language)", "dbms_definition": "DBMS (Database Management System) merupakan media perantara antar pengguna dengan suatu basis data yang tersimpan pada media penyimpanan, dengan menggunakan bahasa khusus yang sudah diatur oleh perusahaan DBMS.", "dbms_capabilities": "DBMS memungkinkan pengguna untuk menyimpan, mengakses, dan mengelola data dengan mudah dan efisien. Sistem ini juga menyediakan berbagai fitur seperti pencarian data, pembaruan data, serta keamanan data (Pramarta et al., 2021).", "data_language_types": "Sebuah bahasa basis data biasanya dapat dipilah ke dalam 2 bentuk yaitu Data Definition Language (DDL) dan Data Manipulation Language (DML).", "ddl_definition": "Data Definition Language (DDL) merupakan perintah SQL yang digunakan untuk mendefinisikan atau mendeklarasikan objek database, menciptakan objek database atau bahkan menghapus objek database. Data Definition Language yang umum dipakai yaitu:", "page_number": "74"}
+
+
+<!-- Page Break - Batch 86 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "1.": "1.", "Create": "Create", "Create_description": "Digunakan untuk menciptakan objek database yang baru atau menciptakan database itu sendiri.", "CREATE TABLE \"industri\"": "CREATE TABLE \"industri\" (\n\"id\" serial NOT NULL PRIMARY KEY,\n\"barang\" varchar(200) NOT NULL,\"supplier\"\nvarchar(200) NOT NULL);", "2.": "2.", "Rename": "Rename", "Rename_description": "Digunakan untuk merubah nama dari suatu objek. Perintah di bawah akan mengubah nama tabel prodi menjadi program studi.", "RENAME TABLE prodi TO program studi": "RENAME TABLE prodi TO program studi;", "ALTER TABLE prodi RENAME TO program studi": "ALTER TABLE prodi RENAME TO program studi;", "3.": "3.", "Alter": "Alter", "Alter_description": "Digunakan untuk mengubah atribut atau entitas dari objek suatu database yang meliputi: menambah kolom, menghapus kolom, memberikan atribut, dll.", "ALTER TABLE inventory ADD alamat_suplier VARCHAR ALTER TABLE inventory DROP COLUMN nama_suplier": "ALTER TABLE inventory ADD alamat_suplier VARCHAR ALTER TABLE inventory DROP\nCOLUMN nama_suplier", "4.": "4.", "Drop": "Drop", "Drop_description": "Digunakan untuk menghapus objek database dan table yang telah dibuat sehingga isi yang ada dalam database dan table akan hilang.", "DROP DATABASE industri": "DROP DATABASE industri;", "DROP TABLE inventory": "DROP TABLE inventory;", "b.": "b.", "DML (Data Manipulation Language)": "DML (Data Manipulation Language)", "DML_description": "Data Manipulation Language (DML) merupakan query yang digunakan untuk memanipulasi data, seperti untuk menampilkan data, mengubah data, menghapus data atau mengisi data. Data Manipulation Language yang sering dipakai adalah", "1. Select": "1. Select", "Select_description": "Perintah ini merupakan query yang digunakan untuk mengambil data atau menampilkan data.", "cursor = db.cursor()": "cursor = db.cursor()", "sql = \"SELECT * FROM industri\"": "sql = \"SELECT * FROM industri\"", "cursor.execute(sql)": "cursor.execute(sql)", "results = cursor.fetchall()": "results = cursor.fetchall()", "2. Insert": "2. Insert", "Insert_description": "Perintah ini digunakan untuk memasukkan data ke dalam tabel setelah database dan tabel selesai dibuat.", "cursor = db.cursor": "cursor = db.cursor", "sql = \"INSERT INTO industri (barang, supplier) VALUES (%s, %s)\"": "sql = \"INSERT INTO industri (barang, supplier) VALUES (%s, %s)\"", "page_number": "75"}
+
+
+<!-- Page Break - Batch 87 -->
+
+
+json
+{
+  "module_1": "MODUL 1",
+  "module_2": "MODUL 2",
+  "module_3": "MODUL 3",
+  "module_4": "MODUL 4",
+  "cursor_execute_sql_1": "cursor.execute(sql)",
+  "db_commit_1": "db.commit()",
+  "update_title": "Update",
+  "update_description": "Perintah ini digunakan untuk melakukan perubahan pada data yang telah dimasukkan sebelumnya.",
+  "cursor_db_cursor_1": "cursor = db.cursor",
+  "sql_update": "sql = \"UPDATE industri SET barang=%s, address=%s, WHERE id=%s\"",
+  "cursor_execute_sql_2": "cursor.execute(sql)",
+  "db_commit_2": "db.commit()",
+  "delete_title": "Delete",
+  "delete_description": "Perintah ini digunakan untuk menghapus data dari tabel. Data yang telah dihapus tidak dapat dikembalikan lagi karena perintah yang dijalankan tidak dapat digagalkan.",
+  "cursor_db_cursor_2": "cursor = db.cursor",
+  "sql_delete": "sql = \"DELETE FROM industri WHERE id= %s\"",
+  "cursor_execute_sql_3": "cursor.execute(sql)",
+  "db_commit_3": "db.commit()",
+  "django_administration_title": "4.3 Django Administration",
+  "django_administration_description": "Django Administration adalah fitur bawaan dari framework Django yang menyediakan antarmuka administrasi berbasis web untuk mengelola data dalam aplikasi. Dengan Django Admin, pengembang dapat dengan mudah melakukan operasi CRUD (Create, Read, Update, Delete) pada model database tanpa perlu membuat tampilan atau logika tambahan. Django Admin sangat berguna dalam pengelolaan data, seperti menambahkan, mengedit, atau menghapus entri dalam database, serta mengatur hak akses pengguna.",
+  "pengembangan_model_title": "a. Pengembangan Model",
+  "pengembangan_model_description": "Dalam framework Django, pengembangan struktur data di database tidak lagi diperlukan karena telah digantikan oleh model Django. Proses pengembangan aplikasi dimulai dengan merancang struktur data, tetapi Django menyederhanakan langkah ini dengan menyediakan model yang secara otomatis menangani struktur database.",
+  "konfigurasi_atribut_model_title": "b. Konfigurasi A tribut Model",
+  "konfigurasi_atribut_model_description": "Pengembangan atribut pada model dilakukan setelah class model ditentukan. Class model ini dibuat di dalam file models.py pada masing-masing aplikasi yang telah dibuat. Setiap atribut pada model harus ditulis sesuai dengan format yang telah ditetapkan. Django sendiri menyediakan berbagai jenis format atribut, seperti CharField, TextField, ForeignKey, dan IntegerField.",
+  "page_number": "76"
+}
+
+
+<!-- Page Break - Batch 88 -->
+
+
+json
+{"MODUL 1": "MODUL 1", "MODUL 2": "MODUL 2", "MODUL 3": "MODUL 3", "MODUL 4": "MODUL 4", "c": "Setup Registrasi Model Admin", "c_description": "Untuk menampilkan class model pada halaman Django, setiap class model harus didaftarkan melalui Admin. Proses registrasi ini wajib dilakukan agar model dapat diakses dan dikelola melalui antarmuka administrasi Django.", "import_statement": "from django.contrib import admin", "register_models_comment": "#Register your models here.", "model_import": "from .models import Berita", "admin_register": "admin.site.register(Berita);", "d": "Membuat User Django-Admin", "d_description": "Framework Django secara default menyediakan tampilan login. Untuk dapat mengaksesnya, terlebih dahulu perlu dibuat akun superuser dengan menjalankan perintah python manage.py createsuperuser melalui terminal atau command prompt.", "image_caption": "Gambar 4. 10 Tampilan Login Django Administration", "e": "Tampilan Class Model", "e_description": "Class model yang telah dibuat dan didaftarkan akan ditampilkan pada halaman web sesuai dengan lokasi aplikasi yang telah dikonfigurasi. Berikut ini merupakan tampilan dari class model tersebut.", "page_number": "77"}
+
+
+<!-- Page Break - Batch 89 -->
+
+
+json
+{"page_number": "78",
+"module_1": "MODUL 1",
+"module_2": "MODUL 2",
+"module_3": "MODUL 3",
+"module_4": "MODUL 4",
+"site_administration_django_si": "Site administration | Django si",
+"localhost_admin": "localhost:8000/admin/",
+"google_chrome_default": "Google Chrome bukan browser default",
+"jadikan_default": "Jadikan default",
+"django_administration": "Django administration",
+"site_administration": "Site administration",
+"authentication_authorization": "AUTHENTICATION AND AUTHORIZATION",
+"groups_add_change": "+ Add Change",
+"users_add_change": "+ Add Change",
+"recent_actions": "Recent actions",
+"my_actions": "My actions",
+"none": "None",
+"berita_add_change": "BERITA + Add Change",
+"gambar_4_11_tampilan": "Gambar 4. 11 Tampilan Class Model Django Administration",
+"konfigurasi_form_atribut": "Konfigurasi Form Atribut Django Administration",
+"atribut_yang_telah_dibuat": "A tribut yang telah dibuat pada class model, secara otomatis akan dibuat dalam form. Form ini nantinya akan dimasukkan data.",
+"add_post_django_site": "Add post | Django site ade",
+"localhost_berita_post_add": "localhost:8000/admin/berita/post/add/",
+"django_administration_home": "Django administration Home Berita Posts Add post",
+"start_typing_to_fin": "Start typing to fin",
+"add_post": "Add post",
+"groups_add": "Groups +Add",
+"judul": "Judul:",
+"contoh_1": "Contoh 1",
+"isi": "Isi:",
+"isi_contoh_1": "Isi Contoh 1",
+"berita": "BERITA",
+"save_and_add_another": "Save and add another",
+"save_and_continue_editing": "Save and continue editing",
+"welcome_admin_view": "WELCOME, ADMIN. VIEW SITE/CHANGE PASSWORD/LOG OUT",
+"gambar_4_12_tampilan": "Gambar 4. 12 Tampilan Form A tribut Class Model"}
+
+
+<!-- Page Break - Batch 90 -->
+
+
+json
+{"DAFTAR PUSTAKA": "", "Abadi, F. 2020. Pemrograman Web Dasar 1: Belajar Html 5. Banjar Baru:": "Cendekia.", "Adam Saputra, S. 2019. Buku Sakti Html, Css & Javascript. Yogyakarta:": "Anak Hebat Indonesia.", "Ani, Oktarini, S., Dkk. 2019. Web Programming I. Graha Ilmu:": "Yogyakarta", "Astamal, R 2008. Dasar-Dasar Web Programming Linux. User Group": "Stikom: Surabaya", "Aziz, A., Dkk. 2019. Panduan Pemilu Berbasis Website (Teknologi Sistem Cerdas": "Dan Implementasi Di Masyarakat). Deepublish, Yogyakarta.", "C, A. R. & M, A. W., 2016. Konsep Dan Implementasi Pemrograman Gui. 1st Ed.": "Yogyakarta: S.N.", "Effendi, R. (2009). Keunikan Variabel Dalam Pemrograman Visual C++.": "Manajemen Informatika, 1(2), 1-8.", "Https://Www.Persee.Fr/Doc/Arch_0044-8613_1977_Num_13_1_1322": null, "Faisal, R. M. Abadi, F 2020. Pemrograman Web Dasar I: Belajar Html 5. Scripta": "Cendekia: Banjar Baru.", "Gultom, F., Ginting, W. C., & Riswan, M. 2024. Perancangan Web Dengan Chat": "Gpt Untuk Meningkatkan Kualitas Akademik (Studi Kasus: Universitas Efarina). Innovative: Journal Of Social Science Research, 4(1), 5589-5600.", "Gunawan, Lawi, A. & Adnan, 2016. Analisis Arsitektur Aplikasi Web": "Menggunakan Model View Controller (Mvc) Pada Framework Java Server Faces. Scientific Journal Of Informatics, 3(1), Pp. 55-67.", "Hadi, D. A. 2015. Belajar Html & Css Dasar. A ceh,": null, "Hendrikus. 2014. Pengembangan Perangkat Pembelajaran Instalasi Sistem Operasi": "Berbasis Graphical User Interface. Jurnal Uny. Vol. 11, Pp. 55-67.", "Herlawati, H. And Handayanto, R.T., 2020. Penggunaan Matlab Dan Python Dalam": "Klasterisasi Data. Jurnal Kajian Ilmiah, 20(1), Pp.103-118.", "Hidayati, N. 2020. Pengembangan Sistem Informasi Pembelian Obat Secara Kredit": "Pada Apotik Dengan Menggunakan Model View Controller (Mvc). J-Sakti (Jurnal Sains Komputer Dan Informatika), 4(2), 457-471.", "Hidayatullah, Priyanto & Kawistara, J. 2017. Pemrograman Web. Bandung:": "Informatika Bandung.", "Huda, A., Kom, S., Kom, M. And Ardi, N., 2020. Dasar-Dasar Pemrograman": "Berbasis Python. Unp Press.", "Kadir, A. 2003. Pemrograman Web Mencakup: Html, Css, Javascript, & Php,": "Penerbit Andi, Yogyakarta.", "Kurniawan. 2020. Pembelajaran Pemrograman Python Dengan Pendekatan Logika": "Dan Algoritma. Jurnal Teknik Informatika Mahakarya, Vol 3 No 2, 1-37.", "page_number": "79"}
+
+
+<!-- Page Break - Batch 91 -->
+
+
+json
+{"Loganathan": "Venkaethswaran", "year1": "2013", "title1": "Pyside Gui Application Development", "publisher1": "Packt Publishing Ltd, Birmingham", "Loganathan2": "Venkaethswaran", "year2": "2016", "title2": "Pyside Gui Application Development, 2nd Edn", "publisher2": "Packt Publishing Ltd, Birmingham", "Ma'arif": "2020", "title3": "Buku Ajar Pemrograman Lanjut Bahasa Pemprograman Python", "location": "Yogyakarta", "M Levi": "H. P.", "year3": "2020", "title4": "Perbandingan Performa Tools Web Scraping Pada Website Dengan Data Dinamis Dan Statis", "journal1": "Jurnal Infra, 1-27", "Muhammad": "R., & Kurniawan, B.", "year4": "2020", "title5": "Pembelajaran Pemrograman Python Dengan Pendekatan Logika Algoritma", "journal2": "Jtim: Jurnal Teknik Informatika Mahakarya, 03(2), 37-44", "Nadita": "V., Sucipto, A., Octaviansyah, F., Irawan, D., & Meilisa, L.", "year5": "2022", "title6": "Rancang Bangun Aplikasi Laporan Marketing Secara Real Time Berbasis Web-Mobile (Studi Kasus: Pt International Business Futures)", "journal3": "Jurnal Ilmiah Infrastruktur Teknologi Informasi, 3(1), 1-8", "Ningsih": "S. R., Suryani, A. I., Sinlae, A. A. J., Halid, A., Markani, Muttaqin., EtAl.", "year6": "2022", "title7": "Perancangan Basis Data, Yayasan Kita Menulis, Medan", "Pane": "S & Yogi A. S.", "year7": "2020", "title8": "Big Data Classification Behavior Menggunakan Python", "publisher3": "Bandung: Kreatif Industri Nusantara", "Priyatno": "A.M., Firmanda, F.I., Farhas, R.J., Amalia, F. And Sudirman, W.F.R.", "year8": "2023", "title9": "Pelatihan Data Science Menggunakan Bahasa Pemrograman Python Di Pt Ilmu Data Indonesia", "journal4": "Dedikasi: Jurnal Pengabdian Pendidikan Dan Teknologi Masyarakat, 1(1), Pp.31-36", "Purba": "H.S., Kom, M., Sukmawati, R.A., Kom, M. And Adini, M.Н.", "year9": "2021", "title10": "Pemrograman Dasar Menggunakan Python", "publisher4": "Deepublish", "Raharjo": "B.", "year10": "2016", "title11": "Pemrograman Gui Dengan Python Dan Pyqt", "location2": "Bandung: Informatika Bandung", "Rahmatya": "D.", "year11": "2023", "title12": "Online Attendance With Python Face Recognition And Django Framework", "journal5": "Jurnal Sistemasi, 1-52", "Rerung": "R.", "year12": "2018", "title13": "Pemrograman Web Dasar", "publisher5": "Cv Budi Utama: Yogyakarta", "Ricart": "A. B.", "year13": "2013", "title14": "Crowdsim: Sistem Simulasi Crowdsourcing", "publisher6": "Pusat: Fakultas Informatika Barcelona, Volume I, P. 46", "Risyda": "F., & Nuryamin, Y.", "year14": "2023", "title15": "Perancangan Sistem Informasi Manajemen Invoice Menggunakan Generator Freamwork Django-Python Berbasis Website Pada Pt. Lampuind Tekno Elektrik", "journal6": "Jsi (Jurnal Sistem Informasi) Universitas Suryadarma, 10(1), 207-220", "Sabita": "H., Herwanto, R., Syafitri, Y., & Prasetyo, B. D.", "year15": "2022", "title16": "Pengembangan Aplikasi Akreditasi Program Studi Berbasis Framework Django", "journal7": "Jurnal Informatika, 22(1), 33-37", "Safriadi": "N.", "year16": "2021", "title17": "Academic Resources Management Information System (Armis) Dengan Arsitektur Model View Control (Mvc)", "journal8": "Jurnal Elkha, 4(1), Pp. 1-6", "Saputra": "D. & Aji, R. F.", "year17": "2018", "title18": "Analisis Perbandingan Performa Web Service Rest", "page_number": "80"}
+
+
+<!-- Page Break - Batch 92 -->
+
+
+json
+{
+  "title1": "Menggunakan Framework Laravel, Django Dan Ruby On Rails Untuk Akses",
+  "title2": "Data Dengan Aplikasi Mobile. Bangkit Indonesia, 2(7), Pp. 17-22.",
+  "author1": "Saputra, M. H. K. & Aprilian, L. V.,",
+  "year1": "2020",
+  "book1": "Belajar Cepat Metode Saw, Kreatif",
+  "publisher1": "Industri Nusantara, Bandung",
+  "author2": "Sari, Mardianus, Ayu, Deanis.,",
+  "year2": "2020",
+  "book2": "Tips Cerdas Bersama Python, Pontianak",
+  "author3": "Sastradipraja, C. K. & Munawar, Z.,",
+  "year3": "2022",
+  "book3": "Konsep Dasar Teknologi Web,",
+  "publisher2": "Kaizen Media Publishing, Bandung",
+  "author4": "Setiyadi, D., Retnoningsih, E., & Rofiah, S.,",
+  "year4": "2022",
+  "book4": "Database Fundamental Dan Implementasinya Dengan Mysql, Literasi Nusantara Abadi, Malang",
+  "author5": "Siahaan, V & Rismon H. S.",
+  "year5": "2019",
+  "book5": "Pemrograman Gui Python Dan Database: Wiget Pyqt, Sqlite, Mysql, Dan Grafika. Yogyakarta: Sparta Publishing.",
+  "author6": "Sianipar, R. H.",
+  "year6": "2015",
+  "book6": "Html 5 Dan Css 3: Belajar Dari Kasus (Vol. 1). Penerbit Informatika.",
+  "author7": "Sunarya, Mh & Bahit, M.",
+  "year7": "2020",
+  "book7": "Pemrograman Internet. Deepublish, Banjarmasin.",
+  "author8": "Y uniarti, W.D.,",
+  "year8": "2019",
+  "book8": "Dasar-Dasar Pemrograman Dengan Python. Deepublish.",
+  "page_number": "81"
+}
+
+
+<!-- Page Break - Batch 93 -->
+
+
+{"event": "PROKOM 25"}
