@@ -47,7 +47,7 @@ class ChatReq(BaseModel):
     message: str
     mode: str = "extractive"        # "extractive" | "ollama"
     top_k: int = 3
-    model: str = "gpt-oss:20b"      # contoh default model
+    model: str = "qwen2.5:3b"        # default model Ollama
 
 # ---- Health check
 @app.get("/health")
@@ -114,8 +114,9 @@ def chat(r: ChatReq):
         tail = "\n".join([f"{role.upper()}: {text}" for role, text in list(HIST[sid])[-6:]])
 
         if r.mode == "ollama":
-            query = f"[Riwayat singkat]\n{tail}\n\n[Pesan terbaru]\n{msg}"
-            ans = answer_ollama(query, r.top_k, model=r.model)
+            # Gunakan msg saja untuk retrieval (TF-IDF), agar tidak tercampur riwayat
+            # Tapi kirim riwayat sebagai konteks tambahan ke LLM
+            ans = answer_ollama(msg, r.top_k, model=r.model, history=tail)
         else:
             ans = answer_extractive(msg, r.top_k)
 

@@ -18,11 +18,7 @@ try:
 except Exception:
     HAVE_EXTERNAL_BUILD = False
 
-# ====== Implementasi internal build_index (backup) ======
-import numpy as np
-from sklearn.feature_extraction.text import TfidfVectorizer
-
-INDEX_FILE_DEFAULT = "index.pkl"
+INDEX_FILE_DEFAULT = "chroma_db"
 
 @dataclass
 class Chunk:
@@ -43,39 +39,49 @@ def simple_chunk_chars(text: str, max_chars: int = 450) -> List[str]:
     sentences = re.split(r'(?<=[.!?])\s+|\n+', text.strip())
     chunks, buf = [], ""
     for s in sentences:
-        cand = (buf + " " + s).strip() if buf else s
-        if len(cand) <= max_chars:
-            buf = cand
+        # Jika satu kalimat sendiri lebih panjang dari max_chars, potong paksa per kata
+        if len(s) > max_chars:
+            words = s.split()
+            for w in words:
+                cand = (buf + " " + w).strip() if buf else w
+                if len(cand) <= max_chars:
+                    buf = cand
+                else:
+                    if buf: chunks.append(buf.strip())
+                    buf = w
         else:
-            if buf: chunks.append(buf.strip())
-            buf = s
+            cand = (buf + " " + s).strip() if buf else s
+            if len(cand) <= max_chars:
+                buf = cand
+            else:
+                if buf: chunks.append(buf.strip())
+                buf = s
     if buf: chunks.append(buf.strip())
     return [c for c in chunks if c]
 
 def build_index_internal(data_path: str, index_path: str = INDEX_FILE_DEFAULT) -> None:
-    records = load_jsonl(data_path)
-    chunks: List[Chunk] = []
-    for r in records:
-        chunks.append(Chunk(doc_id=r["id"], judul=r["judul"], kategori=r["kategori"], text=r["isi"]))
+    # Backup internal sekarang mengarahkan ke rag_core jika memungkinkan
+    # karena ChromaDB + Embedding terlalu kompleks untuk backup sederhana
+    try:
+        from rag_core import build_index as bi
+        return bi(data_path, index_path)
+    except Exception:
+        raise ImportError("Gagal memuat rag_core untuk build index.")
 
-    texts = [((c.judul + " ") * 2 + c.text).strip() for c in chunks]
-    meta  = [{"doc_id": c.doc_id, "judul": c.judul, "kategori": c.kategori} for c in chunks]
-
-    vectorizer = TfidfVectorizer(ngram_range=(1, 2), lowercase=True)
-    X = vectorizer.fit_transform(texts)
-
-    with open(index_path, "wb") as f:
-        pickle.dump({"vectorizer": vectorizer, "X": X, "meta": meta, "texts": texts}, f)
-
-def build_index(data_path: str, index_path: str = INDEX_FILE_DEFAULT) -> None:
+def build_index(data_path: str, index_path: str = INDEX_FILE_DEFAULT, log_fn=None) -> None:
     if HAVE_EXTERNAL_BUILD:
-        return build_index_external(data_path, index_path)
-    return build_index_internal(data_path, index_path)
+        return build_index_external(data_path, index_path, log_fn=log_fn)
+    return build_index_internal(data_path, index_path, log_fn=log_fn)
 
 # ====== Regex & helper kebersihan ======
-SECTION_PATTERN = r"(^[A-Z][A-Z0-9 .\-]{3,}$|MODUL\s+\d+.*|^❖\s+[^\n]+|^•\s+[^\n]+|^▪\s+[^\n]+)"
+# Section pattern: hanya match header yang benar-benar section title
+# - TATA TERTIB, DAFTAR ISI, DAFTAR PUSTAKA, dll (min 8 char uppercase line)
+# - MODUL \d+ ...
+# - [*] ... (dari ❖ yang sudah di-clean)
+SECTION_PATTERN = r"(^(?:TATA TERTIB|DAFTAR PUSTAKA|DAFTAR ISI|PENDAHULUAN|PENUTUP)[^\n]*$|^MODUL\s+[IVXLCDM\d]+[^\n]*$|^\[\*\]\s+[^\n]+)"
 RE_TOC_LINE     = re.compile(r'^[A-Za-z0-9].*\.{3,}\s+\d+\s*$')
 RE_PAGE_NUM     = re.compile(r'^\s*\d+\s*$')
+RE_ROMAN        = re.compile(r'^[ivxlcdm]+$', re.IGNORECASE)
 RE_DOT_LEADERS  = re.compile(r'\.{3,}')
 RE_WS_MULTI     = re.compile(r'\s+')
 
@@ -85,14 +91,41 @@ def clean_line(s: str, drop_toc=True) -> str:
         return ""
     if drop_toc and (RE_PAGE_NUM.match(s) or RE_TOC_LINE.match(s)):
         return ""
+    if RE_ROMAN.match(s):
+        return ""
+    # Bersihkan karakter Unicode bullet agar tidak corrupt
+    s = s.replace('\u2756', '[*] ').replace('\u25aa', '[-] ').replace('\u2022', '[-] ')
     s = RE_DOT_LEADERS.sub(' ', s)
     s = RE_WS_MULTI.sub(' ', s).strip()
     if s.lower() in {"daftar isi", "table of contents"}:
         return ""
     return s
 
+def _is_continuation(prev: str, cur: str) -> bool:
+    """Cek apakah baris `cur` adalah lanjutan dari `prev` (bukan baris baru)."""
+    if not prev or not cur:
+        return False
+    # Jika prev diakhiri tanda baca akhir kalimat, bukan continuation
+    if prev[-1] in '.!?:':
+        return False
+    # Jika cur dimulai dengan bullet/marker, bukan continuation
+    if cur.startswith('[*]') or cur.startswith('[-]') or cur[0].isdigit():
+        return False
+    # Jika cur dimulai huruf besar DAN prev diakhiri koma/titik dua, itu continuation
+    # Jika cur dimulai huruf kecil, pasti continuation
+    if cur[0].islower():
+        return True
+    # Huruf besar tapi prev belum selesai kalimat → kemungkinan continuation
+    if prev[-1] in ',;':
+        return True
+    # Huruf besar di tengah kalimat (mis. "Praktikum\nPemrograman") → continuation
+    # Heuristic: jika prev tidak diakhiri titik dan cur bukan section marker
+    if not any(cur.startswith(m) for m in ['[*]', '[-]', 'MODUL', 'TATA', 'DAFTAR']):
+        return True
+    return False
+
 def read_pdf_text(path: str, drop_toc=True) -> str:
-    lines: List[str] = []
+    raw_lines: List[str] = []
     if HAVE_FITZ:
         doc = fitz.open(path)
         for p in doc:
@@ -100,7 +133,7 @@ def read_pdf_text(path: str, drop_toc=True) -> str:
             for raw in text.splitlines():
                 s = clean_line(raw, drop_toc=drop_toc)
                 if s:
-                    lines.append(s)
+                    raw_lines.append(s)
     else:
         reader = PdfReader(path)
         for p in reader.pages:
@@ -108,12 +141,23 @@ def read_pdf_text(path: str, drop_toc=True) -> str:
             for raw in text.splitlines():
                 s = clean_line(raw, drop_toc=drop_toc)
                 if s:
-                    lines.append(s)
-    return "\n".join(lines)
+                    raw_lines.append(s)
+
+    # Merge continuation lines (gabungkan baris yang terpotong oleh PDF wrapping)
+    merged: List[str] = []
+    for line in raw_lines:
+        if merged and _is_continuation(merged[-1], line):
+            merged[-1] = merged[-1] + " " + line
+        else:
+            merged.append(line)
+    return "\n".join(merged)
 
 def split_sections(fulltext: str) -> List[Tuple[str, str]]:
-    parts = re.split(SECTION_PATTERN, fulltext, flags=re.IGNORECASE)
+    parts = re.split(SECTION_PATTERN, fulltext, flags=re.IGNORECASE | re.MULTILINE)
     sections = []
+    # Tangkap teks sebelum section pertama agar tidak hilang
+    if parts and parts[0].strip():
+        sections.append(("PENDAHULUAN", parts[0].strip()))
     for i in range(1, len(parts), 2):
         title = parts[i].strip()
         content = parts[i+1].strip() if i+1 < len(parts) else ""
@@ -124,9 +168,9 @@ def split_sections(fulltext: str) -> List[Tuple[str, str]]:
         sections.append(("ISI DOKUMEN", fulltext))
     return sections
 
-RE_NUM_ITEM   = re.compile(r"^\s*\d+[\.\)]\s+")
-RE_ALPHA_ITEM = re.compile(r"^\s*[a-zA-Z][\.\)]\s+")
-RE_BULLET     = re.compile(r"^\s*[•\-▪❖]\s+")
+RE_NUM_ITEM   = re.compile(r"^\s*\d+[\.)\)]\s+")
+RE_ALPHA_ITEM = re.compile(r"^\s*[a-zA-Z][\.)\)]\s+")
+RE_BULLET     = re.compile(r"^\s*(\[-\]|\[\*\]|[•\-▪❖])\s+")
 
 def chunk_list_aware(text: str, max_chars: int = 450) -> List[str]:
     lines = [ln.strip() for ln in text.splitlines() if ln.strip()]
@@ -158,7 +202,15 @@ def chunk_list_aware(text: str, max_chars: int = 450) -> List[str]:
             if cur: chunks.append(cur)
             cur = it
     if cur: chunks.append(cur)
-    return chunks
+
+    # Safety net: sub-chunk any item yang masih terlalu besar
+    final_chunks = []
+    for ch in chunks:
+        if len(ch) > max_chars:
+            final_chunks.extend(simple_chunk_chars(ch, max_chars=max_chars))
+        else:
+            final_chunks.append(ch)
+    return final_chunks
 
 def guess_category(title: str) -> str:
     t = (title or "").lower()
@@ -225,9 +277,10 @@ class BuildWorker(QtCore.QThread):
 
     def run(self):
         try:
-            self.log.emit(f"🔧 Build index dari {self.jsonl_path} → {self.index_path}")
-            build_index(self.jsonl_path, self.index_path)
-            self.done.emit(f"[OK] Index siap: {self.index_path}")
+            self.log.emit(f"🔧 Build index (Embedding) dari {self.jsonl_path} → {self.index_path}")
+            # Kirim log progress dari build_index ke GUI
+            build_index(self.jsonl_path, self.index_path, log_fn=self.log.emit)
+            self.done.emit(f"[OK] Index (ChromaDB) siap di: {self.index_path}")
         except Exception as e:
             self.error.emit(f"❌ Build index gagal: {e}\n{traceback.format_exc()}")
 
@@ -252,7 +305,7 @@ class MainWindow(QtWidgets.QWidget):
         self.chk_clean_toc.setChecked(True)
 
         self.index_path = QtWidgets.QLineEdit(INDEX_FILE_DEFAULT)
-        self.btn_pick_index = QtWidgets.QPushButton("Pilih index.pkl…")
+        self.btn_pick_index = QtWidgets.QPushButton("Pilih folder index…")
         self.btn_convert = QtWidgets.QPushButton("Convert ke JSONL")
         self.btn_build = QtWidgets.QPushButton("Build Index sekarang")
         self.log = QtWidgets.QPlainTextEdit(); self.log.setReadOnly(True)
@@ -317,9 +370,8 @@ class MainWindow(QtWidgets.QWidget):
             self.out_jsonl.setText(f)
 
     def on_pick_index(self):
-        f, _ = QtWidgets.QFileDialog.getSaveFileName(self, "Simpan index.pkl", self.index_path.text(), "Pickle (*.pkl)")
+        f = QtWidgets.QFileDialog.getExistingDirectory(self, "Pilih Folder Index", self.index_path.text())
         if f:
-            if not f.lower().endswith(".pkl"): f += ".pkl"
             self.index_path.setText(f)
 
     def on_convert(self):
@@ -372,8 +424,15 @@ class MainWindow(QtWidgets.QWidget):
         self._append(msg); self.progress.hide(); self.btn_convert.setEnabled(True); self.btn_build.setEnabled(True)
 
     def _append(self, s: str):
-        self.log.appendPlainText(s)
-        self.log.verticalScrollBar().setValue(self.log.verticalScrollBar().maximum())
+        try:
+            self.log.appendPlainText(s)
+            self.log.verticalScrollBar().setValue(self.log.verticalScrollBar().maximum())
+            # Force print ke console agar bisa dilacak jika crash
+            print(f"LOG: {s}")
+            import sys
+            sys.stdout.flush()
+        except Exception as e:
+            print(f"CRITICAL: Gagal append log: {e}")
 
     def _in_list(self, path: str) -> bool:
         for i in range(self.pdf_list.count()):
